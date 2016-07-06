@@ -6,7 +6,8 @@ output: html_document
 
 # Porites astreoites microarray
 
-Script used to generate this document: 
+Script used to generate this document:
+https://github.com/ljcohen/Porites_astreoites_larvae_salinity/blob/master/microarray/Past_salinity_2016-07-01_featureAVG_probeset_analysis.Rmd
 
 Import R/Bioconductor libraries, set path to directory where raw data files are located, and overLapper venn diagram script:
 
