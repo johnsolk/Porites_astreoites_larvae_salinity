@@ -1,0 +1,183 @@
+General steps, modified from khmer-protocols (Eel-pond protocol) for annotating de novo transcriptome assembly of nonmodel species (without reference): 
+
+https://khmer-protocols.readthedocs.org/en/v0.8.4/mrnaseq/
+
+Aligning contigs to scaffold, then expression analysis.
+
+1. De novo transcriptome scaffold .fa files:
+- Trinity
+/ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/sge_files/trinity_out_dir/Trinity.fasta
+/Users/cohenl06/Documents/HBOI/salinity/Trinity.fasta
+cp /Users/cohenl06/Documents/HBOI/salinity/Trinity.fasta /Users/cohenl06/Documents/HBOI/salinity/p_ast-salinity.raw.fa
+- Soapdenovo
+/ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/soapdenovotrans/outputGraph.scafSeq
+/Users/cohenl06/Documents/HBOI/salinity/soapdenovo/outputGraph.scafSeq
+cp /Users/cohenl06/Documents/HBOI/salinity/soapdenovo/outputGraph.scafSeq /Users/cohenl06/Documents/HBOI/salinity/soapdenovo/p_ast-salinity.raw.fa
+- Baseclear-Trinity
+does not exist!
+
+2. Use eel-pond and khmer py scripts to annotate with proteins = .fa
+
+# This will create a set of files all with common name "salinity"
+# this is a khmer script:
+
+do-partition.py \
+-x 1e9 \
+-N 4 \
+/Users/cohenl06/Documents/HBOI/salinity/trinity/salinity \
+/Users/cohenl06/Documents/HBOI/salinity/trinity/p_ast-salinity.raw.fa
+
+do-partition.py \
+-x 1e9 \
+-N 4 \
+/Users/cohenl06/Documents/HBOI/salinity/soapdenovo/salinity \
+/Users/cohenl06/Documents/HBOI/salinity/soapdenovo/p_ast-salinity.raw.fa
+
+cd /Users/cohenl06/Documents/HBOI/salinity/trinity/
+python /Users/cohenl06/Library/Enthought/Canopy_64bit/User/lib/python2.7/site-packages/eel-pond/rename-with-partitions.py salinity p_ast-salinity.raw.fa.part
+gunzip p_ast-salinity.raw.fa.part.renamed.fasta.gz
+mv p_ast-salinity.raw.fa.part.renamed.fasta trinity-p_ast-salinity.renamed.fa
+
+cd /Users/cohenl06/Documents/HBOI/salinity/soapdenovo/
+python /Users/cohenl06/Library/Enthought/Canopy_64bit/User/lib/python2.7/site-packages/eel-pond/rename-with-partitions.py salinity p_ast-salinity.raw.fa.part
+gunzip p_ast-salinity.raw.fa.part.renamed.fasta.gz
+mv p_ast-salinity.raw.fa.part.renamed.fasta soapdenovotrans-p_ast-salinity.renamed.fa
+
+
+# switch to phoenix cluster
+# submit shell scripts
+
+module load blast
+cd /ifs/home/cohenl06/data/reference/cnidarian/P_ast/
+formatdb -i Anthozoa_class_UNIPROT_March2015.fasta -o T -p T
+cd /ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/
+formatdb -i trinity-p_ast-salinity.renamed.fa -o T -p F
+
+cd /ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/soapdenovotrans
+formatdb -i /ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/soapdenovotrans/soapdenovotrans-p_ast-salinity.renamed.fa -o T -p F
+
+/ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/blast/blastall_Past-v-Anth.sh
+/ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/soapdenovotrans/blast/blastall_Past-v-Anth.sh
+#!/bin/bash
+#$ -S /bin/bash
+#$ -cwd
+#$ -M lisa.cohen@nyumc.org
+#$ -m ae
+module load blast
+blastall \
+-i /ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/trinity-p_ast-salinity.renamed.fa \
+-d /ifs/home/cohenl06/data/reference/cnidarian/P_ast/Anthozoa_class_UNIPROT_March2015.fasta \
+-e 1e-3 \
+-p blastx \
+-o /ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/blast/p_ast.x.mouse \
+-a 8 \
+-v 4 \
+-b 4
+
+/ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/blast/blastall_Anth-v-Past.sh
+/ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/soapdenovotrans/blast/blastall_Anth-v-Past.sh
+#!/bin/bash
+#$ -S /bin/bash
+#$ -cwd
+#$ -M lisa.cohen@nyumc.org
+#$ -m ae
+module load blast
+blastall \
+-i /ifs/home/cohenl06/data/reference/cnidarian/P_ast/Anthozoa_class_UNIPROT_March2015.fasta \
+-d /ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/trinity-p_ast-salinity.renamed.fa \
+-e 1e-3 \
+-p tblastn \
+-o /ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/blast/mouse.x.nema \
+-a 8 \
+-v 4 \
+-b 4
+
+
+# when blastall finishes, transfer p_ast.x.mouse and mouse.x.p_ast files back to local
+
+cd /Users/cohenl06/Documents/HBOI/salinity/trinity/blast/
+python /Users/cohenl06/Library/Enthought/Canopy_64bit/User/lib/python2.7/site-packages/eel-pond/make-uni-best-hits.py p_ast.x.mouse p_ast.x.mouse.homol
+python /Users/cohenl06/Library/Enthought/Canopy_64bit/User/lib/python2.7/site-packages/eel-pond/make-reciprocal-best-hits.py p_ast.x.mouse mouse.x.p_ast p_ast.x.mouse.ortho
+
+python /Users/cohenl06/Library/Enthought/Canopy_64bit/User/lib/python2.7/site-packages/eel-pond/make-namedb.py /Users/cohenl06/Documents/HBOI/Anthozoa_class_UNIPROT_March2015.fasta /Users/cohenl06/Documents/HBOI/salinity/trinity/blast/mouse.namedb
+
+python -m screed.fadbm /Users/cohenl06/Documents/HBOI/Anthozoa_class_UNIPROT_March2015.fasta
+# Database saved in /Users/cohenl06/Documents/HBOI/Anthozoa_class_UNIPROT_March2015.fasta_screed
+
+python /Users/cohenl06/Library/Enthought/Canopy_64bit/User/lib/python2.7/site-packages/eel-pond/annotate-seqs.py \
+/Users/cohenl06/Documents/HBOI/salinity/trinity/trinity-p_ast-salinity.renamed.fa \
+/Users/cohenl06/Documents/HBOI/salinity/trinity/blast/p_ast.x.mouse.ortho \
+/Users/cohenl06/Documents/HBOI/salinity/trinity/blast/p_ast.x.mouse.homol
+
+
+
+3. Merge transcriptome with Matz's = .fa using gaa.pl (Don't do this, doesn't work!)
+
+/ifs/home/cohenl06/bin/gaa.pl
+/Users/cohenl06/bin/gaa.pl
+
+perl /Users/cohenl06/bin/gaa.pl \
+-t /Users/cohenl06/Documents/HBOI/salinity/trinity/blast/merged_UNIPROT_Matz/p_ast-salinity-trinity.annot.fa \
+-q /Users/cohenl06/Documents/HBOI/matz/past.fasta
+
+
+
+- merge Matz+Anthozoa (x 3 for each assembly scaffold)
+/Users/cohenl06/Documents/HBOI/matz/past.fasta
+
+
+4. Map reads to reference transcriptomes with Bowtie = .bam
+Use these different reference transcriptomes:
+
+- merged Matz/Anthozoa (x 2)
+- Matz
+- Anthozoa (x 2)
+
+# copy p_ast-salinity-trinity.annot.fa to phoenix cluster
+module load bowtie/0.12.9
+bowtie-build \
+/ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/bowtie/p_ast-salinity-trinity.annot.fa \
+/ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/bowtie/p_ast-salinity-trinity
+
+
+module load bowtie/0.12.9
+bowtie \
+-v 2 \
+-m 1 \
+-S \
+/ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/bowtie/p_ast-salinity-trinity \
+-1 /ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/baseclear/raw_sequences/35ppt_ACTGAT_L003_R1_001_AD1H1RACXX.filt.fastq \
+-2 /ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/baseclear/raw_sequences/35ppt_ACTGAT_L003_R2_001_AD1H1RACXX.filt.fastq \
+/ifs/home/cohenl06/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/bowtie/p_ast_35ppt.sam
+
+
+5. Filter non-multimappers with: https://www.biostars.org/p/110873/
+samtools view -q 2 -Sb foo.bam > foo.filtered
+
+module load samtools
+cd ~/data/sequencing/hboi/NGS/P_astreoides_salinity_exposure/trinity/bowtie
+samtools view -q 2 -o p_ast_25ppt_single.filtered.bam -Sb p_ast_25ppt_single.sam 
+samtools sort p_ast_25ppt_single.filtered.bam p_ast_25ppt_single.filtered.sorted
+samtools index p_ast_25ppt_single.filtered.sorted.bam
+samtools idxstats p_ast_25ppt_single.filtered.sorted.bam > p_ast_25ppt_idxstats.txt
+
+samtools view -q 2 -o p_ast_30ppt_single.filtered.bam -Sb p_ast_30ppt_single.sam 
+samtools sort p_ast_30ppt_single.filtered.bam p_ast_30ppt_single.filtered.sorted
+samtools index p_ast_30ppt_single.filtered.sorted.bam
+samtools idxstats p_ast_30ppt_single.filtered.sorted.bam > p_ast_30ppt_idxstats.txt
+
+samtools view -q 2 -o p_ast_35ppt_single.filtered.bam -Sb p_ast_35ppt_single.sam 
+samtools sort p_ast_35ppt_single.filtered.bam p_ast_35ppt_single.filtered.sorted
+samtools index p_ast_35ppt_single.filtered.sorted.bam
+samtools idxstats p_ast_35ppt_single.filtered.sorted.bam > p_ast_35ppt_idxstats.txt
+
+sort and index the result 
+use samtools idxstats file, counts in 3rd column
+Use this matrix as counts input for edgeR
+
+6. edgeR with dispersion appropriate for wild population, similar to human? 0.4
+also try limma with RSEM data
+The idea is to compare expression of each sample. 
+Want program that will be best with no replicates.
+edgeR takes counts as input
+RSEM data are FPKM
