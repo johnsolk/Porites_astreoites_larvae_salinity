@@ -6,7 +6,8 @@ output: html_document
 
 # Porites astreoites microarray
 
-Script used to generate this document: 
+Script used to generate this document:
+https://github.com/ljcohen/Porites_astreoites_larvae_salinity/blob/master/microarray/Past_salinity_2016-07-01_featureAVG_probeset_analysis.Rmd
 
 Import R/Bioconductor libraries, set path to directory where raw data files are located, and overLapper venn diagram script:
 
@@ -33,17 +34,17 @@ rownames(salinity_dataframe_sort)<-salinity_dataframe_sort$RefNumber
 #head(salinity_dataframe_sort)
 #colnames(salinity_dataframe_sort)
 #head(salinity_dataframe_sort)
-#dim(salinity_dataframe_sort)
+dim(salinity_dataframe_sort)
 ```
 
 Get rid of data that were flagged "BAD" = -100. Dimensions should be 15732 x 16:
 ```{r,echo=FALSE, message=FALSE, warning=FALSE}
 salinity.data.filtered.flags <- salinity_dataframe_sort[salinity_dataframe_sort$Flags!=-100,]
 #head(salinity.data.filtered.flags)
-#dim(salinity.data.filtered.flags)
+dim(salinity.data.filtered.flags)
 ```
 
-Import annotations file. Dimensions should be 15744 x 16:
+Import and merge annotations file.
 ```{r,echo=FALSE, message=FALSE, warning=FALSE}
 annotation<-read.csv("FeatAnnotFile_SEE_10-18-12.csv")
 annotation.filtered<-annotation[,][match(rownames(salinity.data.filtered.flags),annotation$RefNumber),]

@@ -123,10 +123,13 @@ $(document).ready(function () {
 
 <div id="porites-astreoites-microarray" class="section level1">
 <h1>Porites astreoites microarray</h1>
+<p>Script used to generate this document: <a href="https://github.com/ljcohen/Porites_astreoites_larvae_salinity/blob/master/microarray/Past_salinity_2016-07-01_featureAVG_probeset_analysis.Rmd" class="uri">https://github.com/ljcohen/Porites_astreoites_larvae_salinity/blob/master/microarray/Past_salinity_2016-07-01_featureAVG_probeset_analysis.Rmd</a></p>
 <p>Import R/Bioconductor libraries, set path to directory where raw data files are located, and overLapper venn diagram script:</p>
 <p>F532 Median - B532 data were manually extracted from GenePix .txt files, all samples compiled together manually into .csv. (In the future, data extraction can be automated. We no longer have the original .txt files.) Dimensions should be 15744 x 16:</p>
+<pre><code>## [1] 15744    16</code></pre>
 <p>Get rid of data that were flagged “BAD” = -100. Dimensions should be 15732 x 16:</p>
-<p>Import annotations file. Dimensions should be 15744 x 16:</p>
+<pre><code>## [1] 15732    16</code></pre>
+<p>Import and merge annotations file.</p>
 <pre><code>## [1] 15732    23</code></pre>
 <p>MA plot for an example unnormalized array. This shows a relationship between M and A. According to the limma manual, background correction within the array is needed. (Even though values are F532 Median - B532)</p>
 <pre><code>##  [1] &quot;spot&quot;                           &quot;Flags&quot;                         
