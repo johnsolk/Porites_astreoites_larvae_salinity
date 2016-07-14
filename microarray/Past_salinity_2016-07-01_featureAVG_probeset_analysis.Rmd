@@ -56,14 +56,13 @@ annotation.filtered<-annotation[,][match(rownames(salinity.data.filtered.flags),
 dim(annotation.filtered)
 ```
 
-MA plot for an example unnormalized array. This shows a relationship between M and A. According to the limma manual, background correction within the array is needed. (Even though values are F532 Median - B532) 
 ```{r,echo=FALSE, message=FALSE, warning=FALSE}
 #dim(salinity.data.filtered.flags)
 colnames(salinity.data.filtered.flags)
 tmp_data<-salinity.data.filtered.flags[,c(8:16)]
 #dim(tmp_data)
 #head(salinity.data.filtered.flags)
-plotMD(tmp_data)
+#plotMD(tmp_data)
 ```
 
 Remove controls, display number of annotations that are not controls. Should be 12,354:
@@ -85,7 +84,7 @@ u<-unique(salinity.data.filtered$ID)
 #length(u)
 salinity.data.probe.rep<-aggregate(salinity.data.filtered[,c(8:16)], by=salinity.data.filtered['ID'], mean)
 #class(salinity.data.probe.rep)
-#dim(salinity.data.probe.rep)
+dim(salinity.data.probe.rep)
 ```
 
 Example ID syntax: CUST_3_PI426266566
@@ -103,7 +102,7 @@ x<-unique(salinity.data.filtered$Name)
 salinity.probeset.group<-aggregate(salinity.data.filtered[,c(8:16)], by=list(sapply(strsplit(as.character(salinity.data.filtered$ID),'_',fixed=TRUE),"[",3)), mean)
 #dim(salinity.probeset.group)
 salinity.probeset.name<-aggregate(salinity.data.filtered[,c(8:16)], by=salinity.data.filtered['Name'], mean)
-#dim(salinity.probeset.name)
+dim(salinity.probeset.name)
 ```
 
 Analyze data collapsed by name = salinity.probeset.name. This is "probeset" = same trancript/gene. Mean of intensities for all matching third position:
@@ -119,6 +118,7 @@ rownames(salinity.probeset.name)<-gsub("[[:space:]]", "",salinity.probeset.name$
 #colnames(salinity.probeset.name)
 # Remove Name so data frame is only data:
 salinity.data<-salinity.probeset.name[,c(2:10)]
+salinity.data<-salinity.data[,-9]
 #colnames(salinity.data)
 #head(salinity.data)
 ```
@@ -191,12 +191,12 @@ PCA
 # PCA
 x<-norm.data.filtered
 colnames(x)
-colnames(x)<-c("sal25ppt_A","sal25ppt_B","sal25ppt_C","sal30ppt_A","sal30ppt_B","sal30ppt_C","sal35ppt_A","sal35ppt_B","sal35ppt_C")
+colnames(x)<-c("sal25ppt_A","sal25ppt_B","sal25ppt_C","sal30ppt_A","sal30ppt_B","sal30ppt_C","sal35ppt_A","sal35ppt_B")
 colnames(x)
 pca = prcomp(t(x))
 names = colnames(x)
 #fac = factor(sapply(names,function(x){strsplit(x,'Rep')[[1]][1]}))
-fac= factor(c("sal25ppt","sal25ppt","sal25ppt","sal30ppt","sal30ppt","sal30ppt","sal35ppt","sal35ppt","sal35ppt"))
+fac= factor(c("sal25ppt","sal25ppt","sal25ppt","sal30ppt","sal30ppt","sal30ppt","sal35ppt","sal35ppt"))
 colours = c("red","blue","green")
 xyplot(
   PC2 ~ PC1, groups=fac, data=as.data.frame(pca$x), pch=16, cex=1.5,
@@ -222,10 +222,13 @@ experimentData<-new("MIAME",name="Sara Edge, Lisa Cohen, Ana María González An
                     title="Porites astreoides larvae actuve salinity exposure: 25 ppt, 30 ppt, 35 ppt",
                     abstract="ExpressionSet for P. astreoides Microarray Data",
                     other=list(notes="Extracted from raw data with GenePixPro software"))
-sample_type<-c("sal25ppt","sal25ppt","sal25ppt","sal30ppt","sal30ppt","sal30ppt","sal35ppt","sal35ppt","sal35ppt")
+#sample_type<-c("sal25ppt","sal25ppt","sal25ppt","sal30ppt","sal30ppt","sal30ppt","sal35ppt","sal35ppt","sal35ppt")
+# remove: "c253295110054_ar2_jul1112_C_C"
+sample_type<-c("sal25ppt","sal25ppt","sal25ppt","sal30ppt","sal30ppt","sal30ppt","sal35ppt","sal35ppt")
+
 sample_name<-c("c253295110048_ar2_jun1912_A_SL","c253295110048_ar1_jun1912_B_SL","c253295110048_ar4_jun1912_C_SL",
                "c253295110048_ar3_jun1912_A_L","c253295110048_ar6_jun1912_B_L","c253295110048_ar5_jun1912_C_L",
-               "c253295110048_ar8_jun1912_A_C","c253295110048_ar7_jun1912_B_C","c253295110054_ar2_jul1112_C_C")
+               "c253295110048_ar8_jun1912_A_C","c253295110048_ar7_jun1912_B_C")
 sample_info<-cbind(sample_type,sample_name)
 sample_info<-as.data.frame(sample_info)
 rownames(sample_info)<-sample_name
@@ -238,22 +241,22 @@ pd<-new("AnnotatedDataFrame",data=sample_info)
 salinity_ExpressionSet_filtered<-new("ExpressionSet",exprs=norm.data.filtered,phenoData=pd,experimentData=experimentData,featureData=an)
 #arrayQualityMetrics(expressionset = salinity_ExpressionSet_filtered,outdir = "salinity_ArrayQualityMetrics_log_collapsed_by_transcriptName_loessnorm_filtered_one35pptoutlierremoved",force = TRUE,intgroup = c("sample_type"),do.logtransform=FALSE)
 ###
-design <- model.matrix(~ 0+factor(c(1,1,1,2,2,2,3,3,3)))
+design <- model.matrix(~ 0+factor(c(1,1,1,2,2,2,3,3)))
 colnames(design) <- c("sal35ppt", "sal30ppt", "sal25ppt")
-#design
+design
 fit <- lmFit(salinity_ExpressionSet_filtered,design)
-contrast.matrix <- makeContrasts(sal25ppt-sal30ppt, sal25ppt-sal35ppt, levels=design)
+contrast.matrix <- makeContrasts(sal25ppt-sal30ppt, sal25ppt-sal35ppt, sal30ppt-sal35ppt, levels= design)
 #contrast.matrix
 fit2 <- contrasts.fit(fit, contrast.matrix)
 fit2 <- eBayes(fit2)
-#fit2
+fit2
 tt_25ppt_v_30ppt<-topTable(fit2,coef="sal25ppt - sal30ppt", n=1000,adjust="BH")
 tt_25ppt_v_35ppt<-topTable(fit2,coef="sal25ppt - sal35ppt",n=1000,adjust="BH")
-tt_30ppt_v_35ppt<-topTable(fit2,coef="sal25ppt - sal30ppt",n=1000,adjust="BH")
+tt_30ppt_v_35ppt<-topTable(fit2,coef="sal30ppt - sal35ppt",n=1000,adjust="BH")
 #colnames(tt_25ppt_v_30ppt)
 norm.data.reps<-cbind(norm.data.filtered,rownames(norm.data.filtered))
 #dim(norm.data.reps)
-colnames(norm.data.reps)<-c("c253295110048_ar2_jun1912_A_SL","c253295110048_ar1_jun1912_B_SL","c253295110048_ar4_jun1912_C_SL",                  "c253295110048_ar3_jun1912_A_L","c253295110048_ar6_jun1912_B_L","c253295110048_ar5_jun1912_C_L", "c253295110048_ar8_jun1912_A_C","c253295110048_ar7_jun1912_B_C","c253295110054_ar2_jul1112_C_C","Name")
+colnames(norm.data.reps)<-c("c253295110048_ar2_jun1912_A_SL","c253295110048_ar1_jun1912_B_SL","c253295110048_ar4_jun1912_C_SL",                  "c253295110048_ar3_jun1912_A_L","c253295110048_ar6_jun1912_B_L","c253295110048_ar5_jun1912_C_L", "c253295110048_ar8_jun1912_A_C","c253295110048_ar7_jun1912_B_C","Name")
 #colnames(norm.data.reps)
 #head(norm.data.reps)
 ```
@@ -268,9 +271,9 @@ tt_30ppt_v_35ppt_reps<-merge(norm.data.reps,tt_30ppt_v_35ppt,by="Name")
 #write.csv(tt_25ppt_v_30ppt_reps,"P_ast_microarray_25pptvs30ppt_reps_byName_quantile.csv")
 #write.csv(tt_25ppt_v_35ppt_reps,"P_ast_microarray_25pptvs35ppt_reps_byName_quantile.csv")
 # filter by padj<0.25
-tt_25ppt_v_30ppt_sig<-subset(tt_25ppt_v_30ppt_reps,tt_25ppt_v_30ppt_reps$adj.P.Val<0.25)
-tt_25ppt_v_35ppt_sig<-subset(tt_25ppt_v_35ppt_reps,tt_25ppt_v_35ppt_reps$adj.P.Val<0.25)
-tt_30ppt_v_35ppt_sig<-subset(tt_30ppt_v_35ppt_reps,tt_30ppt_v_35ppt_reps$padj.P.Val<0.25)
+tt_25ppt_v_30ppt_sig<-subset(tt_25ppt_v_30ppt_reps,tt_25ppt_v_30ppt_reps$adj.P.Val<0.05)
+tt_25ppt_v_35ppt_sig<-subset(tt_25ppt_v_35ppt_reps,tt_25ppt_v_35ppt_reps$adj.P.Val<0.05)
+tt_30ppt_v_35ppt_sig<-subset(tt_30ppt_v_35ppt_reps,tt_30ppt_v_35ppt_reps$padj.P.Val<0.05)
 tt_25ppt_v_30ppt_sig<-tt_25ppt_v_30ppt_sig[order(-tt_25ppt_v_30ppt_sig$adj.P.Val),]
 tt_25ppt_v_35ppt_sig<-tt_25ppt_v_35ppt_sig[order(-tt_25ppt_v_35ppt_sig$adj.P.Val),]
 tt_30ppt_v_35ppt_sig<-tt_30ppt_v_35ppt_sig[order(-tt_30ppt_v_35ppt_sig$adj.P.Val),]
@@ -284,6 +287,7 @@ logFC_1<-subset(tt_25ppt_v_35ppt_sig,logFC< -1 | logFC>1)
 #dim(logFC_1)
 #write.csv(logFC_1,"P_ast_salinity_67sig_logFC1.csv")
 #write.csv(logFC_1,"P_ast_salinity_54sig_logFC1.csv")
+write.csv(logFC_1,"P_ast_salinity_sig_logFC1.csv")
 setlist <- list(sal25ppt_v_sal30ppt_padj0.25=as.vector(tt_25ppt_v_30ppt_sig$Name),sal25ppt_v_sal35ppt_padj0.25=as.vector(tt_25ppt_v_35ppt_sig$Name),sal25ppt_v_sal35ppt_padj0.25=as.vector(tt_25ppt_v_30ppt_sig$Name))
 OLlist <- overLapper(setlist=setlist, sep="", type="vennsets")
 counts <- sapply(OLlist$Venn_List, length)
@@ -308,7 +312,7 @@ clusterCols <- rainbow(length(unique(mycl)))
 myClusterSideBar <- clusterCols[mycl]
 myheatcol <- greenred(75)
 #png("Salinity_heatmap_1.png", width = 7*300,height = 7*300,res = 1200,pointsize = 2)
-heatmap.2(d, main="25ppt vs. 35 ppt (padj<0.25,log2FC+-1)", 
+heatmap.2(d, main="25ppt vs. 35 ppt (padj<0.05,log2FC+-1)", 
           Rowv=as.dendrogram(hr),
           cexRow=0.5,cexCol=1,srtCol= 90,
           adjCol = c(NA,0),offsetCol=2, 
