@@ -1,0 +1,163 @@
+I run another anova on dec 6 continuing the analysis we started yesterdy with sara. we got good results yesterday indicating that the control 
+and low salinity group and the super low salinity is the more different one.
+That first anova with good results is on a folder within the loess folder but some of its results are in the "recoded and no NA" folder.
+so, in order to keep consistency i will work a new folder called anova dec 6 or something like that. in this folder i will run a new anova 
+with the same parameters as before but including the interaction between colony and treatment. 
+the results have to be discussed in depth. check that you make sure how to get the results. check the table the anova gives you.  
+
+the anova we got yesterday had no "difference chooser".
+
+Oh well so i run it again and guess what? I have an error as usual. it doesnt show me any data. it says that no significant differentes 
+were found at cutoff = 2.5. i think i should keep consistency, maybe try 3 and stick to it. sara mentioned to stick to the loess. 
+
+so, what tests can help me answer my question? there are more tests than anova. 
+
+There are many possibilities to analyze my data. I can run some different tests that will provide me with a better understanding of my coral samples. 
+
+I have to review my stats classes notes but also, I have to study the microarray reports and the microarray data itself. For instance, become familiar with the functional groups and the genes.  
+
+For both experiments the general analyses structure is
+	raw data, recoded, no NA
+	raw distribution analysis
+	dataset file conversions
+		mvi
+		log2
+		loess (Or IQR, or Mean, median...) 
+			QC
+			ANOVA		
+				trt; col; trt|col	
+				there are many possible combinations: 
+					color in experimental tab
+					class variables in anova, fixed effects and lsmeans
+					p value cut off
+					simple differences vs allpairwise
+					PCA
+				How many significantly distint genes each condition has? Table
+				How many significantly distint genes overlap among condition with a treatment?
+				Overall the ANOVA allows detecting the significant and differently expressed genes that ultimately define the patters, signatures or gene expression profiles associated with each treatment/condition.  
+				Also, by adding the colony I can test wheater the colony adds variability or not. I have found that there isn't much variabilitty due o the colonies but my results are very preliminary.	
+				Ultimately I want to quantify how much stressed the larvae are to anticipate if they would be successfull transitioning to more advanced life stages, so, what can I antricipate with the data set I have?			
+
+			TK HSD
+				Depending on comparisons. Many comparisons possible. Try as much as you can. What answers best my questions?
+
+Dec 13 and 14
+
+1) Does the colony add variance? Run the interaction, with the same criteria than before. Compare. 
+l	I tried running this one before but it showed an error several times. Then, I ran it again and got results but it shows less rows. I was using the same script as before and I made
+	sure I was using the same parameters. It's too confusing so I will run it again from a scratch.  
+	This anova from a scratch includes:	EDDS file (fake array file. this one hasn't been changed)
+						Clean Annotation file (from the features december, CLEAN annotation file folder)
+						All raw data dec5 (recoded and no NA; log 2 and loess)	C:\Users\sedge4\Documents\stressed larvae JMP\salinity\recoded and no NA\QC\loess\all_raw_data_salinity_dec5_m_lnm.sas7bdat
+						Run it three times: trt only, trt and col, trt|col (trt, col, trtxcol)
+
+
+2) Many spots are controls or "empty". These are more data that we are not interested in. We only want the expression of the "false" but actually "true" sequences. In order to eliminate these empty features Sara deleted the  
+empty spots and averaged the features. There are three features per probe.Therefore, there is a new edited and averaged file and a new matching annotation file.
+	This anova from a scratch includes:	EDDS file (fake array file. this one hasn't been changed)
+						agilent_probe_annot_clean_12_11_.sas7bdat(averaged probes, available at clean averaged probes annot folder)
+						probe norm larvae sal.jmp (log2 and loess normalized file with averaged probes)	
+						Run it three times: trt only, trt and col, trt|col (trt, col, trtxcol)
+
+
+There are several different comparisons to be done:
+	-trt vs col trt vs col|trt 
+	-total spots vs averaged probes	
+Follow the same criteria as before in order to compare. For now: no PCA, no difference chooser, cutoff 2.5 and simple differences
+
+Each anova has several output results: 	table with significantly expressed genes 
+					Venn Diagram (overlapping)
+					HC (tongue twister: dendrogram. This is the visual representation of the previous two. It will show the results based on the samples. Change so you can see it by treatment)
+					TK is actually another test the differences within the signicant genes subset
+
+
+
+Dec 16
+
+I run the colony and trt interaction features anova. The results are in th folder "ANOVA dec 16. Same script as dec 5 but interaction"
+
+Comments:
+
+	This anova from a scratch includes:	EDDS file (fake array file. this one hasn't been changed): no comments
+						Clean Annotation file (from the features december, CLEAN annotation file folder): the correct accession number column was deleted when cleaning the annotation file. So, I use the NCBI accession number instead. I noticed this on dec 5, it's in my notes. 
+						All raw data dec5 (recoded and no NA; log 2 and loess): It's here C:\Users\sedge4\Documents\stressed larvae JMP\salinity\recoded and no NA\QC\loess\all_raw_data_salinity_dec5_m_lnm.sas7bdat
+						Run it three times: trt only, trt and col, trt|col (trt, col, trtxcol)
+
+This is a tough one. It shows 12890 rows, which is good but there are no data. I try adding the samples as "variables to be clustered" and get the same results. 
+Since I wanted to add the interaction I pick trt and colony in the EDDS tab. I do the same in the class variables in the anova tab. I write trt|col in the fixed effects and LS means.
+I have tons of notes of all the combinations I tried. I ran again our good anova from dec 5 and added the trt*col but it doesnt like it. Dunno, I may be wrong but I think the interaction should be tested although I dont think there is much variability due to the colony.
+
+I remove trt to see the colony variability... but this is not exactly what I want. I got an anova, HC, significant genes table and list. So, I can get it to work, just not with the interaction. 
+
+
+Dec 17
+
+I check the probes anova that I ran the other day. I ran multiple combinations and agreed with Sara that trt col without interaction is the best one. 
+Now I have to compare the anovas and proceed with other analysis: work, work, work!
+
+Dec 18
+
+I ran again the anova "from dec 5" because I had so many anova folders that it was confusing. I got it with the same results as before but named it "anova dec 17 features" instead. It's here: 
+salinity/recoded and no NA/anova dec 17 features
+
+Now I have to do 3 things:
+	1) Compare the features and probe anovas. 
+	2) Continue further analysis: "error bar graphs", TK, K means 
+	3) Write results and repeat all this with the temp/uv experiment. 
+
+So, what anova answers best our question? We want to quantify the stress response in order to determine the likelihood of successfully developing coral polyps. In other words, do low salinities affect the larvae capability of developing into polyps?   	
+
+I think the probes anova is better because all the noise factor has been removed (spots that we aren't interested in (i.e, empty spots)). This was Sara's idea, she's done it in the past. I also think it is easier to work with smaller datasets and by averaging the features we are taking all the data for a sequence altogether. 
+But that is just my opinion. What do the anova say? Both ANOVas fit pretty closely the data. The dendrogram topologies are the same in all cases so far, which is good. That is ((C,L)SL). I check the error bar graphs and save them in each anova folder. Print and look for patterns.
+
+Jan 10
+
+I had some notes that I wrote down on Dec 20 but didnt say much. I Didnt do stats in the holidays but worked on grad school round 2 applications (Penn State) and edited the new proposal, pf. I also took the rubric.  
+
+Now, go back to stats that I worked on in dec: salinity probe anova postanalysis: tu tun tun tu tun!
+
+I checked the plot with the error bars, trt by function and although there are some interesting findings, there also are 2 mistakes. There are two groupings pf DNA repair and two pf stress: response to stress and stress response. In both cases, these categories should me added up. I guess this occurs because the annotation file we use isnt validated and definitive. 
+
+Error bars plot
+	trt by function
+	trt by FC
+I ran it by species and apparently one is Acropora cervicornis (Gallus gallus)???
+
+So I proceed with TK. 
+
+Jan 11
+
+I was doing something wrong with the TK. Redo. I redid it and I believe I had some interesting results. I saved the file as "TK trt and col sig results"
+
+Sara mentioned in the past not to run K means cluster. I asked her and will wait. In the mean time I will prepare the temp/uv files. 
+
+And finally, the lab notebook 2 is done so I will start the new zigzag notebook since there arent many pages left in the purple monters and orange background one. 
+
+Jan 14
+
+So, on Friday 11 I intended to start the temp/uv analysis but then I realized I don't have the temp/uv probes data but the features. I think I should only run the features one. I emailed Sara and in the meantime I've read papers. 
+so, I figured I should run the K cluster for the salinity experiment in the meantime. I create a new folder called Kmeans cluster within the salinity probes anova folder. 
+
+(I also have to finish the new proposal and edit the JMP guideline and add my notes.)
+ 
+1) Label variable Probe, I use the LSMeans. The program remaned the variables as 1,2,3,4,5,6. Dunno which ones are col or trt so I run them all top see what happens.
+The default correlation radius for clustering is 0.8, I leave it. I got 25 graphs and there is no 'tool' option, maybe due to the new version.
+
+2) I will rerun it again with the first 2 3 LS means. I create a new folder called '123'. These 123 are the colonies. So, O will run it again in a new folder called 456 trt. 
+
+3) 456 trt
+I got 12 graphs and I colored them based on the genes. This makes me think of Sara and Josh's poster. ask Sara is she can send you the poster, that's a good one because its concise. 
+
+Remember that in hyposalinity condictions the cell tends to increase its volume in order to balance its concentration to the environment. Therefore I am expecting the cells to show cytoskeletal changes (re-arrangement) for sure.   
+
+
+Feb 20
+
+JMPG's license expired. I have been reading in the meantime and I sent my abstract to the BEM. It was approved and partly funded by PanSGA. That will be in Marcha and I will visit HBOI next week. I should be able to finish the stats (temp/uv) soon. Then, I have tons to write. I also have to chose which school I want to go to for my PhD *sigh*.
+
+  
+Feb 27
+
+I am at HBOI again. Sara renewed the softare but it is very evil and didn't update completely. In the meantime I discussed with the Sara my BEM abstract and the topics I have to focus on. Fix the miscellaneous sequences in the probes file (the significant ones) an fix. I also had things like coral(chicken) sequences and things like that but I can't finx that because I don't have the probes annotation file saved in excel. 
+
+Read hyposalinity papers. I downloaded a bunch yesterday. Check notebook. 
