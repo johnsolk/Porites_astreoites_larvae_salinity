@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: /home/ljcohen/Porites_astreoides/other_assemblies/mansour/Por_ast_ann_allTrans.fasta
+#BUSCO was run in mode: trans
+
+Summarized benchmarks in BUSCO notation:
+	C:0%[D:0%],F:0%,M:0%,n:429
+
+	395	Complete BUSCOs
+	136	Complete and single-copy BUSCOs
+	259	Complete and duplicated BUSCOs
+	15	Fragmented BUSCOs
+	19	Missing BUSCOs
+	429	Total BUSCO groups searched

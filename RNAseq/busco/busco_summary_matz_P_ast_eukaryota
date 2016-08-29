@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: past.fasta
+#BUSCO was run in mode: trans
+
+Summarized benchmarks in BUSCO notation:
+	C:0%[D:0%],F:0%,M:0%,n:429
+
+	71	Complete BUSCOs
+	64	Complete and single-copy BUSCOs
+	7	Complete and duplicated BUSCOs
+	132	Fragmented BUSCOs
+	226	Missing BUSCOs
+	429	Total BUSCO groups searched

@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: /home/ljcohen/Porites_astreoides/Porites_astreoides_salinity.trinity.fixed.fasta
+#BUSCO was run in mode: trans
+
+Summarized benchmarks in BUSCO notation:
+	C:0%[D:0%],F:0%,M:0%,n:843
+
+	152	Complete BUSCOs
+	136	Complete and single-copy BUSCOs
+	16	Complete and duplicated BUSCOs
+	255	Fragmented BUSCOs
+	436	Missing BUSCOs
+	843	Total BUSCO groups searched
