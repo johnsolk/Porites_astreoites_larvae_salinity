@@ -1,0 +1,874 @@
+TR102218_c3_g3_i1	sp-Q95334-AMPE_PIG	sp-Q95334-AMPE_PIG Glutamyl aminopeptidase OS=Sus scrofa GN=ENPEP PE=1 SV=1
+TR102218_c3_g3_i1	sp-Q32LQ0-AMPE_BOVIN	sp-Q32LQ0-AMPE_BOVIN Glutamyl aminopeptidase OS=Bos taurus GN=ENPEP PE=2 SV=1
+TR102218_c3_g3_i1	sp-P50123-AMPE_RAT	sp-P50123-AMPE_RAT Glutamyl aminopeptidase OS=Rattus norvegicus GN=Enpep PE=1 SV=2
+TR102218_c3_g3_i1	sp-Q07075-AMPE_HUMAN	sp-Q07075-AMPE_HUMAN Glutamyl aminopeptidase OS=Homo sapiens GN=ENPEP PE=1 SV=3
+TR102218_c3_g3_i1	sp-P16406-AMPE_MOUSE	sp-P16406-AMPE_MOUSE Glutamyl aminopeptidase OS=Mus musculus GN=Enpep PE=1 SV=1
+TR102218_c3_g3_i1	sp-P15145-AMPN_PIG	sp-P15145-AMPN_PIG Aminopeptidase N OS=Sus scrofa GN=ANPEP PE=1 SV=4
+TR102218_c3_g3_i1	sp-P97449-AMPN_MOUSE	sp-P97449-AMPN_MOUSE Aminopeptidase N OS=Mus musculus GN=Anpep PE=1 SV=4
+TR102218_c3_g3_i1	sp-P15684-AMPN_RAT	sp-P15684-AMPN_RAT Aminopeptidase N OS=Rattus norvegicus GN=Anpep PE=1 SV=2
+TR102218_c3_g3_i1	sp-O57579-AMPN_CHICK	sp-O57579-AMPN_CHICK Aminopeptidase Ey OS=Gallus gallus GN=ANPEP PE=1 SV=1
+TR102218_c3_g3_i1	sp-P15144-AMPN_HUMAN	sp-P15144-AMPN_HUMAN Aminopeptidase N OS=Homo sapiens GN=ANPEP PE=1 SV=4
+TR102246_c3_g1_i1	sp-P9WKB7-Y221_MYCTU	sp-P9WKB7-Y221_MYCTU Putative diacyglycerol O-acyltransferase Rv0221 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) GN=Rv0221 PE=1 SV=1
+TR102246_c3_g1_i1	sp-P9WKB6-Y221_MYCTO	sp-P9WKB6-Y221_MYCTO Putative diacyglycerol O-acyltransferase MT0231 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) GN=MT0231 PE=3 SV=1
+TR102246_c3_g1_i1	sp-P9WKB9-Y1760_MYCTU	sp-P9WKB9-Y1760_MYCTU Putative diacyglycerol O-acyltransferase Rv1760 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) GN=Rv1760 PE=1 SV=1
+TR102246_c3_g1_i1	sp-P9WKB8-Y1760_MYCTO	sp-P9WKB8-Y1760_MYCTO Putative diacyglycerol O-acyltransferase MT1809 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) GN=MT1809 PE=3 SV=1
+TR102246_c3_g1_i1	sp-P0A651-Y3154_MYCBO	sp-P0A651-Y3154_MYCBO Putative diacyglycerol O-acyltransferase Mb3154c OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=Mb3154c PE=3 SV=1
+TR102246_c3_g1_i1	sp-P9WKC9-TGS1_MYCTU	sp-P9WKC9-TGS1_MYCTU Probable diacyglycerol O-acyltransferase tgs1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) GN=tgs1 PE=1 SV=1
+TR102246_c3_g1_i1	sp-P9WKC8-TGS1_MYCTO	sp-P9WKC8-TGS1_MYCTO Probable diacyglycerol O-acyltransferase tgs1 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) GN=tgs1 PE=2 SV=1
+TR102246_c3_g1_i1	sp-P9WKB1-Y3087_MYCTU	sp-P9WKB1-Y3087_MYCTU Putative diacyglycerol O-acyltransferase Rv3087 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) GN=Rv3087 PE=1 SV=1
+TR102246_c3_g1_i1	sp-P9WKB0-Y3087_MYCTO	sp-P9WKB0-Y3087_MYCTO Putative diacyglycerol O-acyltransferase MT3172 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) GN=MT3172 PE=3 SV=1
+TR102246_c3_g1_i1	sp-P9WKC1-Y1425_MYCTU	sp-P9WKC1-Y1425_MYCTU Putative diacyglycerol O-acyltransferase Rv1425 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) GN=Rv1425 PE=1 SV=1
+TR102531_c1_g1_i13	sp-A8WHP9-LRRC3_DANRE	sp-A8WHP9-LRRC3_DANRE Leucine-rich repeat-containing protein 3 OS=Danio rerio GN=lrrc3 PE=2 SV=1
+TR102531_c1_g1_i13	sp-O75093-SLIT1_HUMAN	sp-O75093-SLIT1_HUMAN Slit homolog 1 protein OS=Homo sapiens GN=SLIT1 PE=2 SV=4
+TR102531_c1_g1_i13	sp-O75093-SLIT1_HUMAN	sp-O75093-SLIT1_HUMAN Slit homolog 1 protein OS=Homo sapiens GN=SLIT1 PE=2 SV=4
+TR102531_c1_g1_i13	sp-Q80TR4-SLIT1_MOUSE	sp-Q80TR4-SLIT1_MOUSE Slit homolog 1 protein OS=Mus musculus GN=Slit1 PE=1 SV=2
+TR102531_c1_g1_i13	sp-Q80TR4-SLIT1_MOUSE	sp-Q80TR4-SLIT1_MOUSE Slit homolog 1 protein OS=Mus musculus GN=Slit1 PE=1 SV=2
+TR102531_c1_g1_i13	sp-O88279-SLIT1_RAT	sp-O88279-SLIT1_RAT Slit homolog 1 protein OS=Rattus norvegicus GN=Slit1 PE=1 SV=1
+TR102531_c1_g1_i13	sp-O88279-SLIT1_RAT	sp-O88279-SLIT1_RAT Slit homolog 1 protein OS=Rattus norvegicus GN=Slit1 PE=1 SV=1
+TR102531_c1_g1_i13	sp-Q9R1B9-SLIT2_MOUSE	sp-Q9R1B9-SLIT2_MOUSE Slit homolog 2 protein OS=Mus musculus GN=Slit2 PE=2 SV=2
+TR102531_c1_g1_i13	sp-Q9R1B9-SLIT2_MOUSE	sp-Q9R1B9-SLIT2_MOUSE Slit homolog 2 protein OS=Mus musculus GN=Slit2 PE=2 SV=2
+TR102531_c1_g1_i13	sp-P24014-SLIT_DROME	sp-P24014-SLIT_DROME Protein slit OS=Drosophila melanogaster GN=sli PE=1 SV=2
+TR102531_c1_g1_i13	sp-P24014-SLIT_DROME	sp-P24014-SLIT_DROME Protein slit OS=Drosophila melanogaster GN=sli PE=1 SV=2
+TR102531_c1_g1_i13	sp-Q9BY71-LRRC3_HUMAN	sp-Q9BY71-LRRC3_HUMAN Leucine-rich repeat-containing protein 3 OS=Homo sapiens GN=LRRC3 PE=1 SV=1
+TR102531_c1_g1_i13	sp-A4IFA6-ISLR_BOVIN	sp-A4IFA6-ISLR_BOVIN Immunoglobulin superfamily containing leucine-rich repeat protein OS=Bos taurus GN=ISLR PE=2 SV=1
+TR102531_c1_g1_i13	sp-P59035-LRRC3_RAT	sp-P59035-LRRC3_RAT Leucine-rich repeat-containing protein 3 OS=Rattus norvegicus GN=Lrrc3 PE=2 SV=1
+TR102531_c1_g1_i13	sp-Q5NVQ6-ISLR_PONAB	sp-Q5NVQ6-ISLR_PONAB Immunoglobulin superfamily containing leucine-rich repeat protein OS=Pongo abelii GN=ISLR PE=2 SV=1
+TR102539_c10_g13_i3	sp-P63696-Y941_MYCBO	sp-P63696-Y941_MYCBO Uncharacterized transporter Mb0941 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=Mb0941 PE=3 SV=1
+TR102539_c10_g13_i3	sp-P9WPR7-Y917_MYCTU	sp-P9WPR7-Y917_MYCTU Uncharacterized transporter Rv0917 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) GN=Rv0917 PE=3 SV=1
+TR102539_c10_g13_i3	sp-P9WPR6-Y917_MYCTO	sp-P9WPR6-Y917_MYCTO Uncharacterized transporter MT0942 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) GN=MT0942 PE=3 SV=1
+TR102539_c10_g13_i3	sp-G3XCN6-BETS_RHIML	sp-G3XCN6-BETS_RHIML Glycine betaine/proline betaine transporter BetS OS=Rhizobium meliloti GN=betS PE=1 SV=1
+TR102539_c10_g13_i3	sp-Q6F754-GBTR_ACIAD	sp-Q6F754-GBTR_ACIAD Glycine betaine transporter OS=Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1) GN=ACIAD3460 PE=1 SV=1
+TR102539_c10_g13_i3	sp-Q9X4A5-BETL_LISMN	sp-Q9X4A5-BETL_LISMN Glycine betaine transporter BetL OS=Listeria monocytogenes GN=betL PE=1 SV=1
+TR102539_c10_g13_i3	sp-Q6FDF5-BETT2_ACIAD	sp-Q6FDF5-BETT2_ACIAD Osmo-dependent choline transporter BetT2 OS=Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1) GN=betT2 PE=1 SV=1
+TR102539_c10_g13_i3	sp-P45335-Y1706_HAEIN	sp-P45335-Y1706_HAEIN Uncharacterized transporter HI_1706 OS=Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd) GN=HI_1706 PE=3 SV=1
+TR102539_c10_g13_i5	sp-P63696-Y941_MYCBO	sp-P63696-Y941_MYCBO Uncharacterized transporter Mb0941 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=Mb0941 PE=3 SV=1
+TR102539_c10_g13_i5	sp-P9WPR7-Y917_MYCTU	sp-P9WPR7-Y917_MYCTU Uncharacterized transporter Rv0917 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) GN=Rv0917 PE=3 SV=1
+TR102539_c10_g13_i5	sp-P9WPR6-Y917_MYCTO	sp-P9WPR6-Y917_MYCTO Uncharacterized transporter MT0942 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) GN=MT0942 PE=3 SV=1
+TR102539_c10_g13_i5	sp-G3XCN6-BETS_RHIML	sp-G3XCN6-BETS_RHIML Glycine betaine/proline betaine transporter BetS OS=Rhizobium meliloti GN=betS PE=1 SV=1
+TR102539_c10_g13_i5	sp-Q9X4A5-BETL_LISMN	sp-Q9X4A5-BETL_LISMN Glycine betaine transporter BetL OS=Listeria monocytogenes GN=betL PE=1 SV=1
+TR102539_c10_g13_i5	sp-Q6F754-GBTR_ACIAD	sp-Q6F754-GBTR_ACIAD Glycine betaine transporter OS=Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1) GN=ACIAD3460 PE=1 SV=1
+TR102539_c10_g13_i5	sp-P45335-Y1706_HAEIN	sp-P45335-Y1706_HAEIN Uncharacterized transporter HI_1706 OS=Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd) GN=HI_1706 PE=3 SV=1
+TR102539_c10_g13_i5	sp-Q6FDF5-BETT2_ACIAD	sp-Q6FDF5-BETT2_ACIAD Osmo-dependent choline transporter BetT2 OS=Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1) GN=betT2 PE=1 SV=1
+TR103546_c2_g8_i1	sp-Q8N6F8-WBS27_HUMAN	sp-Q8N6F8-WBS27_HUMAN Williams-Beuren syndrome chromosomal region 27 protein OS=Homo sapiens GN=WBSCR27 PE=1 SV=2
+TR103546_c2_g8_i1	sp-Q8EXJ3-MENG_LEPIN	sp-Q8EXJ3-MENG_LEPIN Demethylmenaquinone methyltransferase OS=Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain 56601) GN=menG PE=3 SV=1
+TR103546_c2_g8_i1	sp-Q75FL1-MENG_LEPIC	sp-Q75FL1-MENG_LEPIC Demethylmenaquinone methyltransferase OS=Leptospira interrogans serogroup Icterohaemorrhagiae serovar copenhageni (strain Fiocruz L1-130) GN=menG PE=3 SV=1
+TR103546_c2_g8_i1	sp-Q89AK7-BIOC_BUCBP	sp-Q89AK7-BIOC_BUCBP Malonyl-[acyl-carrier protein] O-methyltransferase OS=Buchnera aphidicola subsp. Baizongia pistaciae (strain Bp) GN=bioC PE=3 SV=1
+TR103546_c2_g8_i1	sp-P54458-YQEM_BACSU	sp-P54458-YQEM_BACSU Putative methyltransferase YqeM OS=Bacillus subtilis (strain 168) GN=yqeM PE=3 SV=1
+TR103546_c2_g8_i1	sp-Q5FKI8-PRMA_LACAC	sp-Q5FKI8-PRMA_LACAC Ribosomal protein L11 methyltransferase OS=Lactobacillus acidophilus (strain ATCC 700396 / NCK56 / N2 / NCFM) GN=prmA PE=3 SV=1
+TR103546_c2_g8_i1	sp-A8YUZ6-PRMA_LACH4	sp-A8YUZ6-PRMA_LACH4 Ribosomal protein L11 methyltransferase OS=Lactobacillus helveticus (strain DPC 4571) GN=prmA PE=3 SV=1
+TR103546_c2_g8_i1	sp-Q73HZ4-UBIE_WOLPM	sp-Q73HZ4-UBIE_WOLPM Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE OS=Wolbachia pipientis wMel GN=ubiE PE=3 SV=1
+TR103546_c2_g8_i1	sp-A6H162-PRMC_FLAPJ	sp-A6H162-PRMC_FLAPJ Release factor glutamine methyltransferase OS=Flavobacterium psychrophilum (strain JIP02/86 / ATCC 49511) GN=prmC PE=3 SV=1
+TR103546_c2_g8_i1	sp-D2T333-BIOC_ERWP6	sp-D2T333-BIOC_ERWP6 Malonyl-[acyl-carrier protein] O-methyltransferase OS=Erwinia pyrifoliae (strain DSM 12163 / CIP 106111 / Ep16/96) GN=bioC PE=3 SV=1
+TR104938_c7_g1_i4	sp-Q5FVC7-ACAP2_RAT	sp-Q5FVC7-ACAP2_RAT Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Rattus norvegicus GN=Acap2 PE=1 SV=1
+TR104938_c7_g1_i4	sp-Q5FVC7-ACAP2_RAT	sp-Q5FVC7-ACAP2_RAT Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Rattus norvegicus GN=Acap2 PE=1 SV=1
+TR104938_c7_g1_i4	sp-Q5ZK62-ACAP2_CHICK	sp-Q5ZK62-ACAP2_CHICK Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Gallus gallus GN=ACAP2 PE=2 SV=1
+TR104938_c7_g1_i4	sp-Q5ZK62-ACAP2_CHICK	sp-Q5ZK62-ACAP2_CHICK Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Gallus gallus GN=ACAP2 PE=2 SV=1
+TR104938_c7_g1_i4	sp-Q15057-ACAP2_HUMAN	sp-Q15057-ACAP2_HUMAN Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Homo sapiens GN=ACAP2 PE=1 SV=3
+TR104938_c7_g1_i4	sp-Q15057-ACAP2_HUMAN	sp-Q15057-ACAP2_HUMAN Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Homo sapiens GN=ACAP2 PE=1 SV=3
+TR104938_c7_g1_i4	sp-Q6ZQK5-ACAP2_MOUSE	sp-Q6ZQK5-ACAP2_MOUSE Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Mus musculus GN=Acap2 PE=1 SV=2
+TR104938_c7_g1_i4	sp-Q6ZQK5-ACAP2_MOUSE	sp-Q6ZQK5-ACAP2_MOUSE Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Mus musculus GN=Acap2 PE=1 SV=2
+TR104938_c7_g1_i4	sp-Q6IVG4-ACAP2_RABIT	sp-Q6IVG4-ACAP2_RABIT Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Oryctolagus cuniculus GN=ACAP2 PE=2 SV=1
+TR104938_c7_g1_i4	sp-Q6IVG4-ACAP2_RABIT	sp-Q6IVG4-ACAP2_RABIT Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Oryctolagus cuniculus GN=ACAP2 PE=2 SV=1
+TR104938_c7_g1_i4	sp-A5PK26-ACAP1_BOVIN	sp-A5PK26-ACAP1_BOVIN Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 1 OS=Bos taurus GN=ACAP1 PE=2 SV=1
+TR104938_c7_g1_i4	sp-Q96P50-ACAP3_HUMAN	sp-Q96P50-ACAP3_HUMAN Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 3 OS=Homo sapiens GN=ACAP3 PE=1 SV=2
+TR104938_c7_g1_i4	sp-Q96P50-ACAP3_HUMAN	sp-Q96P50-ACAP3_HUMAN Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 3 OS=Homo sapiens GN=ACAP3 PE=1 SV=2
+TR104938_c7_g1_i4	sp-Q15027-ACAP1_HUMAN	sp-Q15027-ACAP1_HUMAN Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 1 OS=Homo sapiens GN=ACAP1 PE=1 SV=1
+TR104938_c7_g1_i4	sp-Q8K2H4-ACAP1_MOUSE	sp-Q8K2H4-ACAP1_MOUSE Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 1 OS=Mus musculus GN=Acap1 PE=1 SV=1
+TR104938_c7_g1_i4	sp-Q96P47-AGAP3_HUMAN	sp-Q96P47-AGAP3_HUMAN Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 3 OS=Homo sapiens GN=AGAP3 PE=1 SV=2
+TR106414_c0_g1_i3	sp-Q9UI17-M2GD_HUMAN	sp-Q9UI17-M2GD_HUMAN Dimethylglycine dehydrogenase, mitochondrial OS=Homo sapiens GN=DMGDH PE=1 SV=2
+TR106414_c0_g1_i3	sp-Q63342-M2GD_RAT	sp-Q63342-M2GD_RAT Dimethylglycine dehydrogenase, mitochondrial OS=Rattus norvegicus GN=Dmgdh PE=1 SV=1
+TR106414_c0_g1_i3	sp-Q9DBT9-M2GD_MOUSE	sp-Q9DBT9-M2GD_MOUSE Dimethylglycine dehydrogenase, mitochondrial OS=Mus musculus GN=Dmgdh PE=1 SV=1
+TR106414_c0_g1_i3	sp-B1XP99-GCST_SYNP2	sp-B1XP99-GCST_SYNP2 Aminomethyltransferase OS=Synechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6) GN=gcvT PE=3 SV=1
+TR106414_c0_g1_i3	sp-A2C5F7-GCST_PROM1	sp-A2C5F7-GCST_PROM1 Aminomethyltransferase OS=Prochlorococcus marinus (strain NATL1A) GN=gcvT PE=3 SV=1
+TR106414_c0_g1_i3	sp-B7K468-GCST_CYAP8	sp-B7K468-GCST_CYAP8 Aminomethyltransferase OS=Cyanothece sp. (strain PCC 8801) GN=gcvT PE=3 SV=1
+TR106414_c0_g1_i3	sp-Q46I99-GCST_PROMT	sp-Q46I99-GCST_PROMT Aminomethyltransferase OS=Prochlorococcus marinus (strain NATL2A) GN=gcvT PE=3 SV=1
+TR106414_c0_g1_i3	sp-Q5N136-GCST_SYNP6	sp-Q5N136-GCST_SYNP6 Aminomethyltransferase OS=Synechococcus sp. (strain ATCC 27144 / PCC 6301 / SAUG 1402/1) GN=gcvT PE=3 SV=1
+TR106414_c0_g1_i3	sp-Q31KT1-GCST_SYNE7	sp-Q31KT1-GCST_SYNE7 Aminomethyltransferase OS=Synechococcus elongatus (strain PCC 7942) GN=gcvT PE=3 SV=1
+TR106414_c0_g1_i3	sp-Q9AGP8-DMGO_ARTGO	sp-Q9AGP8-DMGO_ARTGO Dimethylglycine oxidase OS=Arthrobacter globiformis GN=dmg PE=1 SV=1
+TR106640_c8_g5_i12	sp-Q3LU39-PROP1_GORGO	sp-Q3LU39-PROP1_GORGO Homeobox protein prophet of Pit-1 OS=Gorilla gorilla gorilla GN=PROP1 PE=3 SV=1
+TR106640_c8_g5_i12	sp-O75360-PROP1_HUMAN	sp-O75360-PROP1_HUMAN Homeobox protein prophet of Pit-1 OS=Homo sapiens GN=PROP1 PE=1 SV=2
+TR106640_c8_g5_i12	sp-O75364-PITX3_HUMAN	sp-O75364-PITX3_HUMAN Pituitary homeobox 3 OS=Homo sapiens GN=PITX3 PE=1 SV=1
+TR106640_c8_g5_i12	sp-Q3LU40-PROP1_SAPAP	sp-Q3LU40-PROP1_SAPAP Homeobox protein prophet of Pit-1 OS=Sapajus apella GN=PROP1 PE=3 SV=1
+TR106640_c8_g5_i12	sp-O35160-PITX3_MOUSE	sp-O35160-PITX3_MOUSE Pituitary homeobox 3 OS=Mus musculus GN=Pitx3 PE=1 SV=1
+TR106640_c8_g5_i12	sp-P81062-PITX3_RAT	sp-P81062-PITX3_RAT Pituitary homeobox 3 OS=Rattus norvegicus GN=Pitx3 PE=1 SV=2
+TR106640_c8_g5_i12	sp-A1A546-ISX_MOUSE	sp-A1A546-ISX_MOUSE Intestine-specific homeobox OS=Mus musculus GN=Isx PE=2 SV=2
+TR106640_c8_g5_i12	sp-Q3LU41-PROP1_THEGE	sp-Q3LU41-PROP1_THEGE Homeobox protein prophet of Pit-1 OS=Theropithecus gelada GN=PROP1 PE=3 SV=1
+TR106640_c8_g5_i12	sp-Q06453-AL_DROME	sp-Q06453-AL_DROME Homeobox protein aristaless OS=Drosophila melanogaster GN=al PE=1 SV=2
+TR106640_c8_g5_i12	sp-Q1LVQ7-ALX1_DANRE	sp-Q1LVQ7-ALX1_DANRE ALX homeobox protein 1 OS=Danio rerio GN=alx1 PE=2 SV=1
+TR108910_c7_g1_i2	sp-K7Z9Q9-VMP_NEMVE	sp-K7Z9Q9-VMP_NEMVE Nematocyst expressed protein 6 OS=Nematostella vectensis PE=2 SV=1
+TR108910_c7_g1_i2	sp-P13497-BMP1_HUMAN	sp-P13497-BMP1_HUMAN Bone morphogenetic protein 1 OS=Homo sapiens GN=BMP1 PE=1 SV=2
+TR108910_c7_g1_i2	sp-P13497-BMP1_HUMAN	sp-P13497-BMP1_HUMAN Bone morphogenetic protein 1 OS=Homo sapiens GN=BMP1 PE=1 SV=2
+TR108910_c7_g1_i2	sp-Q9Y6L7-TLL2_HUMAN	sp-Q9Y6L7-TLL2_HUMAN Tolloid-like protein 2 OS=Homo sapiens GN=TLL2 PE=1 SV=1
+TR108910_c7_g1_i2	sp-Q9Y6L7-TLL2_HUMAN	sp-Q9Y6L7-TLL2_HUMAN Tolloid-like protein 2 OS=Homo sapiens GN=TLL2 PE=1 SV=1
+TR108910_c7_g1_i2	sp-O57382-TLL2_XENLA	sp-O57382-TLL2_XENLA Tolloid-like protein 2 OS=Xenopus laevis GN=tll2 PE=2 SV=1
+TR108910_c7_g1_i2	sp-O57382-TLL2_XENLA	sp-O57382-TLL2_XENLA Tolloid-like protein 2 OS=Xenopus laevis GN=tll2 PE=2 SV=1
+TR108910_c7_g1_i2	sp-Q9WVM6-TLL2_MOUSE	sp-Q9WVM6-TLL2_MOUSE Tolloid-like protein 2 OS=Mus musculus GN=Tll2 PE=1 SV=1
+TR108910_c7_g1_i2	sp-Q9WVM6-TLL2_MOUSE	sp-Q9WVM6-TLL2_MOUSE Tolloid-like protein 2 OS=Mus musculus GN=Tll2 PE=1 SV=1
+TR108910_c7_g1_i2	sp-P98070-BMP1_XENLA	sp-P98070-BMP1_XENLA Bone morphogenetic protein 1 OS=Xenopus laevis GN=bmp1 PE=1 SV=1
+TR108910_c7_g1_i2	sp-P31579-LCE_ORYLA	sp-P31579-LCE_ORYLA Low choriolytic enzyme OS=Oryzias latipes GN=lce PE=1 SV=1
+TR108910_c7_g1_i2	sp-P98063-BMP1_MOUSE	sp-P98063-BMP1_MOUSE Bone morphogenetic protein 1 OS=Mus musculus GN=Bmp1 PE=1 SV=2
+TR108910_c7_g1_i2	sp-Q62381-TLL1_MOUSE	sp-Q62381-TLL1_MOUSE Tolloid-like protein 1 OS=Mus musculus GN=Tll1 PE=1 SV=1
+TR108910_c7_g1_i2	sp-O43897-TLL1_HUMAN	sp-O43897-TLL1_HUMAN Tolloid-like protein 1 OS=Homo sapiens GN=TLL1 PE=1 SV=1
+TR108912_c5_g1_i3	sp-Q7TQ79-T170B_RAT	sp-Q7TQ79-T170B_RAT Transmembrane protein 170B OS=Rattus norvegicus GN=Tmem170b PE=2 SV=2
+TR108912_c5_g1_i3	sp-P86050-T170B_MOUSE	sp-P86050-T170B_MOUSE Transmembrane protein 170B OS=Mus musculus GN=Tmem170b PE=3 SV=1
+TR108912_c5_g1_i3	sp-Q5T4T1-T170B_HUMAN	sp-Q5T4T1-T170B_HUMAN Transmembrane protein 170B OS=Homo sapiens GN=TMEM170B PE=3 SV=1
+TR108912_c5_g1_i3	sp-Q9D342-T170A_MOUSE	sp-Q9D342-T170A_MOUSE Transmembrane protein 170A OS=Mus musculus GN=Tmem170a PE=2 SV=1
+TR108912_c5_g1_i3	sp-Q8WVE7-T170A_HUMAN	sp-Q8WVE7-T170A_HUMAN Transmembrane protein 170A OS=Homo sapiens GN=TMEM170A PE=2 SV=1
+TR108912_c5_g1_i3	sp-Q6DF87-T170A_XENLA	sp-Q6DF87-T170A_XENLA Transmembrane protein 170A OS=Xenopus laevis GN=tmem170a PE=2 SV=1
+TR108912_c5_g1_i3	sp-A3KPL7-T170A_DANRE	sp-A3KPL7-T170A_DANRE Transmembrane protein 170A OS=Danio rerio GN=tmem170a PE=2 SV=1
+TR108912_c5_g1_i3	sp-Q5ZM31-T170A_CHICK	sp-Q5ZM31-T170A_CHICK Transmembrane protein 170A OS=Gallus gallus GN=TMEM170A PE=2 SV=1
+TR108912_c5_g1_i3	sp-Q54GN6-TM170_DICDI	sp-Q54GN6-TM170_DICDI Transmembrane protein 170 homolog OS=Dictyostelium discoideum GN=tmem170 PE=3 SV=1
+TR117355_c3_g16_i2	sp-Q8WU66-TSEAR_HUMAN	sp-Q8WU66-TSEAR_HUMAN Thrombospondin-type laminin G domain and EAR repeat-containing protein OS=Homo sapiens GN=TSPEAR PE=2 SV=2
+TR117355_c3_g16_i2	sp-Q8WU66-TSEAR_HUMAN	sp-Q8WU66-TSEAR_HUMAN Thrombospondin-type laminin G domain and EAR repeat-containing protein OS=Homo sapiens GN=TSPEAR PE=2 SV=2
+TR117355_c3_g16_i2	sp-Q8WU66-TSEAR_HUMAN	sp-Q8WU66-TSEAR_HUMAN Thrombospondin-type laminin G domain and EAR repeat-containing protein OS=Homo sapiens GN=TSPEAR PE=2 SV=2
+TR117355_c3_g16_i2	sp-Q8WU66-TSEAR_HUMAN	sp-Q8WU66-TSEAR_HUMAN Thrombospondin-type laminin G domain and EAR repeat-containing protein OS=Homo sapiens GN=TSPEAR PE=2 SV=2
+TR117355_c3_g16_i2	sp-Q8WU66-TSEAR_HUMAN	sp-Q8WU66-TSEAR_HUMAN Thrombospondin-type laminin G domain and EAR repeat-containing protein OS=Homo sapiens GN=TSPEAR PE=2 SV=2
+TR117355_c3_g16_i2	sp-J3S6Y1-TSEAR_MOUSE	sp-J3S6Y1-TSEAR_MOUSE Thrombospondin-type laminin G domain and EAR repeat-containing protein OS=Mus musculus GN=Tspear PE=1 SV=1
+TR117355_c3_g16_i2	sp-J3S6Y1-TSEAR_MOUSE	sp-J3S6Y1-TSEAR_MOUSE Thrombospondin-type laminin G domain and EAR repeat-containing protein OS=Mus musculus GN=Tspear PE=1 SV=1
+TR117355_c3_g16_i2	sp-J3S6Y1-TSEAR_MOUSE	sp-J3S6Y1-TSEAR_MOUSE Thrombospondin-type laminin G domain and EAR repeat-containing protein OS=Mus musculus GN=Tspear PE=1 SV=1
+TR117355_c3_g16_i2	sp-J3S6Y1-TSEAR_MOUSE	sp-J3S6Y1-TSEAR_MOUSE Thrombospondin-type laminin G domain and EAR repeat-containing protein OS=Mus musculus GN=Tspear PE=1 SV=1
+TR117355_c3_g16_i2	sp-J3S6Y1-TSEAR_MOUSE	sp-J3S6Y1-TSEAR_MOUSE Thrombospondin-type laminin G domain and EAR repeat-containing protein OS=Mus musculus GN=Tspear PE=1 SV=1
+TR117355_c3_g16_i2	sp-Q8VHN7-GPR98_MOUSE	sp-Q8VHN7-GPR98_MOUSE G-protein coupled receptor 98 OS=Mus musculus GN=Gpr98 PE=2 SV=1
+TR117355_c3_g16_i2	sp-Q1EGL1-LGI2_PANTR	sp-Q1EGL1-LGI2_PANTR Leucine-rich repeat LGI family member 2 OS=Pan troglodytes GN=LGI2 PE=2 SV=1
+TR117355_c3_g16_i2	sp-Q1EGL1-LGI2_PANTR	sp-Q1EGL1-LGI2_PANTR Leucine-rich repeat LGI family member 2 OS=Pan troglodytes GN=LGI2 PE=2 SV=1
+TR117355_c3_g16_i2	sp-Q8N0V4-LGI2_HUMAN	sp-Q8N0V4-LGI2_HUMAN Leucine-rich repeat LGI family member 2 OS=Homo sapiens GN=LGI2 PE=2 SV=1
+TR117355_c3_g16_i2	sp-Q8N0V4-LGI2_HUMAN	sp-Q8N0V4-LGI2_HUMAN Leucine-rich repeat LGI family member 2 OS=Homo sapiens GN=LGI2 PE=2 SV=1
+TR117355_c3_g16_i2	sp-Q8WXG9-GPR98_HUMAN	sp-Q8WXG9-GPR98_HUMAN G-protein coupled receptor 98 OS=Homo sapiens GN=GPR98 PE=1 SV=2
+TR117355_c3_g16_i2	sp-Q8WXG9-GPR98_HUMAN	sp-Q8WXG9-GPR98_HUMAN G-protein coupled receptor 98 OS=Homo sapiens GN=GPR98 PE=1 SV=2
+TR117355_c3_g16_i2	sp-Q8WXG9-GPR98_HUMAN	sp-Q8WXG9-GPR98_HUMAN G-protein coupled receptor 98 OS=Homo sapiens GN=GPR98 PE=1 SV=2
+TR117355_c3_g16_i2	sp-Q8K4Z0-LGI2_MOUSE	sp-Q8K4Z0-LGI2_MOUSE Leucine-rich repeat LGI family member 2 OS=Mus musculus GN=Lgi2 PE=2 SV=1
+TR117355_c3_g16_i2	sp-Q8K4Y5-LGI1_RAT	sp-Q8K4Y5-LGI1_RAT Leucine-rich glioma-inactivated protein 1 OS=Rattus norvegicus GN=Lgi1 PE=1 SV=1
+TR117355_c3_g16_i2	sp-Q8K4Y5-LGI1_RAT	sp-Q8K4Y5-LGI1_RAT Leucine-rich glioma-inactivated protein 1 OS=Rattus norvegicus GN=Lgi1 PE=1 SV=1
+TR117355_c3_g16_i2	sp-Q9JIA1-LGI1_MOUSE	sp-Q9JIA1-LGI1_MOUSE Leucine-rich glioma-inactivated protein 1 OS=Mus musculus GN=Lgi1 PE=1 SV=1
+TR117355_c3_g16_i2	sp-Q5E9T6-LGI1_BOVIN	sp-Q5E9T6-LGI1_BOVIN Leucine-rich glioma-inactivated protein 1 OS=Bos taurus GN=LGI1 PE=2 SV=1
+TR117355_c3_g16_i2	sp-Q5E9T6-LGI1_BOVIN	sp-Q5E9T6-LGI1_BOVIN Leucine-rich glioma-inactivated protein 1 OS=Bos taurus GN=LGI1 PE=2 SV=1
+TR118772_c0_g2_i4	sp-Q00808-HETE1_PODAS	sp-Q00808-HETE1_PODAS Vegetative incompatibility protein HET-E-1 OS=Podospora anserina GN=HET-E1 PE=3 SV=1
+TR118772_c0_g2_i4	sp-Q86Y13-DZIP3_HUMAN	sp-Q86Y13-DZIP3_HUMAN E3 ubiquitin-protein ligase DZIP3 OS=Homo sapiens GN=DZIP3 PE=1 SV=2
+TR118772_c0_g2_i4	sp-Q7TPV2-DZIP3_MOUSE	sp-Q7TPV2-DZIP3_MOUSE E3 ubiquitin-protein ligase DZIP3 OS=Mus musculus GN=Dzip3 PE=1 SV=2
+TR119201_c4_g4_i2	sp-Q6NRH1-DCAF8_XENLA	sp-Q6NRH1-DCAF8_XENLA DDB1- and CUL4-associated factor 8 OS=Xenopus laevis GN=dcaf8 PE=2 SV=1
+TR119201_c4_g4_i2	sp-Q28I90-DCAF8_XENTR	sp-Q28I90-DCAF8_XENTR DDB1- and CUL4-associated factor 8 OS=Xenopus tropicalis GN=dcaf8 PE=2 SV=1
+TR119201_c4_g4_i2	sp-Q5TAQ9-DCAF8_HUMAN	sp-Q5TAQ9-DCAF8_HUMAN DDB1- and CUL4-associated factor 8 OS=Homo sapiens GN=DCAF8 PE=1 SV=1
+TR119201_c4_g4_i2	sp-Q5U2M6-DCAF8_RAT	sp-Q5U2M6-DCAF8_RAT DDB1- and CUL4-associated factor 8 OS=Rattus norvegicus GN=Dcaf8 PE=1 SV=1
+TR119201_c4_g4_i2	sp-Q8N7N5-DCAF8_MOUSE	sp-Q8N7N5-DCAF8_MOUSE DDB1- and CUL4-associated factor 8 OS=Mus musculus GN=Dcaf8 PE=1 SV=1
+TR119201_c4_g4_i2	sp-Q5R448-DCAF8_PONAB	sp-Q5R448-DCAF8_PONAB DDB1- and CUL4-associated factor 8 OS=Pongo abelii GN=DCAF8 PE=2 SV=1
+TR119201_c4_g4_i2	sp-P0C7V8-DC8L2_HUMAN	sp-P0C7V8-DC8L2_HUMAN DDB1- and CUL4-associated factor 8-like protein 2 OS=Homo sapiens GN=DCAF8L2 PE=2 SV=2
+TR119201_c4_g4_i2	sp-A6NGE4-DC8L1_HUMAN	sp-A6NGE4-DC8L1_HUMAN DDB1- and CUL4-associated factor 8-like protein 1 OS=Homo sapiens GN=DCAF8L1 PE=2 SV=1
+TR119201_c4_g4_i2	sp-Q9H892-TTC12_HUMAN	sp-Q9H892-TTC12_HUMAN Tetratricopeptide repeat protein 12 OS=Homo sapiens GN=TTC12 PE=1 SV=2
+TR119201_c4_g4_i2	sp-Q8BW49-TTC12_MOUSE	sp-Q8BW49-TTC12_MOUSE Tetratricopeptide repeat protein 12 OS=Mus musculus GN=Ttc12 PE=1 SV=1
+TR124469_c6_g1_i2	sp-Q92485-ASM3B_HUMAN	sp-Q92485-ASM3B_HUMAN Acid sphingomyelinase-like phosphodiesterase 3b OS=Homo sapiens GN=SMPDL3B PE=2 SV=2
+TR124469_c6_g1_i2	sp-Q92485-ASM3B_HUMAN	sp-Q92485-ASM3B_HUMAN Acid sphingomyelinase-like phosphodiesterase 3b OS=Homo sapiens GN=SMPDL3B PE=2 SV=2
+TR124469_c6_g1_i2	sp-P58242-ASM3B_MOUSE	sp-P58242-ASM3B_MOUSE Acid sphingomyelinase-like phosphodiesterase 3b OS=Mus musculus GN=Smpdl3b PE=1 SV=1
+TR124469_c6_g1_i2	sp-P58242-ASM3B_MOUSE	sp-P58242-ASM3B_MOUSE Acid sphingomyelinase-like phosphodiesterase 3b OS=Mus musculus GN=Smpdl3b PE=1 SV=1
+TR124469_c6_g1_i2	sp-Q54SR8-SGMC_DICDI	sp-Q54SR8-SGMC_DICDI Sphingomyelinase phosphodiesterase C OS=Dictyostelium discoideum GN=sgmC PE=3 SV=1
+TR124469_c6_g1_i2	sp-Q54SR8-SGMC_DICDI	sp-Q54SR8-SGMC_DICDI Sphingomyelinase phosphodiesterase C OS=Dictyostelium discoideum GN=sgmC PE=3 SV=1
+TR124469_c6_g1_i2	sp-Q92484-ASM3A_HUMAN	sp-Q92484-ASM3A_HUMAN Acid sphingomyelinase-like phosphodiesterase 3a OS=Homo sapiens GN=SMPDL3A PE=1 SV=2
+TR124469_c6_g1_i2	sp-Q92484-ASM3A_HUMAN	sp-Q92484-ASM3A_HUMAN Acid sphingomyelinase-like phosphodiesterase 3a OS=Homo sapiens GN=SMPDL3A PE=1 SV=2
+TR124469_c6_g1_i2	sp-Q3ZC91-ASM3A_BOVIN	sp-Q3ZC91-ASM3A_BOVIN Acid sphingomyelinase-like phosphodiesterase 3a OS=Bos taurus GN=SMPDL3A PE=2 SV=1
+TR124469_c6_g1_i2	sp-Q3ZC91-ASM3A_BOVIN	sp-Q3ZC91-ASM3A_BOVIN Acid sphingomyelinase-like phosphodiesterase 3a OS=Bos taurus GN=SMPDL3A PE=2 SV=1
+TR124469_c6_g1_i2	sp-Q641Z7-ASM3A_RAT	sp-Q641Z7-ASM3A_RAT Acid sphingomyelinase-like phosphodiesterase 3a OS=Rattus norvegicus GN=Smpdl3a PE=2 SV=1
+TR124469_c6_g1_i2	sp-Q641Z7-ASM3A_RAT	sp-Q641Z7-ASM3A_RAT Acid sphingomyelinase-like phosphodiesterase 3a OS=Rattus norvegicus GN=Smpdl3a PE=2 SV=1
+TR124469_c6_g1_i2	sp-P70158-ASM3A_MOUSE	sp-P70158-ASM3A_MOUSE Acid sphingomyelinase-like phosphodiesterase 3a OS=Mus musculus GN=Smpdl3a PE=1 SV=2
+TR124469_c6_g1_i2	sp-P70158-ASM3A_MOUSE	sp-P70158-ASM3A_MOUSE Acid sphingomyelinase-like phosphodiesterase 3a OS=Mus musculus GN=Smpdl3a PE=1 SV=2
+TR124469_c6_g1_i2	sp-Q04519-ASM_MOUSE	sp-Q04519-ASM_MOUSE Sphingomyelin phosphodiesterase OS=Mus musculus GN=Smpd1 PE=2 SV=2
+TR124469_c6_g1_i2	sp-Q04519-ASM_MOUSE	sp-Q04519-ASM_MOUSE Sphingomyelin phosphodiesterase OS=Mus musculus GN=Smpd1 PE=2 SV=2
+TR124469_c6_g1_i2	sp-Q0VD19-ASM_BOVIN	sp-Q0VD19-ASM_BOVIN Sphingomyelin phosphodiesterase OS=Bos taurus GN=SMPD1 PE=2 SV=1
+TR124469_c6_g1_i2	sp-Q0VD19-ASM_BOVIN	sp-Q0VD19-ASM_BOVIN Sphingomyelin phosphodiesterase OS=Bos taurus GN=SMPD1 PE=2 SV=1
+TR124469_c6_g1_i2	sp-P17405-ASM_HUMAN	sp-P17405-ASM_HUMAN Sphingomyelin phosphodiesterase OS=Homo sapiens GN=SMPD1 PE=1 SV=4
+TR124469_c6_g1_i2	sp-P17405-ASM_HUMAN	sp-P17405-ASM_HUMAN Sphingomyelin phosphodiesterase OS=Homo sapiens GN=SMPD1 PE=1 SV=4
+TR124667_c2_g1_i1	sp-Q8IZS8-CA2D3_HUMAN	sp-Q8IZS8-CA2D3_HUMAN Voltage-dependent calcium channel subunit alpha-2/delta-3 OS=Homo sapiens GN=CACNA2D3 PE=1 SV=1
+TR124667_c2_g1_i1	sp-Q8CFG5-CA2D3_RAT	sp-Q8CFG5-CA2D3_RAT Voltage-dependent calcium channel subunit alpha-2/delta-3 OS=Rattus norvegicus GN=Cacna2d3 PE=1 SV=1
+TR124667_c2_g1_i1	sp-Q9Z1L5-CA2D3_MOUSE	sp-Q9Z1L5-CA2D3_MOUSE Voltage-dependent calcium channel subunit alpha-2/delta-3 OS=Mus musculus GN=Cacna2d3 PE=1 SV=1
+TR124667_c2_g1_i1	sp-Q6PHS9-CA2D2_MOUSE	sp-Q6PHS9-CA2D2_MOUSE Voltage-dependent calcium channel subunit alpha-2/delta-2 OS=Mus musculus GN=Cacna2d2 PE=1 SV=1
+TR124667_c2_g1_i1	sp-Q6PHS9-CA2D2_MOUSE	sp-Q6PHS9-CA2D2_MOUSE Voltage-dependent calcium channel subunit alpha-2/delta-2 OS=Mus musculus GN=Cacna2d2 PE=1 SV=1
+TR124667_c2_g1_i1	sp-Q9NY47-CA2D2_HUMAN	sp-Q9NY47-CA2D2_HUMAN Voltage-dependent calcium channel subunit alpha-2/delta-2 OS=Homo sapiens GN=CACNA2D2 PE=1 SV=2
+TR124667_c2_g1_i1	sp-Q9NY47-CA2D2_HUMAN	sp-Q9NY47-CA2D2_HUMAN Voltage-dependent calcium channel subunit alpha-2/delta-2 OS=Homo sapiens GN=CACNA2D2 PE=1 SV=2
+TR124667_c2_g1_i1	sp-Q8CFG6-CA2D2_RAT	sp-Q8CFG6-CA2D2_RAT Voltage-dependent calcium channel subunit alpha-2/delta-2 OS=Rattus norvegicus GN=Cacna2d2 PE=2 SV=1
+TR124667_c2_g1_i1	sp-Q5RJF7-CA2D4_MOUSE	sp-Q5RJF7-CA2D4_MOUSE Voltage-dependent calcium channel subunit alpha-2/delta-4 OS=Mus musculus GN=Cacna2d4 PE=2 SV=1
+TR124667_c2_g1_i1	sp-Q7Z3S7-CA2D4_HUMAN	sp-Q7Z3S7-CA2D4_HUMAN Voltage-dependent calcium channel subunit alpha-2/delta-4 OS=Homo sapiens GN=CACNA2D4 PE=1 SV=2
+TR124667_c2_g1_i1	sp-P54289-CA2D1_HUMAN	sp-P54289-CA2D1_HUMAN Voltage-dependent calcium channel subunit alpha-2/delta-1 OS=Homo sapiens GN=CACNA2D1 PE=1 SV=3
+TR124667_c2_g1_i1	sp-P54289-CA2D1_HUMAN	sp-P54289-CA2D1_HUMAN Voltage-dependent calcium channel subunit alpha-2/delta-1 OS=Homo sapiens GN=CACNA2D1 PE=1 SV=3
+TR124667_c2_g1_i1	sp-P13806-CA2D1_RABIT	sp-P13806-CA2D1_RABIT Voltage-dependent calcium channel subunit alpha-2/delta-1 OS=Oryctolagus cuniculus GN=CACNA2D1 PE=1 SV=1
+TR124667_c2_g1_i1	sp-P13806-CA2D1_RABIT	sp-P13806-CA2D1_RABIT Voltage-dependent calcium channel subunit alpha-2/delta-1 OS=Oryctolagus cuniculus GN=CACNA2D1 PE=1 SV=1
+TR127418_c2_g1_i7	sp-F8WLE0-KIF28_RAT	sp-F8WLE0-KIF28_RAT Kinesin-like protein KIF28P OS=Rattus norvegicus GN=Kif28p PE=2 SV=1
+TR127418_c2_g1_i7	sp-D3YXS5-KIF28_MOUSE	sp-D3YXS5-KIF28_MOUSE Kinesin-like protein KIF28P OS=Mus musculus GN=Kif28p PE=3 SV=1
+TR127418_c2_g1_i7	sp-Q9NGQ2-KIF1_DICDI	sp-Q9NGQ2-KIF1_DICDI Kinesin-related protein 1 OS=Dictyostelium discoideum GN=kif1 PE=1 SV=1
+TR127418_c2_g1_i7	sp-P33173-KIF1A_MOUSE	sp-P33173-KIF1A_MOUSE Kinesin-like protein KIF1A OS=Mus musculus GN=Kif1a PE=1 SV=2
+TR127418_c2_g1_i7	sp-P33173-KIF1A_MOUSE	sp-P33173-KIF1A_MOUSE Kinesin-like protein KIF1A OS=Mus musculus GN=Kif1a PE=1 SV=2
+TR127418_c2_g1_i7	sp-Q12756-KIF1A_HUMAN	sp-Q12756-KIF1A_HUMAN Kinesin-like protein KIF1A OS=Homo sapiens GN=KIF1A PE=1 SV=2
+TR127418_c2_g1_i7	sp-Q12756-KIF1A_HUMAN	sp-Q12756-KIF1A_HUMAN Kinesin-like protein KIF1A OS=Homo sapiens GN=KIF1A PE=1 SV=2
+TR127418_c2_g1_i7	sp-A1ZAJ2-KIF1A_DROME	sp-A1ZAJ2-KIF1A_DROME Kinesin-like protein unc-104 OS=Drosophila melanogaster GN=unc-104 PE=1 SV=1
+TR127418_c2_g1_i7	sp-Q7PHR1-KIF1A_ANOGA	sp-Q7PHR1-KIF1A_ANOGA Kinesin-like protein unc-104 OS=Anopheles gambiae GN=unc-104 PE=3 SV=3
+TR127418_c2_g1_i7	sp-Q28WQ1-KIF1A_DROPS	sp-Q28WQ1-KIF1A_DROPS Kinesin-like protein unc-104 OS=Drosophila pseudoobscura pseudoobscura GN=unc-104 PE=3 SV=1
+TR127418_c2_g1_i7	sp-Q17BU3-KIF1A_AEDAE	sp-Q17BU3-KIF1A_AEDAE Kinesin-like protein unc-104 OS=Aedes aegypti GN=unc-104 PE=3 SV=1
+TR127418_c2_g1_i7	sp-P23678-UN104_CAEEL	sp-P23678-UN104_CAEEL Kinesin-like protein unc-104 OS=Caenorhabditis elegans GN=unc-104 PE=2 SV=4
+TR127418_c2_g1_i7	sp-P23678-UN104_CAEEL	sp-P23678-UN104_CAEEL Kinesin-like protein unc-104 OS=Caenorhabditis elegans GN=unc-104 PE=2 SV=4
+TR129077_c3_g1_i11	sp-P70618-MK14_RAT	sp-P70618-MK14_RAT Mitogen-activated protein kinase 14 OS=Rattus norvegicus GN=Mapk14 PE=1 SV=3
+TR129077_c3_g1_i11	sp-P47811-MK14_MOUSE	sp-P47811-MK14_MOUSE Mitogen-activated protein kinase 14 OS=Mus musculus GN=Mapk14 PE=1 SV=3
+TR129077_c3_g1_i11	sp-P47812-MK14_XENLA	sp-P47812-MK14_XENLA Mitogen-activated protein kinase 14 OS=Xenopus laevis GN=mapk14 PE=2 SV=1
+TR129077_c3_g1_i11	sp-Q16539-MK14_HUMAN	sp-Q16539-MK14_HUMAN Mitogen-activated protein kinase 14 OS=Homo sapiens GN=MAPK14 PE=1 SV=3
+TR129077_c3_g1_i11	sp-O02812-MK14_CANLF	sp-O02812-MK14_CANLF Mitogen-activated protein kinase 14 OS=Canis lupus familiaris GN=MAPK14 PE=2 SV=3
+TR129077_c3_g1_i11	sp-Q9DGE2-MK14A_DANRE	sp-Q9DGE2-MK14A_DANRE Mitogen-activated protein kinase 14A OS=Danio rerio GN=mapk14a PE=1 SV=1
+TR129077_c3_g1_i11	sp-Q90336-MK14A_CYPCA	sp-Q90336-MK14A_CYPCA Mitogen-activated protein kinase 14A OS=Cyprinus carpio GN=mapk14a PE=1 SV=1
+TR129077_c3_g1_i11	sp-Q95NE7-MK14_PANTR	sp-Q95NE7-MK14_PANTR Mitogen-activated protein kinase 14 OS=Pan troglodytes GN=MAPK14 PE=2 SV=3
+TR129077_c3_g1_i11	sp-Q9I958-MK14B_CYPCA	sp-Q9I958-MK14B_CYPCA Mitogen-activated protein kinase 14B OS=Cyprinus carpio GN=mapk14b PE=1 SV=1
+TR129077_c3_g1_i11	sp-Q9WUI1-MK11_MOUSE	sp-Q9WUI1-MK11_MOUSE Mitogen-activated protein kinase 11 OS=Mus musculus GN=Mapk11 PE=1 SV=2
+TR131857_c5_g2_i9	sp-Q8VC12-HUTU_MOUSE	sp-Q8VC12-HUTU_MOUSE Urocanate hydratase OS=Mus musculus GN=Uroc1 PE=1 SV=2
+TR131857_c5_g2_i9	sp-Q96N76-HUTU_HUMAN	sp-Q96N76-HUTU_HUMAN Urocanate hydratase OS=Homo sapiens GN=UROC1 PE=1 SV=1
+TR131857_c5_g2_i9	sp-Q86AX3-HUTU_DICDI	sp-Q86AX3-HUTU_DICDI Probable urocanate hydratase OS=Dictyostelium discoideum GN=uroc1 PE=3 SV=2
+TR131857_c5_g2_i9	sp-A7YWP4-HUTH_BOVIN	sp-A7YWP4-HUTH_BOVIN Histidine ammonia-lyase OS=Bos taurus GN=HAL PE=2 SV=1
+TR131857_c5_g2_i9	sp-P35492-HUTH_MOUSE	sp-P35492-HUTH_MOUSE Histidine ammonia-lyase OS=Mus musculus GN=Hal PE=1 SV=1
+TR131857_c5_g2_i9	sp-Q9NAE2-HUTU_CAEEL	sp-Q9NAE2-HUTU_CAEEL Probable urocanate hydratase OS=Caenorhabditis elegans GN=Y51H4A.7 PE=3 SV=2
+TR131857_c5_g2_i9	sp-P42357-HUTH_HUMAN	sp-P42357-HUTH_HUMAN Histidine ammonia-lyase OS=Homo sapiens GN=HAL PE=1 SV=1
+TR131857_c5_g2_i9	sp-P21213-HUTH_RAT	sp-P21213-HUTH_RAT Histidine ammonia-lyase OS=Rattus norvegicus GN=Hal PE=1 SV=1
+TR131857_c5_g2_i9	sp-Q20502-HUTH1_CAEEL	sp-Q20502-HUTH1_CAEEL Histidine ammonia-lyase OS=Caenorhabditis elegans GN=haly-1 PE=1 SV=1
+TR131857_c5_g2_i9	sp-Q54JI7-HUTH_DICDI	sp-Q54JI7-HUTH_DICDI Probable histidine ammonia-lyase OS=Dictyostelium discoideum GN=hal PE=2 SV=1
+TR132920_c2_g1_i9	sp-Q6PHS6-SNX13_MOUSE	sp-Q6PHS6-SNX13_MOUSE Sorting nexin-13 OS=Mus musculus GN=Snx13 PE=2 SV=1
+TR132920_c2_g1_i9	sp-Q6PHS6-SNX13_MOUSE	sp-Q6PHS6-SNX13_MOUSE Sorting nexin-13 OS=Mus musculus GN=Snx13 PE=2 SV=1
+TR132920_c2_g1_i9	sp-Q9Y5W8-SNX13_HUMAN	sp-Q9Y5W8-SNX13_HUMAN Sorting nexin-13 OS=Homo sapiens GN=SNX13 PE=1 SV=4
+TR132920_c2_g1_i9	sp-Q9Y5W8-SNX13_HUMAN	sp-Q9Y5W8-SNX13_HUMAN Sorting nexin-13 OS=Homo sapiens GN=SNX13 PE=1 SV=4
+TR132920_c2_g1_i9	sp-Q9H3E2-SNX25_HUMAN	sp-Q9H3E2-SNX25_HUMAN Sorting nexin-25 OS=Homo sapiens GN=SNX25 PE=1 SV=2
+TR132920_c2_g1_i9	sp-Q9H3E2-SNX25_HUMAN	sp-Q9H3E2-SNX25_HUMAN Sorting nexin-25 OS=Homo sapiens GN=SNX25 PE=1 SV=2
+TR132920_c2_g1_i9	sp-Q3ZT31-SNX25_MOUSE	sp-Q3ZT31-SNX25_MOUSE Sorting nexin-25 OS=Mus musculus GN=Snx25 PE=1 SV=3
+TR132920_c2_g1_i9	sp-Q3ZT31-SNX25_MOUSE	sp-Q3ZT31-SNX25_MOUSE Sorting nexin-25 OS=Mus musculus GN=Snx25 PE=1 SV=3
+TR132920_c2_g1_i9	sp-Q8BHY8-SNX14_MOUSE	sp-Q8BHY8-SNX14_MOUSE Sorting nexin-14 OS=Mus musculus GN=Snx14 PE=1 SV=2
+TR132920_c2_g1_i9	sp-Q8BHY8-SNX14_MOUSE	sp-Q8BHY8-SNX14_MOUSE Sorting nexin-14 OS=Mus musculus GN=Snx14 PE=1 SV=2
+TR132920_c2_g1_i9	sp-Q5PNP1-SNX14_DANRE	sp-Q5PNP1-SNX14_DANRE Sorting nexin-14 OS=Danio rerio GN=snx14 PE=2 SV=3
+TR132920_c2_g1_i9	sp-Q5PNP1-SNX14_DANRE	sp-Q5PNP1-SNX14_DANRE Sorting nexin-14 OS=Danio rerio GN=snx14 PE=2 SV=3
+TR132920_c2_g1_i9	sp-Q9Y5W7-SNX14_HUMAN	sp-Q9Y5W7-SNX14_HUMAN Sorting nexin-14 OS=Homo sapiens GN=SNX14 PE=1 SV=3
+TR132920_c2_g1_i9	sp-Q9Y5W7-SNX14_HUMAN	sp-Q9Y5W7-SNX14_HUMAN Sorting nexin-14 OS=Homo sapiens GN=SNX14 PE=1 SV=3
+TR132920_c2_g1_i9	sp-Q5R903-SNX14_PONAB	sp-Q5R903-SNX14_PONAB Sorting nexin-14 OS=Pongo abelii GN=SNX14 PE=1 SV=1
+TR132920_c2_g1_i9	sp-Q5R903-SNX14_PONAB	sp-Q5R903-SNX14_PONAB Sorting nexin-14 OS=Pongo abelii GN=SNX14 PE=1 SV=1
+TR132920_c2_g1_i9	sp-Q9USN1-SNX12_SCHPO	sp-Q9USN1-SNX12_SCHPO Sorting nexin-12 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=snx12 PE=3 SV=1
+TR132920_c2_g1_i9	sp-Q9USN1-SNX12_SCHPO	sp-Q9USN1-SNX12_SCHPO Sorting nexin-12 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=snx12 PE=3 SV=1
+TR132920_c2_g1_i9	sp-Q8R4V0-SGK3_RAT	sp-Q8R4V0-SGK3_RAT Serine/threonine-protein kinase Sgk3 OS=Rattus norvegicus GN=Sgk3 PE=1 SV=2
+TR133190_c1_g2_i1	sp-P97544-PLPP3_RAT	sp-P97544-PLPP3_RAT Phospholipid phosphatase 3 OS=Rattus norvegicus GN=Plpp3 PE=1 SV=1
+TR133190_c1_g2_i1	sp-O14495-PLPP3_HUMAN	sp-O14495-PLPP3_HUMAN Phospholipid phosphatase 3 OS=Homo sapiens GN=PLPP3 PE=1 SV=1
+TR133190_c1_g2_i1	sp-Q99JY8-PLPP3_MOUSE	sp-Q99JY8-PLPP3_MOUSE Phospholipid phosphatase 3 OS=Mus musculus GN=Plpp3 PE=1 SV=1
+TR133190_c1_g2_i1	sp-Q3SZE3-PLPP3_BOVIN	sp-Q3SZE3-PLPP3_BOVIN Phospholipid phosphatase 3 OS=Bos taurus GN=PLPP3 PE=2 SV=1
+TR133190_c1_g2_i1	sp-Q61469-PLPP1_MOUSE	sp-Q61469-PLPP1_MOUSE Phospholipid phosphatase 1 OS=Mus musculus GN=Plpp1 PE=1 SV=1
+TR133190_c1_g2_i1	sp-Q61469-PLPP1_MOUSE	sp-Q61469-PLPP1_MOUSE Phospholipid phosphatase 1 OS=Mus musculus GN=Plpp1 PE=1 SV=1
+TR133190_c1_g2_i1	sp-O08564-PLPP1_RAT	sp-O08564-PLPP1_RAT Phospholipid phosphatase 1 OS=Rattus norvegicus GN=Plpp1 PE=1 SV=1
+TR133190_c1_g2_i1	sp-O08564-PLPP1_RAT	sp-O08564-PLPP1_RAT Phospholipid phosphatase 1 OS=Rattus norvegicus GN=Plpp1 PE=1 SV=1
+TR133190_c1_g2_i1	sp-O88956-PLPP1_CAVPO	sp-O88956-PLPP1_CAVPO Phospholipid phosphatase 1 OS=Cavia porcellus GN=PLPP1 PE=2 SV=1
+TR133190_c1_g2_i1	sp-O88956-PLPP1_CAVPO	sp-O88956-PLPP1_CAVPO Phospholipid phosphatase 1 OS=Cavia porcellus GN=PLPP1 PE=2 SV=1
+TR133190_c1_g2_i1	sp-O14494-PLPP1_HUMAN	sp-O14494-PLPP1_HUMAN Phospholipid phosphatase 1 OS=Homo sapiens GN=PLPP1 PE=1 SV=1
+TR133190_c1_g2_i1	sp-O14494-PLPP1_HUMAN	sp-O14494-PLPP1_HUMAN Phospholipid phosphatase 1 OS=Homo sapiens GN=PLPP1 PE=1 SV=1
+TR133190_c1_g2_i1	sp-Q8K593-PLPP2_RAT	sp-Q8K593-PLPP2_RAT Phospholipid phosphatase 2 OS=Rattus norvegicus GN=Plpp2 PE=2 SV=1
+TR133190_c1_g2_i1	sp-Q9DAX2-PLPP2_MOUSE	sp-Q9DAX2-PLPP2_MOUSE Phospholipid phosphatase 2 OS=Mus musculus GN=Plpp2 PE=1 SV=1
+TR134062_c0_g1_i4	sp-Q92734-TFG_HUMAN	sp-Q92734-TFG_HUMAN Protein TFG OS=Homo sapiens GN=TFG PE=1 SV=2
+TR135108_c0_g1_i3	sp-Q8H1Z0-CER3_ARATH	sp-Q8H1Z0-CER3_ARATH Protein ECERIFERUM 3 OS=Arabidopsis thaliana GN=CER3 PE=1 SV=1
+TR135108_c0_g1_i3	sp-F4HVY0-CER1_ARATH	sp-F4HVY0-CER1_ARATH Protein ECERIFERUM 1 OS=Arabidopsis thaliana GN=CER1 PE=1 SV=1
+TR135108_c0_g1_i3	sp-A0QP18-MMPLB_MYCS2	sp-A0QP18-MMPLB_MYCS2 Mycolic acid-containing lipids exporter MmpL11 OS=Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155) GN=mmpL11 PE=3 SV=1
+TR135108_c0_g1_i3	sp-A0QP18-MMPLB_MYCS2	sp-A0QP18-MMPLB_MYCS2 Mycolic acid-containing lipids exporter MmpL11 OS=Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155) GN=mmpL11 PE=3 SV=1
+TR135108_c0_g1_i3	sp-F4HVX7-CERL1_ARATH	sp-F4HVX7-CERL1_ARATH Protein CER1-like 1 OS=Arabidopsis thaliana GN=At1g02190 PE=2 SV=1
+TR135108_c0_g1_i3	sp-F4IR05-CERL2_ARATH	sp-F4IR05-CERL2_ARATH Protein CER1-like 2 OS=Arabidopsis thaliana GN=At2g37700 PE=2 SV=1
+TR135108_c0_g1_i3	sp-P9WJT9-MMPLB_MYCTU	sp-P9WJT9-MMPLB_MYCTU Heme uptake protein MmpL11 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) GN=mmpL11 PE=1 SV=1
+TR135108_c0_g1_i3	sp-P9WJT9-MMPLB_MYCTU	sp-P9WJT9-MMPLB_MYCTU Heme uptake protein MmpL11 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) GN=mmpL11 PE=1 SV=1
+TR135108_c0_g1_i3	sp-P9WJT8-MMPLB_MYCTO	sp-P9WJT8-MMPLB_MYCTO Heme uptake protein MmpL11 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) GN=mmpL11 PE=3 SV=1
+TR135108_c0_g1_i3	sp-P9WJT8-MMPLB_MYCTO	sp-P9WJT8-MMPLB_MYCTO Heme uptake protein MmpL11 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) GN=mmpL11 PE=3 SV=1
+TR135108_c0_g1_i3	sp-P65375-MMPLB_MYCBO	sp-P65375-MMPLB_MYCBO Probable transport protein MmpL11 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=mmpL11 PE=3 SV=1
+TR135108_c0_g1_i3	sp-P65375-MMPLB_MYCBO	sp-P65375-MMPLB_MYCBO Probable transport protein MmpL11 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=mmpL11 PE=3 SV=1
+TR135108_c0_g1_i3	sp-O06079-MMPLB_MYCLE	sp-O06079-MMPLB_MYCLE Probable transport protein MmpL11 OS=Mycobacterium leprae (strain TN) GN=mmpL11 PE=3 SV=1
+TR135108_c0_g1_i3	sp-O06079-MMPLB_MYCLE	sp-O06079-MMPLB_MYCLE Probable transport protein MmpL11 OS=Mycobacterium leprae (strain TN) GN=mmpL11 PE=3 SV=1
+TR135108_c0_g1_i3	sp-P96687-YDFJ_BACSU	sp-P96687-YDFJ_BACSU Membrane protein YdfJ OS=Bacillus subtilis (strain 168) GN=ydfJ PE=2 SV=1
+TR137358_c1_g2_i2	sp-O02695-PTPR2_MACNE	sp-O02695-PTPR2_MACNE Receptor-type tyrosine-protein phosphatase N2 OS=Macaca nemestrina GN=PTPRN2 PE=2 SV=1
+TR137358_c1_g2_i2	sp-Q92932-PTPR2_HUMAN	sp-Q92932-PTPR2_HUMAN Receptor-type tyrosine-protein phosphatase N2 OS=Homo sapiens GN=PTPRN2 PE=1 SV=2
+TR137358_c1_g2_i2	sp-P80560-PTPR2_MOUSE	sp-P80560-PTPR2_MOUSE Receptor-type tyrosine-protein phosphatase N2 OS=Mus musculus GN=Ptprn2 PE=1 SV=2
+TR137358_c1_g2_i2	sp-Q63475-PTPR2_RAT	sp-Q63475-PTPR2_RAT Receptor-type tyrosine-protein phosphatase N2 OS=Rattus norvegicus GN=Ptprn2 PE=1 SV=1
+TR137358_c1_g2_i2	sp-Q63259-PTPRN_RAT	sp-Q63259-PTPRN_RAT Receptor-type tyrosine-protein phosphatase-like N OS=Rattus norvegicus GN=Ptprn PE=1 SV=2
+TR137358_c1_g2_i2	sp-Q60673-PTPRN_MOUSE	sp-Q60673-PTPRN_MOUSE Receptor-type tyrosine-protein phosphatase-like N OS=Mus musculus GN=Ptprn PE=1 SV=2
+TR137358_c1_g2_i2	sp-P56722-PTPRN_BOVIN	sp-P56722-PTPRN_BOVIN Receptor-type tyrosine-protein phosphatase-like N OS=Bos taurus GN=PTPRN PE=1 SV=1
+TR137358_c1_g2_i2	sp-Q16849-PTPRN_HUMAN	sp-Q16849-PTPRN_HUMAN Receptor-type tyrosine-protein phosphatase-like N OS=Homo sapiens GN=PTPRN PE=1 SV=1
+TR137358_c1_g2_i2	sp-A4IFW2-PTPRF_DANRE	sp-A4IFW2-PTPRF_DANRE Receptor-type tyrosine-protein phosphatase F OS=Danio rerio GN=ptprf PE=2 SV=1
+TR137358_c1_g2_i2	sp-A4IFW2-PTPRF_DANRE	sp-A4IFW2-PTPRF_DANRE Receptor-type tyrosine-protein phosphatase F OS=Danio rerio GN=ptprf PE=2 SV=1
+TR137358_c1_g2_i2	sp-Q64604-PTPRF_RAT	sp-Q64604-PTPRF_RAT Receptor-type tyrosine-protein phosphatase F OS=Rattus norvegicus GN=Ptprf PE=2 SV=1
+TR137358_c1_g2_i2	sp-Q64604-PTPRF_RAT	sp-Q64604-PTPRF_RAT Receptor-type tyrosine-protein phosphatase F OS=Rattus norvegicus GN=Ptprf PE=2 SV=1
+TR137583_c7_g1_i2	sp-Q9BZF1-OSBL8_HUMAN	sp-Q9BZF1-OSBL8_HUMAN Oxysterol-binding protein-related protein 8 OS=Homo sapiens GN=OSBPL8 PE=1 SV=3
+TR137583_c7_g1_i2	sp-B9EJ86-OSBL8_MOUSE	sp-B9EJ86-OSBL8_MOUSE Oxysterol-binding protein-related protein 8 OS=Mus musculus GN=Osbpl8 PE=1 SV=1
+TR137583_c7_g1_i2	sp-Q9H0X9-OSBL5_HUMAN	sp-Q9H0X9-OSBL5_HUMAN Oxysterol-binding protein-related protein 5 OS=Homo sapiens GN=OSBPL5 PE=1 SV=1
+TR137583_c7_g1_i2	sp-Q9ER64-OSBL5_MOUSE	sp-Q9ER64-OSBL5_MOUSE Oxysterol-binding protein-related protein 5 OS=Mus musculus GN=Osbpl5 PE=1 SV=3
+TR137583_c7_g1_i2	sp-Q86KG4-OSB4_DICDI	sp-Q86KG4-OSB4_DICDI Oxysterol-binding protein 4 OS=Dictyostelium discoideum GN=osbD PE=3 SV=2
+TR137583_c7_g1_i2	sp-Q9UUA1-YJX1_SCHPO	sp-Q9UUA1-YJX1_SCHPO Oxysterol-binding protein homolog C23B6.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPCC23B6.01c PE=1 SV=2
+TR137583_c7_g1_i2	sp-Q9UW25-OBPA_CANAL	sp-Q9UW25-OBPA_CANAL Oxysterol-binding protein-like protein OBPa OS=Candida albicans (strain SC5314 / ATCC MYA-2876) GN=OBPA PE=3 SV=1
+TR137583_c7_g1_i2	sp-Q9UW21-OBPAL_CANAL	sp-Q9UW21-OBPAL_CANAL Oxysterol-binding protein-like protein OBPalpha OS=Candida albicans (strain SC5314 / ATCC MYA-2876) GN=OBPALPHA PE=3 SV=1
+TR137583_c7_g1_i2	sp-P38755-OSH7_YEAST	sp-P38755-OSH7_YEAST Oxysterol-binding protein homolog 7 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=OSH7 PE=1 SV=1
+TR137583_c7_g1_i2	sp-Q02201-OSH6_YEAST	sp-Q02201-OSH6_YEAST Oxysterol-binding protein homolog 6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=OSH6 PE=1 SV=1
+TR137858_c6_g8_i5	sp-Q1LZH9-GNS_BOVIN	sp-Q1LZH9-GNS_BOVIN N-acetylglucosamine-6-sulfatase OS=Bos taurus GN=GNS PE=2 SV=1
+TR137858_c6_g8_i5	sp-P50426-GNS_CAPHI	sp-P50426-GNS_CAPHI N-acetylglucosamine-6-sulfatase OS=Capra hircus GN=GNS PE=2 SV=1
+TR137858_c6_g8_i5	sp-Q8BFR4-GNS_MOUSE	sp-Q8BFR4-GNS_MOUSE N-acetylglucosamine-6-sulfatase OS=Mus musculus GN=Gns PE=1 SV=1
+TR137858_c6_g8_i5	sp-P15586-GNS_HUMAN	sp-P15586-GNS_HUMAN N-acetylglucosamine-6-sulfatase OS=Homo sapiens GN=GNS PE=1 SV=3
+TR137858_c6_g8_i5	sp-Q8IWU5-SULF2_HUMAN	sp-Q8IWU5-SULF2_HUMAN Extracellular sulfatase Sulf-2 OS=Homo sapiens GN=SULF2 PE=1 SV=1
+TR137858_c6_g8_i5	sp-Q8IWU5-SULF2_HUMAN	sp-Q8IWU5-SULF2_HUMAN Extracellular sulfatase Sulf-2 OS=Homo sapiens GN=SULF2 PE=1 SV=1
+TR137858_c6_g8_i5	sp-Q8CFG0-SULF2_MOUSE	sp-Q8CFG0-SULF2_MOUSE Extracellular sulfatase Sulf-2 OS=Mus musculus GN=Sulf2 PE=2 SV=2
+TR137858_c6_g8_i5	sp-Q8CFG0-SULF2_MOUSE	sp-Q8CFG0-SULF2_MOUSE Extracellular sulfatase Sulf-2 OS=Mus musculus GN=Sulf2 PE=2 SV=2
+TR137858_c6_g8_i5	sp-Q21376-SULF1_CAEEL	sp-Q21376-SULF1_CAEEL Putative extracellular sulfatase Sulf-1 homolog OS=Caenorhabditis elegans GN=sul-1 PE=3 SV=1
+TR137858_c6_g8_i5	sp-Q21376-SULF1_CAEEL	sp-Q21376-SULF1_CAEEL Putative extracellular sulfatase Sulf-1 homolog OS=Caenorhabditis elegans GN=sul-1 PE=3 SV=1
+TR137858_c6_g8_i5	sp-Q8K007-SULF1_MOUSE	sp-Q8K007-SULF1_MOUSE Extracellular sulfatase Sulf-1 OS=Mus musculus GN=Sulf1 PE=2 SV=1
+TR137858_c6_g8_i5	sp-Q8K007-SULF1_MOUSE	sp-Q8K007-SULF1_MOUSE Extracellular sulfatase Sulf-1 OS=Mus musculus GN=Sulf1 PE=2 SV=1
+TR137858_c6_g8_i5	sp-Q90XB6-SULF1_COTCO	sp-Q90XB6-SULF1_COTCO Extracellular sulfatase Sulf-1 OS=Coturnix coturnix GN=SULF1 PE=1 SV=1
+TR137858_c6_g8_i5	sp-Q90XB6-SULF1_COTCO	sp-Q90XB6-SULF1_COTCO Extracellular sulfatase Sulf-1 OS=Coturnix coturnix GN=SULF1 PE=1 SV=1
+TR137858_c6_g8_i5	sp-Q8VI60-SULF1_RAT	sp-Q8VI60-SULF1_RAT Extracellular sulfatase Sulf-1 OS=Rattus norvegicus GN=Sulf1 PE=1 SV=1
+TR137858_c6_g8_i5	sp-Q8VI60-SULF1_RAT	sp-Q8VI60-SULF1_RAT Extracellular sulfatase Sulf-1 OS=Rattus norvegicus GN=Sulf1 PE=1 SV=1
+TR139674_c2_g3_i2	sp-Q62746-SYT6_RAT	sp-Q62746-SYT6_RAT Synaptotagmin-6 OS=Rattus norvegicus GN=Syt6 PE=1 SV=1
+TR139674_c2_g3_i2	sp-Q9R0N8-SYT6_MOUSE	sp-Q9R0N8-SYT6_MOUSE Synaptotagmin-6 OS=Mus musculus GN=Syt6 PE=1 SV=2
+TR139674_c2_g3_i2	sp-Q5T7P8-SYT6_HUMAN	sp-Q5T7P8-SYT6_HUMAN Synaptotagmin-6 OS=Homo sapiens GN=SYT6 PE=1 SV=3
+TR139674_c2_g3_i2	sp-Q9R0N9-SYT9_MOUSE	sp-Q9R0N9-SYT9_MOUSE Synaptotagmin-9 OS=Mus musculus GN=Syt9 PE=1 SV=2
+TR139674_c2_g3_i2	sp-Q925C0-SYT9_RAT	sp-Q925C0-SYT9_RAT Synaptotagmin-9 OS=Rattus norvegicus GN=Syt9 PE=1 SV=1
+TR139674_c2_g3_i2	sp-Q86SS6-SYT9_HUMAN	sp-Q86SS6-SYT9_HUMAN Synaptotagmin-9 OS=Homo sapiens GN=SYT9 PE=2 SV=1
+TR139674_c2_g3_i2	sp-Q5RCK6-SYT10_PONAB	sp-Q5RCK6-SYT10_PONAB Synaptotagmin-10 OS=Pongo abelii GN=SYT10 PE=2 SV=1
+TR139674_c2_g3_i2	sp-O43581-SYT7_HUMAN	sp-O43581-SYT7_HUMAN Synaptotagmin-7 OS=Homo sapiens GN=SYT7 PE=1 SV=3
+TR139674_c2_g3_i2	sp-O08625-SYT10_RAT	sp-O08625-SYT10_RAT Synaptotagmin-10 OS=Rattus norvegicus GN=Syt10 PE=2 SV=2
+TR139674_c2_g3_i2	sp-Q6XYQ8-SYT10_HUMAN	sp-Q6XYQ8-SYT10_HUMAN Synaptotagmin-10 OS=Homo sapiens GN=SYT10 PE=2 SV=1
+TR139754_c1_g4_i3	sp-Q8WVM7-STAG1_HUMAN	sp-Q8WVM7-STAG1_HUMAN Cohesin subunit SA-1 OS=Homo sapiens GN=STAG1 PE=1 SV=3
+TR139754_c1_g4_i3	sp-Q9D3E6-STAG1_MOUSE	sp-Q9D3E6-STAG1_MOUSE Cohesin subunit SA-1 OS=Mus musculus GN=Stag1 PE=1 SV=3
+TR139754_c1_g4_i3	sp-Q9DGN1-STAG1_XENLA	sp-Q9DGN1-STAG1_XENLA Cohesin subunit SA-1 OS=Xenopus laevis GN=stag1 PE=1 SV=1
+TR139754_c1_g4_i3	sp-Q9DGN1-STAG1_XENLA	sp-Q9DGN1-STAG1_XENLA Cohesin subunit SA-1 OS=Xenopus laevis GN=stag1 PE=1 SV=1
+TR139754_c1_g4_i3	sp-Q8N3U4-STAG2_HUMAN	sp-Q8N3U4-STAG2_HUMAN Cohesin subunit SA-2 OS=Homo sapiens GN=STAG2 PE=1 SV=3
+TR139754_c1_g4_i3	sp-O35638-STAG2_MOUSE	sp-O35638-STAG2_MOUSE Cohesin subunit SA-2 OS=Mus musculus GN=Stag2 PE=1 SV=3
+TR139754_c1_g4_i3	sp-Q9DGN0-STAG2_XENLA	sp-Q9DGN0-STAG2_XENLA Cohesin subunit SA-2 OS=Xenopus laevis GN=stag2 PE=1 SV=1
+TR139754_c1_g4_i3	sp-Q9UJ98-STAG3_HUMAN	sp-Q9UJ98-STAG3_HUMAN Cohesin subunit SA-3 OS=Homo sapiens GN=STAG3 PE=1 SV=2
+TR139754_c1_g4_i3	sp-O70576-STAG3_MOUSE	sp-O70576-STAG3_MOUSE Cohesin subunit SA-3 OS=Mus musculus GN=Stag3 PE=1 SV=2
+TR139754_c1_g4_i3	sp-Q99M76-STAG3_RAT	sp-Q99M76-STAG3_RAT Cohesin subunit SA-3 OS=Rattus norvegicus GN=Stag3 PE=2 SV=1
+TR139754_c1_g4_i3	sp-Q19555-SCC3_CAEEL	sp-Q19555-SCC3_CAEEL Cohesin subunit scc-3 OS=Caenorhabditis elegans GN=scc-3 PE=1 SV=1
+TR139785_c1_g1_i2	sp-Q9CYL5-GAPR1_MOUSE	sp-Q9CYL5-GAPR1_MOUSE Golgi-associated plant pathogenesis-related protein 1 OS=Mus musculus GN=Glipr2 PE=1 SV=3
+TR139785_c1_g1_i2	sp-Q9CYL5-GAPR1_MOUSE	sp-Q9CYL5-GAPR1_MOUSE Golgi-associated plant pathogenesis-related protein 1 OS=Mus musculus GN=Glipr2 PE=1 SV=3
+TR139785_c1_g1_i2	sp-Q9CYL5-GAPR1_MOUSE	sp-Q9CYL5-GAPR1_MOUSE Golgi-associated plant pathogenesis-related protein 1 OS=Mus musculus GN=Glipr2 PE=1 SV=3
+TR139785_c1_g1_i2	sp-Q9CYL5-GAPR1_MOUSE	sp-Q9CYL5-GAPR1_MOUSE Golgi-associated plant pathogenesis-related protein 1 OS=Mus musculus GN=Glipr2 PE=1 SV=3
+TR139785_c1_g1_i2	sp-Q9CYL5-GAPR1_MOUSE	sp-Q9CYL5-GAPR1_MOUSE Golgi-associated plant pathogenesis-related protein 1 OS=Mus musculus GN=Glipr2 PE=1 SV=3
+TR139785_c1_g1_i2	sp-Q9H4G4-GAPR1_HUMAN	sp-Q9H4G4-GAPR1_HUMAN Golgi-associated plant pathogenesis-related protein 1 OS=Homo sapiens GN=GLIPR2 PE=1 SV=3
+TR139785_c1_g1_i2	sp-Q9H4G4-GAPR1_HUMAN	sp-Q9H4G4-GAPR1_HUMAN Golgi-associated plant pathogenesis-related protein 1 OS=Homo sapiens GN=GLIPR2 PE=1 SV=3
+TR139785_c1_g1_i2	sp-Q9H4G4-GAPR1_HUMAN	sp-Q9H4G4-GAPR1_HUMAN Golgi-associated plant pathogenesis-related protein 1 OS=Homo sapiens GN=GLIPR2 PE=1 SV=3
+TR139785_c1_g1_i2	sp-Q9H4G4-GAPR1_HUMAN	sp-Q9H4G4-GAPR1_HUMAN Golgi-associated plant pathogenesis-related protein 1 OS=Homo sapiens GN=GLIPR2 PE=1 SV=3
+TR139785_c1_g1_i2	sp-Q9H4G4-GAPR1_HUMAN	sp-Q9H4G4-GAPR1_HUMAN Golgi-associated plant pathogenesis-related protein 1 OS=Homo sapiens GN=GLIPR2 PE=1 SV=3
+TR139785_c1_g1_i2	sp-P47032-PRY1_YEAST	sp-P47032-PRY1_YEAST Protein PRY1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY1 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P47032-PRY1_YEAST	sp-P47032-PRY1_YEAST Protein PRY1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY1 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P47032-PRY1_YEAST	sp-P47032-PRY1_YEAST Protein PRY1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY1 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P47032-PRY1_YEAST	sp-P47032-PRY1_YEAST Protein PRY1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY1 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P47032-PRY1_YEAST	sp-P47032-PRY1_YEAST Protein PRY1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY1 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P36110-PRY2_YEAST	sp-P36110-PRY2_YEAST Protein PRY2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY2 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P36110-PRY2_YEAST	sp-P36110-PRY2_YEAST Protein PRY2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY2 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P36110-PRY2_YEAST	sp-P36110-PRY2_YEAST Protein PRY2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY2 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P36110-PRY2_YEAST	sp-P36110-PRY2_YEAST Protein PRY2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY2 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P47033-PRY3_YEAST	sp-P47033-PRY3_YEAST Cell wall protein PRY3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY3 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P47033-PRY3_YEAST	sp-P47033-PRY3_YEAST Cell wall protein PRY3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY3 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P47033-PRY3_YEAST	sp-P47033-PRY3_YEAST Cell wall protein PRY3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY3 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P47033-PRY3_YEAST	sp-P47033-PRY3_YEAST Cell wall protein PRY3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRY3 PE=1 SV=1
+TR139785_c1_g1_i2	sp-Q59ZX3-RBE1_CANAL	sp-Q59ZX3-RBE1_CANAL Repressed by EFG1 protein 1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) GN=RBE1 PE=1 SV=1
+TR139785_c1_g1_i2	sp-Q59ZX3-RBE1_CANAL	sp-Q59ZX3-RBE1_CANAL Repressed by EFG1 protein 1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) GN=RBE1 PE=1 SV=1
+TR139785_c1_g1_i2	sp-Q59ZX3-RBE1_CANAL	sp-Q59ZX3-RBE1_CANAL Repressed by EFG1 protein 1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) GN=RBE1 PE=1 SV=1
+TR139785_c1_g1_i2	sp-Q59ZX3-RBE1_CANAL	sp-Q59ZX3-RBE1_CANAL Repressed by EFG1 protein 1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) GN=RBE1 PE=1 SV=1
+TR139785_c1_g1_i2	sp-Q59ZX3-RBE1_CANAL	sp-Q59ZX3-RBE1_CANAL Repressed by EFG1 protein 1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) GN=RBE1 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P33154-PR1_ARATH	sp-P33154-PR1_ARATH Pathogenesis-related protein 1 OS=Arabidopsis thaliana GN=At2g14610 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P33154-PR1_ARATH	sp-P33154-PR1_ARATH Pathogenesis-related protein 1 OS=Arabidopsis thaliana GN=At2g14610 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P33154-PR1_ARATH	sp-P33154-PR1_ARATH Pathogenesis-related protein 1 OS=Arabidopsis thaliana GN=At2g14610 PE=1 SV=1
+TR139785_c1_g1_i2	sp-P33154-PR1_ARATH	sp-P33154-PR1_ARATH Pathogenesis-related protein 1 OS=Arabidopsis thaliana GN=At2g14610 PE=1 SV=1
+TR139785_c1_g1_i2	sp-Q9ZNS4-PRB1_ARATH	sp-Q9ZNS4-PRB1_ARATH Pathogenesis-related protein 1 OS=Arabidopsis thaliana GN=PRB1 PE=2 SV=1
+TR139785_c1_g1_i2	sp-Q9ZNS4-PRB1_ARATH	sp-Q9ZNS4-PRB1_ARATH Pathogenesis-related protein 1 OS=Arabidopsis thaliana GN=PRB1 PE=2 SV=1
+TR139785_c1_g1_i2	sp-Q9ZNS4-PRB1_ARATH	sp-Q9ZNS4-PRB1_ARATH Pathogenesis-related protein 1 OS=Arabidopsis thaliana GN=PRB1 PE=2 SV=1
+TR139785_c1_g1_i2	sp-Q9ZNS4-PRB1_ARATH	sp-Q9ZNS4-PRB1_ARATH Pathogenesis-related protein 1 OS=Arabidopsis thaliana GN=PRB1 PE=2 SV=1
+TR139785_c1_g1_i2	sp-Q41359-PR1_SAMNI	sp-Q41359-PR1_SAMNI Pathogenesis-related protein PR-1 type OS=Sambucus nigra PE=2 SV=1
+TR139785_c1_g1_i2	sp-Q41359-PR1_SAMNI	sp-Q41359-PR1_SAMNI Pathogenesis-related protein PR-1 type OS=Sambucus nigra PE=2 SV=1
+TR139785_c1_g1_i2	sp-Q41359-PR1_SAMNI	sp-Q41359-PR1_SAMNI Pathogenesis-related protein PR-1 type OS=Sambucus nigra PE=2 SV=1
+TR139785_c1_g1_i2	sp-Q41359-PR1_SAMNI	sp-Q41359-PR1_SAMNI Pathogenesis-related protein PR-1 type OS=Sambucus nigra PE=2 SV=1
+TR139785_c1_g1_i2	sp-P07053-PR1B_TOBAC	sp-P07053-PR1B_TOBAC Pathogenesis-related protein 1B OS=Nicotiana tabacum PE=2 SV=1
+TR139785_c1_g1_i2	sp-P07053-PR1B_TOBAC	sp-P07053-PR1B_TOBAC Pathogenesis-related protein 1B OS=Nicotiana tabacum PE=2 SV=1
+TR139785_c1_g1_i2	sp-P07053-PR1B_TOBAC	sp-P07053-PR1B_TOBAC Pathogenesis-related protein 1B OS=Nicotiana tabacum PE=2 SV=1
+TR139785_c1_g1_i2	sp-P07053-PR1B_TOBAC	sp-P07053-PR1B_TOBAC Pathogenesis-related protein 1B OS=Nicotiana tabacum PE=2 SV=1
+TR140276_c0_g1_i3	sp-Q6DGZ0-GPT11_DANRE	sp-Q6DGZ0-GPT11_DANRE G patch domain-containing protein 11 OS=Danio rerio GN=gpatch11 PE=2 SV=1
+TR140276_c0_g1_i3	sp-Q6DF57-GPT11_XENTR	sp-Q6DF57-GPT11_XENTR G patch domain-containing protein 11 OS=Xenopus tropicalis GN=gpatch11 PE=2 SV=1
+TR140276_c0_g1_i3	sp-Q2KI19-GPT11_BOVIN	sp-Q2KI19-GPT11_BOVIN G patch domain-containing protein 11 OS=Bos taurus GN=GPATCH11 PE=2 SV=2
+TR140276_c0_g1_i3	sp-Q8N954-GPT11_HUMAN	sp-Q8N954-GPT11_HUMAN G patch domain-containing protein 11 OS=Homo sapiens GN=GPATCH11 PE=1 SV=3
+TR140276_c0_g1_i3	sp-Q3UFS4-GPT11_MOUSE	sp-Q3UFS4-GPT11_MOUSE G patch domain-containing protein 11 OS=Mus musculus GN=Gpatch11 PE=1 SV=2
+TR140276_c0_g1_i3	sp-Q61858-GPAN1_MOUSE	sp-Q61858-GPAN1_MOUSE G patch domain and ankyrin repeat-containing protein 1 OS=Mus musculus GN=Gpank1 PE=2 SV=2
+TR140276_c0_g1_i3	sp-O95872-GPAN1_HUMAN	sp-O95872-GPAN1_HUMAN G patch domain and ankyrin repeat-containing protein 1 OS=Homo sapiens GN=GPANK1 PE=1 SV=1
+TR140276_c0_g1_i3	sp-C6Y4A5-YELS_SCHPO	sp-C6Y4A5-YELS_SCHPO Uncharacterized protein C6F6.19 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPAC6F6.19 PE=2 SV=1
+TR140276_c0_g1_i3	sp-Q6C233-SQS1_YARLI	sp-Q6C233-SQS1_YARLI Protein SQS1 OS=Yarrowia lipolytica (strain CLIB 122 / E 150) GN=SQS1 PE=3 SV=1
+TR140276_c0_g1_i3	sp-A2A6A1-GPTC8_MOUSE	sp-A2A6A1-GPTC8_MOUSE G patch domain-containing protein 8 OS=Mus musculus GN=Gpatch8 PE=1 SV=1
+TR144026_c1_g2_i1	sp-A2RU49-HYKK_HUMAN	sp-A2RU49-HYKK_HUMAN Hydroxylysine kinase OS=Homo sapiens GN=HYKK PE=1 SV=2
+TR144026_c1_g2_i1	sp-Q5U5V2-HYKK_MOUSE	sp-Q5U5V2-HYKK_MOUSE Hydroxylysine kinase OS=Mus musculus GN=Hykk PE=1 SV=2
+TR144026_c1_g2_i1	sp-A5PJU6-HYKK_BOVIN	sp-A5PJU6-HYKK_BOVIN Hydroxylysine kinase OS=Bos taurus GN=HYKK PE=2 SV=1
+TR144026_c1_g2_i1	sp-A8WFT6-HYKK_DANRE	sp-A8WFT6-HYKK_DANRE Hydroxylysine kinase OS=Danio rerio GN=hykk PE=2 SV=1
+TR144026_c1_g2_i1	sp-Q6PB06-HYKK_XENLA	sp-Q6PB06-HYKK_XENLA Hydroxylysine kinase OS=Xenopus laevis GN=hykk PE=2 SV=1
+TR144026_c1_g2_i1	sp-Q2KBL3-KHSE_RHIEC	sp-Q2KBL3-KHSE_RHIEC Homoserine kinase OS=Rhizobium etli (strain CFN 42 / ATCC 51251) GN=thrB PE=3 SV=1
+TR144026_c1_g2_i1	sp-B3PSC0-KHSE_RHIE6	sp-B3PSC0-KHSE_RHIE6 Homoserine kinase OS=Rhizobium etli (strain CIAT 652) GN=thrB PE=3 SV=1
+TR144026_c1_g2_i1	sp-B5ZSW0-KHSE_RHILW	sp-B5ZSW0-KHSE_RHILW Homoserine kinase OS=Rhizobium leguminosarum bv. trifolii (strain WSM2304) GN=thrB PE=3 SV=1
+TR144026_c1_g2_i1	sp-Q8UHA8-KHSE_AGRFC	sp-Q8UHA8-KHSE_AGRFC Homoserine kinase OS=Agrobacterium fabrum (strain C58 / ATCC 33970) GN=thrB PE=1 SV=1
+TR144026_c1_g2_i1	sp-Q1MKH7-KHSE_RHIL3	sp-Q1MKH7-KHSE_RHIL3 Homoserine kinase OS=Rhizobium leguminosarum bv. viciae (strain 3841) GN=thrB PE=3 SV=1
+TR148885_c7_g1_i4	sp-Q9WTJ8-FA50B_MOUSE	sp-Q9WTJ8-FA50B_MOUSE Protein FAM50B OS=Mus musculus GN=Fam50b PE=2 SV=1
+TR148885_c7_g1_i4	sp-Q9WTJ8-FA50B_MOUSE	sp-Q9WTJ8-FA50B_MOUSE Protein FAM50B OS=Mus musculus GN=Fam50b PE=2 SV=1
+TR148885_c7_g1_i4	sp-Q2VPH1-F50AA_XENLA	sp-Q2VPH1-F50AA_XENLA Protein FAM50A-A OS=Xenopus laevis GN=fam50a-a PE=2 SV=1
+TR148885_c7_g1_i4	sp-Q2VPH1-F50AA_XENLA	sp-Q2VPH1-F50AA_XENLA Protein FAM50A-A OS=Xenopus laevis GN=fam50a-a PE=2 SV=1
+TR148885_c7_g1_i4	sp-Q4KLV7-F50AB_XENLA	sp-Q4KLV7-F50AB_XENLA Protein FAM50A-B OS=Xenopus laevis GN=fam50a-b PE=2 SV=1
+TR148885_c7_g1_i4	sp-Q4KLV7-F50AB_XENLA	sp-Q4KLV7-F50AB_XENLA Protein FAM50A-B OS=Xenopus laevis GN=fam50a-b PE=2 SV=1
+TR148885_c7_g1_i4	sp-Q28BK4-FA50A_XENTR	sp-Q28BK4-FA50A_XENTR Protein FAM50A OS=Xenopus tropicalis GN=fam50a PE=2 SV=2
+TR148885_c7_g1_i4	sp-Q28BK4-FA50A_XENTR	sp-Q28BK4-FA50A_XENTR Protein FAM50A OS=Xenopus tropicalis GN=fam50a PE=2 SV=2
+TR148885_c7_g1_i4	sp-Q9WV03-FA50A_MOUSE	sp-Q9WV03-FA50A_MOUSE Protein FAM50A OS=Mus musculus GN=Fam50a PE=1 SV=1
+TR148885_c7_g1_i4	sp-Q9WV03-FA50A_MOUSE	sp-Q9WV03-FA50A_MOUSE Protein FAM50A OS=Mus musculus GN=Fam50a PE=1 SV=1
+TR148885_c7_g1_i4	sp-Q14320-FA50A_HUMAN	sp-Q14320-FA50A_HUMAN Protein FAM50A OS=Homo sapiens GN=FAM50A PE=1 SV=2
+TR148885_c7_g1_i4	sp-Q14320-FA50A_HUMAN	sp-Q14320-FA50A_HUMAN Protein FAM50A OS=Homo sapiens GN=FAM50A PE=1 SV=2
+TR148885_c7_g1_i4	sp-Q299F9-FAM50_DROPS	sp-Q299F9-FAM50_DROPS Protein FAM50 homolog OS=Drosophila pseudoobscura pseudoobscura GN=GA11514 PE=3 SV=1
+TR148885_c7_g1_i4	sp-Q299F9-FAM50_DROPS	sp-Q299F9-FAM50_DROPS Protein FAM50 homolog OS=Drosophila pseudoobscura pseudoobscura GN=GA11514 PE=3 SV=1
+TR148885_c7_g1_i4	sp-Q9VAY7-FAM50_DROME	sp-Q9VAY7-FAM50_DROME Protein FAM50 homolog OS=Drosophila melanogaster GN=CG12259 PE=2 SV=1
+TR148885_c7_g1_i4	sp-Q9VAY7-FAM50_DROME	sp-Q9VAY7-FAM50_DROME Protein FAM50 homolog OS=Drosophila melanogaster GN=CG12259 PE=2 SV=1
+TR148885_c7_g1_i4	sp-Q568K9-FA50A_DANRE	sp-Q568K9-FA50A_DANRE Protein FAM50A OS=Danio rerio GN=fam50a PE=2 SV=1
+TR148885_c7_g1_i4	sp-Q568K9-FA50A_DANRE	sp-Q568K9-FA50A_DANRE Protein FAM50A OS=Danio rerio GN=fam50a PE=2 SV=1
+TR148885_c7_g1_i4	sp-Q7PYQ5-FAM50_ANOGA	sp-Q7PYQ5-FAM50_ANOGA Protein FAM50 homolog OS=Anopheles gambiae GN=AGAP002062 PE=3 SV=2
+TR148885_c7_g1_i4	sp-Q7PYQ5-FAM50_ANOGA	sp-Q7PYQ5-FAM50_ANOGA Protein FAM50 homolog OS=Anopheles gambiae GN=AGAP002062 PE=3 SV=2
+TR148939_c2_g1_i1	sp-O15085-ARHGB_HUMAN	sp-O15085-ARHGB_HUMAN Rho guanine nucleotide exchange factor 11 OS=Homo sapiens GN=ARHGEF11 PE=1 SV=1
+TR148939_c2_g1_i1	sp-O15085-ARHGB_HUMAN	sp-O15085-ARHGB_HUMAN Rho guanine nucleotide exchange factor 11 OS=Homo sapiens GN=ARHGEF11 PE=1 SV=1
+TR148939_c2_g1_i1	sp-O15085-ARHGB_HUMAN	sp-O15085-ARHGB_HUMAN Rho guanine nucleotide exchange factor 11 OS=Homo sapiens GN=ARHGEF11 PE=1 SV=1
+TR148939_c2_g1_i1	sp-Q9ES67-ARHGB_RAT	sp-Q9ES67-ARHGB_RAT Rho guanine nucleotide exchange factor 11 OS=Rattus norvegicus GN=Arhgef11 PE=1 SV=1
+TR148939_c2_g1_i1	sp-Q9ES67-ARHGB_RAT	sp-Q9ES67-ARHGB_RAT Rho guanine nucleotide exchange factor 11 OS=Rattus norvegicus GN=Arhgef11 PE=1 SV=1
+TR148939_c2_g1_i1	sp-Q9ES67-ARHGB_RAT	sp-Q9ES67-ARHGB_RAT Rho guanine nucleotide exchange factor 11 OS=Rattus norvegicus GN=Arhgef11 PE=1 SV=1
+TR148939_c2_g1_i1	sp-Q92888-ARHG1_HUMAN	sp-Q92888-ARHG1_HUMAN Rho guanine nucleotide exchange factor 1 OS=Homo sapiens GN=ARHGEF1 PE=1 SV=2
+TR148939_c2_g1_i1	sp-Q92888-ARHG1_HUMAN	sp-Q92888-ARHG1_HUMAN Rho guanine nucleotide exchange factor 1 OS=Homo sapiens GN=ARHGEF1 PE=1 SV=2
+TR148939_c2_g1_i1	sp-Q61210-ARHG1_MOUSE	sp-Q61210-ARHG1_MOUSE Rho guanine nucleotide exchange factor 1 OS=Mus musculus GN=Arhgef1 PE=1 SV=2
+TR148939_c2_g1_i1	sp-Q61210-ARHG1_MOUSE	sp-Q61210-ARHG1_MOUSE Rho guanine nucleotide exchange factor 1 OS=Mus musculus GN=Arhgef1 PE=1 SV=2
+TR148939_c2_g1_i1	sp-Q9NZN5-ARHGC_HUMAN	sp-Q9NZN5-ARHGC_HUMAN Rho guanine nucleotide exchange factor 12 OS=Homo sapiens GN=ARHGEF12 PE=1 SV=1
+TR148939_c2_g1_i1	sp-Q9NZN5-ARHGC_HUMAN	sp-Q9NZN5-ARHGC_HUMAN Rho guanine nucleotide exchange factor 12 OS=Homo sapiens GN=ARHGEF12 PE=1 SV=1
+TR148939_c2_g1_i1	sp-Q9NZN5-ARHGC_HUMAN	sp-Q9NZN5-ARHGC_HUMAN Rho guanine nucleotide exchange factor 12 OS=Homo sapiens GN=ARHGEF12 PE=1 SV=1
+TR148939_c2_g1_i1	sp-Q8R4H2-ARHGC_MOUSE	sp-Q8R4H2-ARHGC_MOUSE Rho guanine nucleotide exchange factor 12 OS=Mus musculus GN=Arhgef12 PE=1 SV=2
+TR148939_c2_g1_i1	sp-Q8R4H2-ARHGC_MOUSE	sp-Q8R4H2-ARHGC_MOUSE Rho guanine nucleotide exchange factor 12 OS=Mus musculus GN=Arhgef12 PE=1 SV=2
+TR148939_c2_g1_i1	sp-Q8R4H2-ARHGC_MOUSE	sp-Q8R4H2-ARHGC_MOUSE Rho guanine nucleotide exchange factor 12 OS=Mus musculus GN=Arhgef12 PE=1 SV=2
+TR148939_c2_g1_i1	sp-Q9Z1I6-ARHG1_RAT	sp-Q9Z1I6-ARHG1_RAT Rho guanine nucleotide exchange factor 1 OS=Rattus norvegicus GN=Arhgef1 PE=2 SV=1
+TR148939_c2_g1_i1	sp-Q9Z1I6-ARHG1_RAT	sp-Q9Z1I6-ARHG1_RAT Rho guanine nucleotide exchange factor 1 OS=Rattus norvegicus GN=Arhgef1 PE=2 SV=1
+TR148939_c2_g1_i1	sp-Q6ZSZ5-ARHGI_HUMAN	sp-Q6ZSZ5-ARHGI_HUMAN Rho guanine nucleotide exchange factor 18 OS=Homo sapiens GN=ARHGEF18 PE=1 SV=3
+TR148939_c2_g1_i1	sp-Q6P9R4-ARHGI_MOUSE	sp-Q6P9R4-ARHGI_MOUSE Rho guanine nucleotide exchange factor 18 OS=Mus musculus GN=Arhgef18 PE=1 SV=2
+TR148939_c2_g1_i1	sp-Q12802-AKP13_HUMAN	sp-Q12802-AKP13_HUMAN A-kinase anchor protein 13 OS=Homo sapiens GN=AKAP13 PE=1 SV=2
+TR151667_c5_g1_i2	sp-Q3ZBN8-TIM14_BOVIN	sp-Q3ZBN8-TIM14_BOVIN Mitochondrial import inner membrane translocase subunit TIM14 OS=Bos taurus GN=DNAJC19 PE=3 SV=3
+TR151667_c5_g1_i2	sp-Q5RF34-TIM14_PONAB	sp-Q5RF34-TIM14_PONAB Mitochondrial import inner membrane translocase subunit TIM14 OS=Pongo abelii GN=DNAJC19 PE=3 SV=3
+TR151667_c5_g1_i2	sp-Q96DA6-TIM14_HUMAN	sp-Q96DA6-TIM14_HUMAN Mitochondrial import inner membrane translocase subunit TIM14 OS=Homo sapiens GN=DNAJC19 PE=1 SV=3
+TR151667_c5_g1_i2	sp-Q6PBT7-TIM14_DANRE	sp-Q6PBT7-TIM14_DANRE Mitochondrial import inner membrane translocase subunit TIM14 OS=Danio rerio GN=dnajc19 PE=3 SV=1
+TR151667_c5_g1_i2	sp-Q9Y5T4-DJC15_HUMAN	sp-Q9Y5T4-DJC15_HUMAN DnaJ homolog subfamily C member 15 OS=Homo sapiens GN=DNAJC15 PE=1 SV=2
+TR151667_c5_g1_i2	sp-Q5RCP4-DJC15_PONAB	sp-Q5RCP4-DJC15_PONAB DnaJ homolog subfamily C member 15 OS=Pongo abelii GN=DNAJC15 PE=2 SV=1
+TR151667_c5_g1_i2	sp-Q9VTJ8-TIM14_DROME	sp-Q9VTJ8-TIM14_DROME Mitochondrial import inner membrane translocase subunit TIM14 OS=Drosophila melanogaster GN=Tim14 PE=3 SV=2
+TR151667_c5_g1_i2	sp-Q78YY6-DJC15_MOUSE	sp-Q78YY6-DJC15_MOUSE DnaJ homolog subfamily C member 15 OS=Mus musculus GN=Dnajc15 PE=1 SV=1
+TR151667_c5_g1_i2	sp-Q9CQV7-TIM14_MOUSE	sp-Q9CQV7-TIM14_MOUSE Mitochondrial import inner membrane translocase subunit TIM14 OS=Mus musculus GN=Dnajc19 PE=1 SV=3
+TR151667_c5_g1_i2	sp-Q6DDA1-DJC15_XENTR	sp-Q6DDA1-DJC15_XENTR DnaJ homolog subfamily C member 15 OS=Xenopus tropicalis GN=dnajc15 PE=2 SV=1
+TR152626_c1_g1_i2	sp-P26686-SRR55_DROME	sp-P26686-SRR55_DROME Serine-arginine protein 55 OS=Drosophila melanogaster GN=B52 PE=1 SV=4
+TR152626_c1_g1_i2	sp-Q8VE97-SRSF4_MOUSE	sp-Q8VE97-SRSF4_MOUSE Serine/arginine-rich splicing factor 4 OS=Mus musculus GN=Srsf4 PE=2 SV=1
+TR152626_c1_g1_i2	sp-Q08170-SRSF4_HUMAN	sp-Q08170-SRSF4_HUMAN Serine/arginine-rich splicing factor 4 OS=Homo sapiens GN=SRSF4 PE=1 SV=2
+TR152626_c1_g1_i2	sp-Q13247-SRSF6_HUMAN	sp-Q13247-SRSF6_HUMAN Serine/arginine-rich splicing factor 6 OS=Homo sapiens GN=SRSF6 PE=1 SV=2
+TR152626_c1_g1_i2	sp-G3V6S8-SRSF6_RAT	sp-G3V6S8-SRSF6_RAT Serine/arginine-rich splicing factor 6 OS=Rattus norvegicus GN=Srsf6 PE=1 SV=1
+TR152626_c1_g1_i2	sp-Q3TWW8-SRSF6_MOUSE	sp-Q3TWW8-SRSF6_MOUSE Serine/arginine-rich splicing factor 6 OS=Mus musculus GN=Srsf6 PE=1 SV=1
+TR152626_c1_g1_i2	sp-Q3B7L6-SRSF6_BOVIN	sp-Q3B7L6-SRSF6_BOVIN Serine/arginine-rich splicing factor 6 OS=Bos taurus GN=SRSF6 PE=2 SV=1
+TR152626_c1_g1_i2	sp-Q09167-SRSF5_RAT	sp-Q09167-SRSF5_RAT Serine/arginine-rich splicing factor 5 OS=Rattus norvegicus GN=Srsf5 PE=1 SV=1
+TR152626_c1_g1_i2	sp-O35326-SRSF5_MOUSE	sp-O35326-SRSF5_MOUSE Serine/arginine-rich splicing factor 5 OS=Mus musculus GN=Srsf5 PE=1 SV=2
+TR152626_c1_g1_i2	sp-Q13243-SRSF5_HUMAN	sp-Q13243-SRSF5_HUMAN Serine/arginine-rich splicing factor 5 OS=Homo sapiens GN=SRSF5 PE=1 SV=1
+TR154533_c3_g1_i3	sp-Q6ZR37-PKHG7_HUMAN	sp-Q6ZR37-PKHG7_HUMAN Pleckstrin homology domain-containing family G member 7 OS=Homo sapiens GN=PLEKHG7 PE=2 SV=1
+TR154533_c3_g1_i3	sp-Q6RFZ7-PKHG5_RAT	sp-Q6RFZ7-PKHG5_RAT Pleckstrin homology domain-containing family G member 5 OS=Rattus norvegicus GN=Plekhg5 PE=1 SV=1
+TR154533_c3_g1_i3	sp-Q8R0J1-PKHG6_MOUSE	sp-Q8R0J1-PKHG6_MOUSE Pleckstrin homology domain-containing family G member 6 OS=Mus musculus GN=Plekhg6 PE=2 SV=2
+TR154533_c3_g1_i3	sp-O94827-PKHG5_HUMAN	sp-O94827-PKHG5_HUMAN Pleckstrin homology domain-containing family G member 5 OS=Homo sapiens GN=PLEKHG5 PE=1 SV=3
+TR154533_c3_g1_i3	sp-Q66T02-PKHG5_MOUSE	sp-Q66T02-PKHG5_MOUSE Pleckstrin homology domain-containing family G member 5 OS=Mus musculus GN=Plekhg5 PE=1 SV=1
+TR154533_c3_g1_i3	sp-Q3KR16-PKHG6_HUMAN	sp-Q3KR16-PKHG6_HUMAN Pleckstrin homology domain-containing family G member 6 OS=Homo sapiens GN=PLEKHG6 PE=1 SV=3
+TR154533_c3_g1_i3	sp-Q15811-ITSN1_HUMAN	sp-Q15811-ITSN1_HUMAN Intersectin-1 OS=Homo sapiens GN=ITSN1 PE=1 SV=3
+TR154533_c3_g1_i3	sp-Q9Z0R4-ITSN1_MOUSE	sp-Q9Z0R4-ITSN1_MOUSE Intersectin-1 OS=Mus musculus GN=Itsn1 PE=1 SV=2
+TR154533_c3_g1_i3	sp-Q9NZM3-ITSN2_HUMAN	sp-Q9NZM3-ITSN2_HUMAN Intersectin-2 OS=Homo sapiens GN=ITSN2 PE=1 SV=3
+TR154533_c3_g1_i3	sp-Q9Z0R6-ITSN2_MOUSE	sp-Q9Z0R6-ITSN2_MOUSE Intersectin-2 OS=Mus musculus GN=Itsn2 PE=1 SV=2
+TR163914_c3_g2_i1	sp-A3E4D8-CALM_PROMN	sp-A3E4D8-CALM_PROMN Calmodulin OS=Prorocentrum minimum PE=2 SV=1
+TR163914_c3_g2_i1	sp-A3E3H0-CALM_PFIPI	sp-A3E3H0-CALM_PFIPI Calmodulin OS=Pfiesteria piscicida PE=2 SV=1
+TR163914_c3_g2_i1	sp-A3E4F9-CALM_KARVE	sp-A3E4F9-CALM_KARVE Calmodulin OS=Karlodinium veneficum PE=2 SV=1
+TR163914_c3_g2_i1	sp-A4UHC0-CALM_ALEFU	sp-A4UHC0-CALM_ALEFU Calmodulin OS=Alexandrium fundyense PE=2 SV=1
+TR163914_c3_g2_i1	sp-A8I1Q0-CALM_HETTR	sp-A8I1Q0-CALM_HETTR Calmodulin OS=Heterocapsa triquetra PE=2 SV=1
+TR163914_c3_g2_i1	sp-P27164-CALM3_PETHY	sp-P27164-CALM3_PETHY Calmodulin-related protein OS=Petunia hybrida GN=CAM53 PE=2 SV=2
+TR163914_c3_g2_i1	sp-P27164-CALM3_PETHY	sp-P27164-CALM3_PETHY Calmodulin-related protein OS=Petunia hybrida GN=CAM53 PE=2 SV=2
+TR163914_c3_g2_i1	sp-Q5U206-CALL3_RAT	sp-Q5U206-CALL3_RAT Calmodulin-like protein 3 OS=Rattus norvegicus GN=Calml3 PE=2 SV=1
+TR163914_c3_g2_i1	sp-Q5U206-CALL3_RAT	sp-Q5U206-CALL3_RAT Calmodulin-like protein 3 OS=Rattus norvegicus GN=Calml3 PE=2 SV=1
+TR163914_c3_g2_i1	sp-P02598-CALM_TETPY	sp-P02598-CALM_TETPY Calmodulin OS=Tetrahymena pyriformis PE=1 SV=4
+TR163914_c3_g2_i1	sp-P0DH96-CALM4_ARATH	sp-P0DH96-CALM4_ARATH Calmodulin-4 OS=Arabidopsis thaliana GN=CAM4 PE=1 SV=1
+TR163914_c3_g2_i1	sp-P0DH95-CALM1_ARATH	sp-P0DH95-CALM1_ARATH Calmodulin-1 OS=Arabidopsis thaliana GN=CAM1 PE=2 SV=1
+TR164982_c9_g1_i4	sp-P17972-KCNAW_DROME	sp-P17972-KCNAW_DROME Potassium voltage-gated channel protein Shaw OS=Drosophila melanogaster GN=Shaw PE=2 SV=1
+TR164982_c9_g1_i4	sp-P15388-KCNC1_MOUSE	sp-P15388-KCNC1_MOUSE Potassium voltage-gated channel subfamily C member 1 OS=Mus musculus GN=Kcnc1 PE=1 SV=1
+TR164982_c9_g1_i4	sp-P48547-KCNC1_HUMAN	sp-P48547-KCNC1_HUMAN Potassium voltage-gated channel subfamily C member 1 OS=Homo sapiens GN=KCNC1 PE=1 SV=1
+TR164982_c9_g1_i4	sp-P25122-KCNC1_RAT	sp-P25122-KCNC1_RAT Potassium voltage-gated channel subfamily C member 1 OS=Rattus norvegicus GN=Kcnc1 PE=1 SV=1
+TR164982_c9_g1_i4	sp-Q96PR1-KCNC2_HUMAN	sp-Q96PR1-KCNC2_HUMAN Potassium voltage-gated channel subfamily C member 2 OS=Homo sapiens GN=KCNC2 PE=1 SV=1
+TR164982_c9_g1_i4	sp-P22462-KCNC2_RAT	sp-P22462-KCNC2_RAT Potassium voltage-gated channel subfamily C member 2 OS=Rattus norvegicus GN=Kcnc2 PE=1 SV=1
+TR164982_c9_g1_i4	sp-G5EFC3-KCNAG_CAEEL	sp-G5EFC3-KCNAG_CAEEL Potassium voltage-gated channel protein egl-36 OS=Caenorhabditis elegans GN=egl-36 PE=1 SV=1
+TR164982_c9_g1_i4	sp-Q14B80-KCNC2_MOUSE	sp-Q14B80-KCNC2_MOUSE Potassium voltage-gated channel subfamily C member 2 OS=Mus musculus GN=Kcnc2 PE=1 SV=1
+TR164982_c9_g1_i4	sp-Q03721-KCNC4_HUMAN	sp-Q03721-KCNC4_HUMAN Potassium voltage-gated channel subfamily C member 4 OS=Homo sapiens GN=KCNC4 PE=1 SV=2
+TR164982_c9_g1_i4	sp-Q63734-KCNC4_RAT	sp-Q63734-KCNC4_RAT Potassium voltage-gated channel subfamily C member 4 OS=Rattus norvegicus GN=Kcnc4 PE=1 SV=1
+TR164989_c5_g2_i1	sp-Q497B8-KDM8_RAT	sp-Q497B8-KDM8_RAT Lysine-specific demethylase 8 OS=Rattus norvegicus GN=Kdm8 PE=2 SV=1
+TR164989_c5_g2_i1	sp-Q1JP61-KDM8_BOVIN	sp-Q1JP61-KDM8_BOVIN Lysine-specific demethylase 8 OS=Bos taurus GN=KDM8 PE=2 SV=1
+TR164989_c5_g2_i1	sp-Q8N371-KDM8_HUMAN	sp-Q8N371-KDM8_HUMAN Lysine-specific demethylase 8 OS=Homo sapiens GN=KDM8 PE=1 SV=1
+TR164989_c5_g2_i1	sp-Q9CXT6-KDM8_MOUSE	sp-Q9CXT6-KDM8_MOUSE Lysine-specific demethylase 8 OS=Mus musculus GN=Kdm8 PE=2 SV=1
+TR164989_c5_g2_i1	sp-P0C872-JMJD7_MOUSE	sp-P0C872-JMJD7_MOUSE JmjC domain-containing protein 7 OS=Mus musculus GN=Jmjd7 PE=1 SV=1
+TR164989_c5_g2_i1	sp-P0C870-JMJD7_HUMAN	sp-P0C870-JMJD7_HUMAN JmjC domain-containing protein 7 OS=Homo sapiens GN=JMJD7 PE=1 SV=1
+TR164989_c5_g2_i1	sp-B5XF11-KDM8_SALSA	sp-B5XF11-KDM8_SALSA Lysine-specific demethylase 8 OS=Salmo salar GN=kdm8 PE=2 SV=1
+TR164989_c5_g2_i1	sp-B2GUS6-KDM8_XENTR	sp-B2GUS6-KDM8_XENTR Lysine-specific demethylase 8 OS=Xenopus tropicalis GN=kdm8 PE=2 SV=1
+TR164989_c5_g2_i1	sp-A8E534-KDM8_DANRE	sp-A8E534-KDM8_DANRE Lysine-specific demethylase 8 OS=Danio rerio GN=kdm8 PE=2 SV=1
+TR164989_c5_g2_i1	sp-Q8RWR1-JMJ30_ARATH	sp-Q8RWR1-JMJ30_ARATH Putative lysine-specific demethylase JMJD5 OS=Arabidopsis thaliana GN=JMJD5 PE=2 SV=1
+TR165823_c19_g1_i1	sp-Q9ESG9-PMYT1_MOUSE	sp-Q9ESG9-PMYT1_MOUSE Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase OS=Mus musculus GN=Pkmyt1 PE=2 SV=3
+TR165823_c19_g1_i1	sp-Q91618-PMYT1_XENLA	sp-Q91618-PMYT1_XENLA Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase OS=Xenopus laevis GN=pkmyt1 PE=1 SV=1
+TR165823_c19_g1_i1	sp-Q99640-PMYT1_HUMAN	sp-Q99640-PMYT1_HUMAN Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase OS=Homo sapiens GN=PKMYT1 PE=1 SV=1
+TR165823_c19_g1_i1	sp-Q626B1-PMY13_CAEBR	sp-Q626B1-PMY13_CAEBR Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase wee-1.3 OS=Caenorhabditis briggsae GN=wee-1.3 PE=3 SV=1
+TR165823_c19_g1_i1	sp-O18209-PMY13_CAEEL	sp-O18209-PMY13_CAEEL Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase wee-1.3 OS=Caenorhabditis elegans GN=wee-1.3 PE=1 SV=1
+TR165823_c19_g1_i1	sp-Q9NI63-PMYT1_DROME	sp-Q9NI63-PMYT1_DROME Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase OS=Drosophila melanogaster GN=Myt1 PE=1 SV=2
+TR165823_c19_g1_i1	sp-P07527-WEE1_SCHPO	sp-P07527-WEE1_SCHPO Mitosis inhibitor protein kinase wee1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=wee1 PE=1 SV=1
+TR165823_c19_g1_i1	sp-Q20085-PMY11_CAEEL	sp-Q20085-PMY11_CAEEL Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase wee-1.1 OS=Caenorhabditis elegans GN=wee-1.1 PE=2 SV=2
+TR165823_c19_g1_i1	sp-Q54E34-Y6398_DICDI	sp-Q54E34-Y6398_DICDI Probable protein kinase DDB_G0291842 OS=Dictyostelium discoideum GN=DDB_G0291842 PE=3 SV=1
+TR165823_c19_g1_i1	sp-Q54F40-Y1133_DICDI	sp-Q54F40-Y1133_DICDI Probable protein kinase DDB_G0291133 OS=Dictyostelium discoideum GN=DDB_G0291133 PE=3 SV=1
+TR166040_c4_g1_i2	sp-Q8BG19-TMTC4_MOUSE	sp-Q8BG19-TMTC4_MOUSE Transmembrane and TPR repeat-containing protein 4 OS=Mus musculus GN=Tmtc4 PE=2 SV=1
+TR166040_c4_g1_i2	sp-Q8BG19-TMTC4_MOUSE	sp-Q8BG19-TMTC4_MOUSE Transmembrane and TPR repeat-containing protein 4 OS=Mus musculus GN=Tmtc4 PE=2 SV=1
+TR166040_c4_g1_i2	sp-Q6ZXV5-TMTC3_HUMAN	sp-Q6ZXV5-TMTC3_HUMAN Transmembrane and TPR repeat-containing protein 3 OS=Homo sapiens GN=TMTC3 PE=1 SV=2
+TR166040_c4_g1_i2	sp-Q8BRH0-TMTC3_MOUSE	sp-Q8BRH0-TMTC3_MOUSE Transmembrane and TPR repeat-containing protein 3 OS=Mus musculus GN=Tmtc3 PE=1 SV=2
+TR166040_c4_g1_i2	sp-Q5T4D3-TMTC4_HUMAN	sp-Q5T4D3-TMTC4_HUMAN Transmembrane and TPR repeat-containing protein 4 OS=Homo sapiens GN=TMTC4 PE=2 SV=2
+TR166040_c4_g1_i2	sp-Q5T4D3-TMTC4_HUMAN	sp-Q5T4D3-TMTC4_HUMAN Transmembrane and TPR repeat-containing protein 4 OS=Homo sapiens GN=TMTC4 PE=2 SV=2
+TR166040_c4_g1_i2	sp-Q6DCD5-TMTC2_XENLA	sp-Q6DCD5-TMTC2_XENLA Transmembrane and TPR repeat-containing protein 2 OS=Xenopus laevis GN=tmtc2 PE=2 SV=1
+TR166040_c4_g1_i2	sp-Q6DCD5-TMTC2_XENLA	sp-Q6DCD5-TMTC2_XENLA Transmembrane and TPR repeat-containing protein 2 OS=Xenopus laevis GN=tmtc2 PE=2 SV=1
+TR166040_c4_g1_i2	sp-Q6DCD5-TMTC2_XENLA	sp-Q6DCD5-TMTC2_XENLA Transmembrane and TPR repeat-containing protein 2 OS=Xenopus laevis GN=tmtc2 PE=2 SV=1
+TR166040_c4_g1_i2	sp-Q56A06-TMTC2_MOUSE	sp-Q56A06-TMTC2_MOUSE Transmembrane and TPR repeat-containing protein 2 OS=Mus musculus GN=Tmtc2 PE=2 SV=1
+TR166040_c4_g1_i2	sp-Q56A06-TMTC2_MOUSE	sp-Q56A06-TMTC2_MOUSE Transmembrane and TPR repeat-containing protein 2 OS=Mus musculus GN=Tmtc2 PE=2 SV=1
+TR166040_c4_g1_i2	sp-Q8N394-TMTC2_HUMAN	sp-Q8N394-TMTC2_HUMAN Transmembrane and TPR repeat-containing protein 2 OS=Homo sapiens GN=TMTC2 PE=2 SV=1
+TR166040_c4_g1_i2	sp-Q8N394-TMTC2_HUMAN	sp-Q8N394-TMTC2_HUMAN Transmembrane and TPR repeat-containing protein 2 OS=Homo sapiens GN=TMTC2 PE=2 SV=1
+TR166040_c4_g1_i2	sp-Q7K4B6-TMTC3_DROME	sp-Q7K4B6-TMTC3_DROME Transmembrane and TPR repeat-containing protein CG4050 OS=Drosophila melanogaster GN=CG4050 PE=2 SV=1
+TR166040_c4_g1_i2	sp-Q9VQE9-TMTC1_DROME	sp-Q9VQE9-TMTC1_DROME Transmembrane and TPR repeat-containing protein CG31690 OS=Drosophila melanogaster GN=CG31690 PE=2 SV=3
+TR166040_c4_g1_i2	sp-Q9VQE9-TMTC1_DROME	sp-Q9VQE9-TMTC1_DROME Transmembrane and TPR repeat-containing protein CG31690 OS=Drosophila melanogaster GN=CG31690 PE=2 SV=3
+TR166040_c4_g1_i2	sp-Q20144-TMTC1_CAEEL	sp-Q20144-TMTC1_CAEEL Transmembrane and TPR repeat-containing protein F38B6.6 OS=Caenorhabditis elegans GN=F38B6.6 PE=3 SV=2
+TR167175_c1_g1_i2	sp-Q91Y25-FAM21_CRIGR	sp-Q91Y25-FAM21_CRIGR WASH complex subunit FAM21 OS=Cricetulus griseus GN=Fam21 PE=2 SV=1
+TR167175_c1_g1_i2	sp-Q5RDC1-FAM21_PONAB	sp-Q5RDC1-FAM21_PONAB WASH complex subunit FAM21 OS=Pongo abelii GN=FAM21 PE=2 SV=1
+TR167175_c1_g1_i2	sp-Q641Q2-FA21A_HUMAN	sp-Q641Q2-FA21A_HUMAN WASH complex subunit FAM21A OS=Homo sapiens GN=FAM21A PE=1 SV=3
+TR167175_c1_g1_i2	sp-Q9Y4E1-FA21C_HUMAN	sp-Q9Y4E1-FA21C_HUMAN WASH complex subunit FAM21C OS=Homo sapiens GN=FAM21C PE=1 SV=3
+TR167175_c1_g1_i2	sp-Q6PGL7-FAM21_MOUSE	sp-Q6PGL7-FAM21_MOUSE WASH complex subunit FAM21 OS=Mus musculus GN=Fam21 PE=1 SV=1
+TR167175_c1_g1_i2	sp-Q80X08-FAM21_RAT	sp-Q80X08-FAM21_RAT WASH complex subunit FAM21 OS=Rattus norvegicus GN=Fam21 PE=1 SV=1
+TR167175_c1_g1_i2	sp-Q552E2-FAM21_DICDI	sp-Q552E2-FAM21_DICDI WASH complex subunit FAM21 homolog OS=Dictyostelium discoideum GN=fam21 PE=1 SV=1
+TR167632_c0_g1_i1	sp-Q8VCK5-KLH20_MOUSE	sp-Q8VCK5-KLH20_MOUSE Kelch-like protein 20 OS=Mus musculus GN=Klhl20 PE=2 SV=2
+TR167632_c0_g1_i1	sp-D3Z8N4-KLH20_RAT	sp-D3Z8N4-KLH20_RAT Kelch-like protein 20 OS=Rattus norvegicus GN=Klhl20 PE=3 SV=1
+TR167632_c0_g1_i1	sp-Q9Y2M5-KLH20_HUMAN	sp-Q9Y2M5-KLH20_HUMAN Kelch-like protein 20 OS=Homo sapiens GN=KLHL20 PE=1 SV=4
+TR167632_c0_g1_i1	sp-Q08DK3-KLH20_BOVIN	sp-Q08DK3-KLH20_BOVIN Kelch-like protein 20 OS=Bos taurus GN=KLHL20 PE=2 SV=3
+TR167632_c0_g1_i1	sp-Q6DFF6-KLH20_XENLA	sp-Q6DFF6-KLH20_XENLA Kelch-like protein 20 OS=Xenopus laevis GN=klhl20 PE=2 SV=1
+TR167632_c0_g1_i1	sp-Q5R7B8-KLH20_PONAB	sp-Q5R7B8-KLH20_PONAB Kelch-like protein 20 OS=Pongo abelii GN=KLHL20 PE=2 SV=3
+TR167632_c0_g1_i1	sp-B0WWP2-KLHDB_CULQU	sp-B0WWP2-KLHDB_CULQU Kelch-like protein diablo OS=Culex quinquefasciatus GN=dbo PE=3 SV=2
+TR167632_c0_g1_i1	sp-B0WWP2-KLHDB_CULQU	sp-B0WWP2-KLHDB_CULQU Kelch-like protein diablo OS=Culex quinquefasciatus GN=dbo PE=3 SV=2
+TR167632_c0_g1_i1	sp-B0WWP2-KLHDB_CULQU	sp-B0WWP2-KLHDB_CULQU Kelch-like protein diablo OS=Culex quinquefasciatus GN=dbo PE=3 SV=2
+TR167632_c0_g1_i1	sp-Q16RL8-KLHDB_AEDAE	sp-Q16RL8-KLHDB_AEDAE Kelch-like protein diablo OS=Aedes aegypti GN=dbo PE=3 SV=1
+TR167632_c0_g1_i1	sp-Q16RL8-KLHDB_AEDAE	sp-Q16RL8-KLHDB_AEDAE Kelch-like protein diablo OS=Aedes aegypti GN=dbo PE=3 SV=1
+TR167632_c0_g1_i1	sp-Q16RL8-KLHDB_AEDAE	sp-Q16RL8-KLHDB_AEDAE Kelch-like protein diablo OS=Aedes aegypti GN=dbo PE=3 SV=1
+TR167632_c0_g1_i1	sp-Q5ZKD9-KLH20_CHICK	sp-Q5ZKD9-KLH20_CHICK Kelch-like protein 20 OS=Gallus gallus GN=KLHL20 PE=2 SV=1
+TR167632_c0_g1_i1	sp-Q7QGL0-KLHDB_ANOGA	sp-Q7QGL0-KLHDB_ANOGA Kelch-like protein diablo OS=Anopheles gambiae GN=dbo PE=3 SV=4
+TR167632_c0_g1_i1	sp-Q7QGL0-KLHDB_ANOGA	sp-Q7QGL0-KLHDB_ANOGA Kelch-like protein diablo OS=Anopheles gambiae GN=dbo PE=3 SV=4
+TR167632_c0_g1_i1	sp-Q7QGL0-KLHDB_ANOGA	sp-Q7QGL0-KLHDB_ANOGA Kelch-like protein diablo OS=Anopheles gambiae GN=dbo PE=3 SV=4
+TR167645_c5_g1_i2	sp-Q9VXE5-PAKM_DROME	sp-Q9VXE5-PAKM_DROME Serine/threonine-protein kinase PAK mbt OS=Drosophila melanogaster GN=mbt PE=1 SV=2
+TR167645_c5_g1_i2	sp-Q9VXE5-PAKM_DROME	sp-Q9VXE5-PAKM_DROME Serine/threonine-protein kinase PAK mbt OS=Drosophila melanogaster GN=mbt PE=1 SV=2
+TR167645_c5_g1_i2	sp-Q8BTW9-PAK4_MOUSE	sp-Q8BTW9-PAK4_MOUSE Serine/threonine-protein kinase PAK 4 OS=Mus musculus GN=Pak4 PE=1 SV=1
+TR167645_c5_g1_i2	sp-Q8BTW9-PAK4_MOUSE	sp-Q8BTW9-PAK4_MOUSE Serine/threonine-protein kinase PAK 4 OS=Mus musculus GN=Pak4 PE=1 SV=1
+TR167645_c5_g1_i2	sp-Q8C015-PAK7_MOUSE	sp-Q8C015-PAK7_MOUSE Serine/threonine-protein kinase PAK 7 OS=Mus musculus GN=Pak7 PE=1 SV=1
+TR167645_c5_g1_i2	sp-Q8C015-PAK7_MOUSE	sp-Q8C015-PAK7_MOUSE Serine/threonine-protein kinase PAK 7 OS=Mus musculus GN=Pak7 PE=1 SV=1
+TR167645_c5_g1_i2	sp-D4A280-PAK7_RAT	sp-D4A280-PAK7_RAT Serine/threonine-protein kinase PAK 7 OS=Rattus norvegicus GN=Pak7 PE=1 SV=1
+TR167645_c5_g1_i2	sp-D4A280-PAK7_RAT	sp-D4A280-PAK7_RAT Serine/threonine-protein kinase PAK 7 OS=Rattus norvegicus GN=Pak7 PE=1 SV=1
+TR167645_c5_g1_i2	sp-O96013-PAK4_HUMAN	sp-O96013-PAK4_HUMAN Serine/threonine-protein kinase PAK 4 OS=Homo sapiens GN=PAK4 PE=1 SV=1
+TR167645_c5_g1_i2	sp-O96013-PAK4_HUMAN	sp-O96013-PAK4_HUMAN Serine/threonine-protein kinase PAK 4 OS=Homo sapiens GN=PAK4 PE=1 SV=1
+TR167645_c5_g1_i2	sp-Q9P286-PAK7_HUMAN	sp-Q9P286-PAK7_HUMAN Serine/threonine-protein kinase PAK 7 OS=Homo sapiens GN=PAK7 PE=1 SV=1
+TR167645_c5_g1_i2	sp-Q9P286-PAK7_HUMAN	sp-Q9P286-PAK7_HUMAN Serine/threonine-protein kinase PAK 7 OS=Homo sapiens GN=PAK7 PE=1 SV=1
+TR167645_c5_g1_i2	sp-Q5R8Z4-PAK6_PONAB	sp-Q5R8Z4-PAK6_PONAB Serine/threonine-protein kinase PAK 6 OS=Pongo abelii GN=PAK6 PE=2 SV=1
+TR167645_c5_g1_i2	sp-Q5R8Z4-PAK6_PONAB	sp-Q5R8Z4-PAK6_PONAB Serine/threonine-protein kinase PAK 6 OS=Pongo abelii GN=PAK6 PE=2 SV=1
+TR167645_c5_g1_i2	sp-Q9NQU5-PAK6_HUMAN	sp-Q9NQU5-PAK6_HUMAN Serine/threonine-protein kinase PAK 6 OS=Homo sapiens GN=PAK6 PE=1 SV=1
+TR167645_c5_g1_i2	sp-Q9NQU5-PAK6_HUMAN	sp-Q9NQU5-PAK6_HUMAN Serine/threonine-protein kinase PAK 6 OS=Homo sapiens GN=PAK6 PE=1 SV=1
+TR167645_c5_g1_i2	sp-Q3ULB5-PAK6_MOUSE	sp-Q3ULB5-PAK6_MOUSE Serine/threonine-protein kinase PAK 6 OS=Mus musculus GN=Pak6 PE=2 SV=1
+TR167645_c5_g1_i2	sp-Q3ULB5-PAK6_MOUSE	sp-Q3ULB5-PAK6_MOUSE Serine/threonine-protein kinase PAK 6 OS=Mus musculus GN=Pak6 PE=2 SV=1
+TR167645_c5_g1_i2	sp-Q8MV48-GALT7_DROME	sp-Q8MV48-GALT7_DROME N-acetylgalactosaminyltransferase 7 OS=Drosophila melanogaster GN=GalNAc-T2 PE=2 SV=2
+TR167645_c5_g1_i2	sp-Q8MV48-GALT7_DROME	sp-Q8MV48-GALT7_DROME N-acetylgalactosaminyltransferase 7 OS=Drosophila melanogaster GN=GalNAc-T2 PE=2 SV=2
+TR167676_c12_g1_i1	sp-Q6P0I8-EXOS6_DANRE	sp-Q6P0I8-EXOS6_DANRE Exosome complex component MTR3 OS=Danio rerio GN=exosc6 PE=2 SV=2
+TR167676_c12_g1_i1	sp-Q28F19-EXOS6_XENTR	sp-Q28F19-EXOS6_XENTR Exosome complex component MTR3 OS=Xenopus tropicalis GN=exosc6 PE=2 SV=1
+TR167676_c12_g1_i1	sp-Q8TYC1-RRP41_METKA	sp-Q8TYC1-RRP41_METKA Exosome complex component Rrp41 OS=Methanopyrus kandleri (strain AV19 / DSM 6324 / JCM 9639 / NBRC 100938) GN=rrp41 PE=3 SV=1
+TR167676_c12_g1_i1	sp-O59223-RRP41_PYRHO	sp-O59223-RRP41_PYRHO Exosome complex component Rrp41 OS=Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3) GN=rrp41 PE=3 SV=1
+TR167676_c12_g1_i1	sp-Q8U0L9-RRP41_PYRFU	sp-Q8U0L9-RRP41_PYRFU Exosome complex component Rrp41 OS=Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1) GN=rrp41 PE=3 SV=1
+TR167676_c12_g1_i1	sp-Q9V119-RRP41_PYRAB	sp-Q9V119-RRP41_PYRAB Exosome complex component Rrp41 OS=Pyrococcus abyssi (strain GE5 / Orsay) GN=rrp41 PE=1 SV=1
+TR167676_c12_g1_i1	sp-B6YSI2-RRP41_THEON	sp-B6YSI2-RRP41_THEON Exosome complex component Rrp41 OS=Thermococcus onnurineus (strain NA1) GN=rrp41 PE=3 SV=1
+TR167676_c12_g1_i1	sp-O26779-RRP41_METTH	sp-O26779-RRP41_METTH Exosome complex component Rrp41 OS=Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H) GN=rrp41 PE=1 SV=1
+TR167676_c12_g1_i1	sp-Q5JIR6-RRP41_THEKO	sp-Q5JIR6-RRP41_THEKO Exosome complex component Rrp41 OS=Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1) GN=rrp41 PE=3 SV=1
+TR167676_c12_g1_i1	sp-Q9SP08-RRP41_ARATH	sp-Q9SP08-RRP41_ARATH Exosome complex component RRP41 homolog OS=Arabidopsis thaliana GN=RRP41 PE=1 SV=1
+TR167759_c1_g1_i1	sp-Q32M88-ATHL1_HUMAN	sp-Q32M88-ATHL1_HUMAN Acid trehalase-like protein 1 OS=Homo sapiens GN=ATHL1 PE=1 SV=2
+TR167759_c1_g1_i1	sp-A0JMP0-ATHL1_DANRE	sp-A0JMP0-ATHL1_DANRE Acid trehalase-like protein 1 OS=Danio rerio GN=athl1 PE=2 SV=1
+TR167759_c1_g1_i1	sp-Q8BP56-ATHL1_MOUSE	sp-Q8BP56-ATHL1_MOUSE Acid trehalase-like protein 1 OS=Mus musculus GN=Athl1 PE=1 SV=1
+TR167759_c1_g1_i1	sp-Q54KX5-ATHL1_DICDI	sp-Q54KX5-ATHL1_DICDI Acid trehalase-like protein 1 OS=Dictyostelium discoideum GN=athl1 PE=3 SV=2
+TR167759_c1_g1_i1	sp-Q8L163-KOJP_THEBR	sp-Q8L163-KOJP_THEBR Kojibiose phosphorylase OS=Thermoanaerobacter brockii GN=kojP PE=1 SV=1
+TR167759_c1_g1_i1	sp-Q8RBL8-KOJP_CALS4	sp-Q8RBL8-KOJP_CALS4 Kojibiose phosphorylase OS=Caldanaerobacter subterraneus subsp. tengcongensis (strain DSM 15242 / JCM 11007 / NBRC 100824 / MB4) GN=kojP PE=3 SV=1
+TR167759_c1_g1_i1	sp-Q8GRC3-TREP_GEOSE	sp-Q8GRC3-TREP_GEOSE Alpha,alpha-trehalose phosphorylase OS=Geobacillus stearothermophilus GN=treP PE=1 SV=1
+TR167759_c1_g1_i1	sp-Q8L164-TREP_THEBR	sp-Q8L164-TREP_THEBR Alpha,alpha-trehalose phosphorylase OS=Thermoanaerobacter brockii GN=treP PE=1 SV=1
+TR167759_c1_g1_i1	sp-P48016-ATH1_YEAST	sp-P48016-ATH1_YEAST Vacuolar acid trehalase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ATH1 PE=1 SV=1
+TR167759_c1_g1_i1	sp-D4B5H9-ATC1_ARTBC	sp-D4B5H9-ATC1_ARTBC Cell wall acid trehalase ARB_03719 OS=Arthroderma benhamiae (strain ATCC MYA-4681 / CBS 112371) GN=ARB_03719 PE=1 SV=1
+TR170124_c0_g2_i2	sp-Q8BGT0-OSTM1_MOUSE	sp-Q8BGT0-OSTM1_MOUSE Osteopetrosis-associated transmembrane protein 1 OS=Mus musculus GN=Ostm1 PE=1 SV=1
+TR170124_c0_g2_i2	sp-Q86WC4-OSTM1_HUMAN	sp-Q86WC4-OSTM1_HUMAN Osteopetrosis-associated transmembrane protein 1 OS=Homo sapiens GN=OSTM1 PE=1 SV=1
+TR170124_c0_g2_i2	sp-Q09322-YR53_CAEEL	sp-Q09322-YR53_CAEEL Uncharacterized protein F42A8.3 OS=Caenorhabditis elegans GN=F42A8.3 PE=1 SV=2
+TR170141_c0_g1_i3	sp-Q9UGC6-RGS17_HUMAN	sp-Q9UGC6-RGS17_HUMAN Regulator of G-protein signaling 17 OS=Homo sapiens GN=RGS17 PE=1 SV=2
+TR170141_c0_g1_i3	sp-Q9PWA0-RGS17_CHICK	sp-Q9PWA0-RGS17_CHICK Regulator of G-protein signaling 17 OS=Gallus gallus GN=RGS17 PE=2 SV=1
+TR170141_c0_g1_i3	sp-O70521-RGS19_RAT	sp-O70521-RGS19_RAT Regulator of G-protein signaling 19 OS=Rattus norvegicus GN=Rgs19 PE=1 SV=1
+TR170141_c0_g1_i3	sp-P49795-RGS19_HUMAN	sp-P49795-RGS19_HUMAN Regulator of G-protein signaling 19 OS=Homo sapiens GN=RGS19 PE=1 SV=1
+TR170141_c0_g1_i3	sp-Q9QZB0-RGS17_MOUSE	sp-Q9QZB0-RGS17_MOUSE Regulator of G-protein signaling 17 OS=Mus musculus GN=Rgs17 PE=1 SV=1
+TR170141_c0_g1_i3	sp-P49808-RGS2_CAEEL	sp-P49808-RGS2_CAEEL Regulator of G-protein signaling rgs-2 OS=Caenorhabditis elegans GN=rgs-2 PE=1 SV=1
+TR170141_c0_g1_i3	sp-Q9PWA1-RGS20_CHICK	sp-Q9PWA1-RGS20_CHICK Regulator of G-protein signaling 20 OS=Gallus gallus GN=RGS20 PE=2 SV=1
+TR170141_c0_g1_i3	sp-Q9CX84-RGS19_MOUSE	sp-Q9CX84-RGS19_MOUSE Regulator of G-protein signaling 19 OS=Mus musculus GN=Rgs19 PE=1 SV=1
+TR170141_c0_g1_i3	sp-Q08DC7-RGS19_BOVIN	sp-Q08DC7-RGS19_BOVIN Regulator of G-protein signaling 19 OS=Bos taurus GN=RGS19 PE=2 SV=1
+TR170141_c0_g1_i3	sp-P34295-RGS1_CAEEL	sp-P34295-RGS1_CAEEL Regulator of G-protein signaling rgs-1 OS=Caenorhabditis elegans GN=rgs-1 PE=2 SV=3
+TR172767_c2_g1_i4	sp-P46087-NOP2_HUMAN	sp-P46087-NOP2_HUMAN Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase OS=Homo sapiens GN=NOP2 PE=1 SV=2
+TR172767_c2_g1_i4	sp-Q922K7-NOP2_MOUSE	sp-Q922K7-NOP2_MOUSE Probable 28S rRNA (cytosine-C(5))-methyltransferase OS=Mus musculus GN=Nop2 PE=1 SV=1
+TR172767_c2_g1_i4	sp-O94268-NOP2_SCHPO	sp-O94268-NOP2_SCHPO 25S rRNA (cytosine-C(5))-methyltransferase nop2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=nop2 PE=1 SV=1
+TR172767_c2_g1_i4	sp-P40991-NOP2_YEAST	sp-P40991-NOP2_YEAST 25S rRNA (cytosine(2870)-C(5))-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NOP2 PE=1 SV=1
+TR172767_c2_g1_i4	sp-Q60343-TRM4_METJA	sp-Q60343-TRM4_METJA tRNA (cytosine(48)-C(5))-methyltransferase OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) GN=trm4 PE=1 SV=1
+TR172767_c2_g1_i4	sp-Q9V106-TRCM_PYRAB	sp-Q9V106-TRCM_PYRAB tRNA (cytosine(49)-C(5))-methyltransferase OS=Pyrococcus abyssi (strain GE5 / Orsay) GN=PYRAB06230 PE=1 SV=1
+TR172767_c2_g1_i4	sp-Q87PA5-RSMF_VIBPA	sp-Q87PA5-RSMF_VIBPA Ribosomal RNA small subunit methyltransferase F OS=Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633) GN=rsmF PE=3 SV=1
+TR172767_c2_g1_i4	sp-C3LMI5-RSMF_VIBCM	sp-C3LMI5-RSMF_VIBCM Ribosomal RNA small subunit methyltransferase F OS=Vibrio cholerae serotype O1 (strain M66-2) GN=rsmF PE=3 SV=2
+TR172767_c2_g1_i4	sp-Q9KRY1-RSMF_VIBCH	sp-Q9KRY1-RSMF_VIBCH Ribosomal RNA small subunit methyltransferase F OS=Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961) GN=rsmF PE=3 SV=2
+TR172767_c2_g1_i4	sp-Q8FGS9-RSMF_ECOL6	sp-Q8FGS9-RSMF_ECOL6 Ribosomal RNA small subunit methyltransferase F OS=Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC) GN=rsmF PE=3 SV=2
+TR173513_c10_g1_i2	sp-Q29RZ2-PPWD1_BOVIN	sp-Q29RZ2-PPWD1_BOVIN Peptidylprolyl isomerase domain and WD repeat-containing protein 1 OS=Bos taurus GN=PPWD1 PE=2 SV=1
+TR173513_c10_g1_i2	sp-Q96BP3-PPWD1_HUMAN	sp-Q96BP3-PPWD1_HUMAN Peptidylprolyl isomerase domain and WD repeat-containing protein 1 OS=Homo sapiens GN=PPWD1 PE=1 SV=1
+TR173513_c10_g1_i2	sp-Q8CEC6-PPWD1_MOUSE	sp-Q8CEC6-PPWD1_MOUSE Peptidylprolyl isomerase domain and WD repeat-containing protein 1 OS=Mus musculus GN=Ppwd1 PE=1 SV=2
+TR173513_c10_g1_i2	sp-Q5NVL7-PPWD1_PONAB	sp-Q5NVL7-PPWD1_PONAB Peptidylprolyl isomerase domain and WD repeat-containing protein 1 OS=Pongo abelii GN=PPWD1 PE=2 SV=1
+TR173513_c10_g1_i2	sp-Q6P0Q8-MAST2_HUMAN	sp-Q6P0Q8-MAST2_HUMAN Microtubule-associated serine/threonine-protein kinase 2 OS=Homo sapiens GN=MAST2 PE=1 SV=2
+TR173513_c10_g1_i2	sp-Q9Y2H9-MAST1_HUMAN	sp-Q9Y2H9-MAST1_HUMAN Microtubule-associated serine/threonine-protein kinase 1 OS=Homo sapiens GN=MAST1 PE=1 SV=2
+TR173513_c10_g1_i2	sp-Q9Y2H9-MAST1_HUMAN	sp-Q9Y2H9-MAST1_HUMAN Microtubule-associated serine/threonine-protein kinase 1 OS=Homo sapiens GN=MAST1 PE=1 SV=2
+TR173513_c10_g1_i2	sp-Q810W7-MAST1_RAT	sp-Q810W7-MAST1_RAT Microtubule-associated serine/threonine-protein kinase 1 OS=Rattus norvegicus GN=Mast1 PE=1 SV=1
+TR173513_c10_g1_i2	sp-Q810W7-MAST1_RAT	sp-Q810W7-MAST1_RAT Microtubule-associated serine/threonine-protein kinase 1 OS=Rattus norvegicus GN=Mast1 PE=1 SV=1
+TR173513_c10_g1_i2	sp-Q9R1L5-MAST1_MOUSE	sp-Q9R1L5-MAST1_MOUSE Microtubule-associated serine/threonine-protein kinase 1 OS=Mus musculus GN=Mast1 PE=1 SV=3
+TR173513_c10_g1_i2	sp-Q9R1L5-MAST1_MOUSE	sp-Q9R1L5-MAST1_MOUSE Microtubule-associated serine/threonine-protein kinase 1 OS=Mus musculus GN=Mast1 PE=1 SV=3
+TR173513_c10_g1_i2	sp-Q811L6-MAST4_MOUSE	sp-Q811L6-MAST4_MOUSE Microtubule-associated serine/threonine-protein kinase 4 OS=Mus musculus GN=Mast4 PE=1 SV=3
+TR173513_c10_g1_i2	sp-Q811L6-MAST4_MOUSE	sp-Q811L6-MAST4_MOUSE Microtubule-associated serine/threonine-protein kinase 4 OS=Mus musculus GN=Mast4 PE=1 SV=3
+TR173513_c10_g1_i2	sp-O15021-MAST4_HUMAN	sp-O15021-MAST4_HUMAN Microtubule-associated serine/threonine-protein kinase 4 OS=Homo sapiens GN=MAST4 PE=1 SV=3
+TR173513_c10_g1_i2	sp-O15021-MAST4_HUMAN	sp-O15021-MAST4_HUMAN Microtubule-associated serine/threonine-protein kinase 4 OS=Homo sapiens GN=MAST4 PE=1 SV=3
+TR410331_c0_g2_i1	sp-P55249-LX12E_MOUSE	sp-P55249-LX12E_MOUSE Arachidonate 12-lipoxygenase, epidermal-type OS=Mus musculus GN=Alox12e PE=2 SV=1
+TR410331_c0_g2_i1	sp-P12530-LOX15_RABIT	sp-P12530-LOX15_RABIT Arachidonate 15-lipoxygenase OS=Oryctolagus cuniculus GN=ALOX15 PE=1 SV=3
+TR410331_c0_g2_i1	sp-D3ZQF9-LX12E_RAT	sp-D3ZQF9-LX12E_RAT Arachidonate 12-lipoxygenase, epidermal-type OS=Rattus norvegicus GN=Alox12e PE=3 SV=1
+TR410331_c0_g2_i1	sp-Q5RBE8-LOX15_PONAB	sp-Q5RBE8-LOX15_PONAB Arachidonate 15-lipoxygenase OS=Pongo abelii GN=ALOX15 PE=2 SV=3
+TR410331_c0_g2_i1	sp-P16050-LOX15_HUMAN	sp-P16050-LOX15_HUMAN Arachidonate 15-lipoxygenase OS=Homo sapiens GN=ALOX15 PE=1 SV=3
+TR410331_c0_g2_i1	sp-P16469-LOX15_PIG	sp-P16469-LOX15_PIG Arachidonate 15-lipoxygenase OS=Sus scrofa GN=ALOX15 PE=1 SV=3
+TR410331_c0_g2_i1	sp-P39654-LOX15_MOUSE	sp-P39654-LOX15_MOUSE Arachidonate 15-lipoxygenase OS=Mus musculus GN=Alox15 PE=1 SV=4
+TR410331_c0_g2_i1	sp-P27479-LOX15_BOVIN	sp-P27479-LOX15_BOVIN Arachidonate 15-lipoxygenase OS=Bos taurus GN=ALOX15 PE=1 SV=3
+TR410331_c0_g2_i1	sp-P18054-LOX12_HUMAN	sp-P18054-LOX12_HUMAN Arachidonate 12-lipoxygenase, 12S-type OS=Homo sapiens GN=ALOX12 PE=1 SV=4
+TR410331_c0_g2_i1	sp-Q02759-LOX15_RAT	sp-Q02759-LOX15_RAT Arachidonate 15-lipoxygenase OS=Rattus norvegicus GN=Alox15 PE=1 SV=3
+TR79930_c3_g1_i7	sp-P49815-TSC2_HUMAN	sp-P49815-TSC2_HUMAN Tuberin OS=Homo sapiens GN=TSC2 PE=1 SV=2
+TR79930_c3_g1_i7	sp-P49815-TSC2_HUMAN	sp-P49815-TSC2_HUMAN Tuberin OS=Homo sapiens GN=TSC2 PE=1 SV=2
+TR79930_c3_g1_i7	sp-P49816-TSC2_RAT	sp-P49816-TSC2_RAT Tuberin OS=Rattus norvegicus GN=Tsc2 PE=1 SV=1
+TR79930_c3_g1_i7	sp-P49816-TSC2_RAT	sp-P49816-TSC2_RAT Tuberin OS=Rattus norvegicus GN=Tsc2 PE=1 SV=1
+TR79930_c3_g1_i7	sp-Q61037-TSC2_MOUSE	sp-Q61037-TSC2_MOUSE Tuberin OS=Mus musculus GN=Tsc2 PE=1 SV=1
+TR79930_c3_g1_i7	sp-Q61037-TSC2_MOUSE	sp-Q61037-TSC2_MOUSE Tuberin OS=Mus musculus GN=Tsc2 PE=1 SV=1
+TR79930_c3_g1_i7	sp-Q9UUG9-TSC2_SCHPO	sp-Q9UUG9-TSC2_SCHPO Tuberous sclerosis 2 protein homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=tsc2 PE=1 SV=1
+TR79930_c3_g1_i7	sp-Q9UUG9-TSC2_SCHPO	sp-Q9UUG9-TSC2_SCHPO Tuberous sclerosis 2 protein homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=tsc2 PE=1 SV=1
+TR79930_c3_g1_i7	sp-Q09716-YA3B_SCHPO	sp-Q09716-YA3B_SCHPO Uncharacterized protein C18B11.11 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPAC18B11.11 PE=4 SV=1
+TR80652_c0_g1_i2	sp-Q7KTX8-MED13_DROME	sp-Q7KTX8-MED13_DROME Mediator of RNA polymerase II transcription subunit 13 OS=Drosophila melanogaster GN=skd PE=1 SV=1
+TR80652_c0_g1_i2	sp-Q7KTX8-MED13_DROME	sp-Q7KTX8-MED13_DROME Mediator of RNA polymerase II transcription subunit 13 OS=Drosophila melanogaster GN=skd PE=1 SV=1
+TR80652_c0_g1_i2	sp-Q7KTX8-MED13_DROME	sp-Q7KTX8-MED13_DROME Mediator of RNA polymerase II transcription subunit 13 OS=Drosophila melanogaster GN=skd PE=1 SV=1
+TR80652_c0_g1_i2	sp-Q6JPI3-MD13L_MOUSE	sp-Q6JPI3-MD13L_MOUSE Mediator of RNA polymerase II transcription subunit 13-like OS=Mus musculus GN=Med13l PE=1 SV=2
+TR80652_c0_g1_i2	sp-Q6JPI3-MD13L_MOUSE	sp-Q6JPI3-MD13L_MOUSE Mediator of RNA polymerase II transcription subunit 13-like OS=Mus musculus GN=Med13l PE=1 SV=2
+TR80652_c0_g1_i2	sp-Q6JPI3-MD13L_MOUSE	sp-Q6JPI3-MD13L_MOUSE Mediator of RNA polymerase II transcription subunit 13-like OS=Mus musculus GN=Med13l PE=1 SV=2
+TR80652_c0_g1_i2	sp-Q6JPI3-MD13L_MOUSE	sp-Q6JPI3-MD13L_MOUSE Mediator of RNA polymerase II transcription subunit 13-like OS=Mus musculus GN=Med13l PE=1 SV=2
+TR80652_c0_g1_i2	sp-Q71F56-MD13L_HUMAN	sp-Q71F56-MD13L_HUMAN Mediator of RNA polymerase II transcription subunit 13-like OS=Homo sapiens GN=MED13L PE=1 SV=1
+TR80652_c0_g1_i2	sp-Q71F56-MD13L_HUMAN	sp-Q71F56-MD13L_HUMAN Mediator of RNA polymerase II transcription subunit 13-like OS=Homo sapiens GN=MED13L PE=1 SV=1
+TR80652_c0_g1_i2	sp-Q71F56-MD13L_HUMAN	sp-Q71F56-MD13L_HUMAN Mediator of RNA polymerase II transcription subunit 13-like OS=Homo sapiens GN=MED13L PE=1 SV=1
+TR80652_c0_g1_i2	sp-Q71F56-MD13L_HUMAN	sp-Q71F56-MD13L_HUMAN Mediator of RNA polymerase II transcription subunit 13-like OS=Homo sapiens GN=MED13L PE=1 SV=1
+TR80652_c0_g1_i2	sp-Q71F56-MD13L_HUMAN	sp-Q71F56-MD13L_HUMAN Mediator of RNA polymerase II transcription subunit 13-like OS=Homo sapiens GN=MED13L PE=1 SV=1
+TR80652_c0_g1_i2	sp-Q9UHV7-MED13_HUMAN	sp-Q9UHV7-MED13_HUMAN Mediator of RNA polymerase II transcription subunit 13 OS=Homo sapiens GN=MED13 PE=1 SV=3
+TR80652_c0_g1_i2	sp-Q9UHV7-MED13_HUMAN	sp-Q9UHV7-MED13_HUMAN Mediator of RNA polymerase II transcription subunit 13 OS=Homo sapiens GN=MED13 PE=1 SV=3
+TR80652_c0_g1_i2	sp-Q9UHV7-MED13_HUMAN	sp-Q9UHV7-MED13_HUMAN Mediator of RNA polymerase II transcription subunit 13 OS=Homo sapiens GN=MED13 PE=1 SV=3
+TR80652_c0_g1_i2	sp-Q9UHV7-MED13_HUMAN	sp-Q9UHV7-MED13_HUMAN Mediator of RNA polymerase II transcription subunit 13 OS=Homo sapiens GN=MED13 PE=1 SV=3
+TR80652_c0_g1_i2	sp-Q5SWW4-MED13_MOUSE	sp-Q5SWW4-MED13_MOUSE Mediator of RNA polymerase II transcription subunit 13 OS=Mus musculus GN=Med13 PE=1 SV=1
+TR80652_c0_g1_i2	sp-Q5SWW4-MED13_MOUSE	sp-Q5SWW4-MED13_MOUSE Mediator of RNA polymerase II transcription subunit 13 OS=Mus musculus GN=Med13 PE=1 SV=1
+TR80652_c0_g1_i2	sp-Q5SWW4-MED13_MOUSE	sp-Q5SWW4-MED13_MOUSE Mediator of RNA polymerase II transcription subunit 13 OS=Mus musculus GN=Med13 PE=1 SV=1
+TR80652_c0_g1_i2	sp-Q5SWW4-MED13_MOUSE	sp-Q5SWW4-MED13_MOUSE Mediator of RNA polymerase II transcription subunit 13 OS=Mus musculus GN=Med13 PE=1 SV=1
+TR80652_c0_g1_i2	sp-A2VCZ5-MD13L_DANRE	sp-A2VCZ5-MD13L_DANRE Mediator of RNA polymerase II transcription subunit 13-like OS=Danio rerio GN=zgc:153454 PE=2 SV=1
+TR80652_c0_g1_i2	sp-A2VCZ5-MD13L_DANRE	sp-A2VCZ5-MD13L_DANRE Mediator of RNA polymerase II transcription subunit 13-like OS=Danio rerio GN=zgc:153454 PE=2 SV=1
+TR80652_c0_g1_i2	sp-A2VCZ5-MD13L_DANRE	sp-A2VCZ5-MD13L_DANRE Mediator of RNA polymerase II transcription subunit 13-like OS=Danio rerio GN=zgc:153454 PE=2 SV=1
+TR80652_c0_g1_i2	sp-A2VCZ5-MD13L_DANRE	sp-A2VCZ5-MD13L_DANRE Mediator of RNA polymerase II transcription subunit 13-like OS=Danio rerio GN=zgc:153454 PE=2 SV=1
+TR80652_c0_g1_i2	sp-P0C657-MED13_CAEBR	sp-P0C657-MED13_CAEBR Mediator of RNA polymerase II transcription subunit 13 OS=Caenorhabditis briggsae GN=let-19 PE=3 SV=2
+TR80652_c0_g1_i2	sp-P0C657-MED13_CAEBR	sp-P0C657-MED13_CAEBR Mediator of RNA polymerase II transcription subunit 13 OS=Caenorhabditis briggsae GN=let-19 PE=3 SV=2
+TR80652_c0_g1_i2	sp-P0C657-MED13_CAEBR	sp-P0C657-MED13_CAEBR Mediator of RNA polymerase II transcription subunit 13 OS=Caenorhabditis briggsae GN=let-19 PE=3 SV=2
+TR80652_c0_g1_i2	sp-P0C657-MED13_CAEBR	sp-P0C657-MED13_CAEBR Mediator of RNA polymerase II transcription subunit 13 OS=Caenorhabditis briggsae GN=let-19 PE=3 SV=2
+TR80652_c0_g1_i2	sp-Q93442-MED13_CAEEL	sp-Q93442-MED13_CAEEL Mediator of RNA polymerase II transcription subunit 13 OS=Caenorhabditis elegans GN=let-19 PE=1 SV=3
+TR80652_c0_g1_i2	sp-Q93442-MED13_CAEEL	sp-Q93442-MED13_CAEEL Mediator of RNA polymerase II transcription subunit 13 OS=Caenorhabditis elegans GN=let-19 PE=1 SV=3
+TR80652_c0_g1_i2	sp-Q93442-MED13_CAEEL	sp-Q93442-MED13_CAEEL Mediator of RNA polymerase II transcription subunit 13 OS=Caenorhabditis elegans GN=let-19 PE=1 SV=3
+TR80652_c0_g1_i2	sp-Q93442-MED13_CAEEL	sp-Q93442-MED13_CAEEL Mediator of RNA polymerase II transcription subunit 13 OS=Caenorhabditis elegans GN=let-19 PE=1 SV=3
+TR80652_c0_g1_i2	sp-Q54S20-MED13_DICDI	sp-Q54S20-MED13_DICDI Mediator of RNA polymerase II transcription subunit 13 OS=Dictyostelium discoideum GN=amiB PE=2 SV=1
+TR80652_c0_g1_i2	sp-F4I096-MED13_ARATH	sp-F4I096-MED13_ARATH Mediator of RNA polymerase II transcription subunit 13 OS=Arabidopsis thaliana GN=MED13 PE=1 SV=1
+TR80984_c0_g2_i2	sp-Q6GNV7-DIRC2_XENLA	sp-Q6GNV7-DIRC2_XENLA Disrupted in renal carcinoma protein 2 homolog OS=Xenopus laevis GN=dirc2 PE=2 SV=1
+TR80984_c0_g2_i2	sp-Q6GNV7-DIRC2_XENLA	sp-Q6GNV7-DIRC2_XENLA Disrupted in renal carcinoma protein 2 homolog OS=Xenopus laevis GN=dirc2 PE=2 SV=1
+TR80984_c0_g2_i2	sp-Q501I9-DIRC2_XENTR	sp-Q501I9-DIRC2_XENTR Disrupted in renal carcinoma protein 2 homolog OS=Xenopus tropicalis GN=dirc2 PE=2 SV=1
+TR80984_c0_g2_i2	sp-Q501I9-DIRC2_XENTR	sp-Q501I9-DIRC2_XENTR Disrupted in renal carcinoma protein 2 homolog OS=Xenopus tropicalis GN=dirc2 PE=2 SV=1
+TR80984_c0_g2_i2	sp-Q66H95-DIRC2_RAT	sp-Q66H95-DIRC2_RAT Disrupted in renal carcinoma protein 2 homolog OS=Rattus norvegicus GN=Dirc2 PE=2 SV=1
+TR80984_c0_g2_i2	sp-Q66H95-DIRC2_RAT	sp-Q66H95-DIRC2_RAT Disrupted in renal carcinoma protein 2 homolog OS=Rattus norvegicus GN=Dirc2 PE=2 SV=1
+TR80984_c0_g2_i2	sp-Q8BFQ6-DIRC2_MOUSE	sp-Q8BFQ6-DIRC2_MOUSE Disrupted in renal carcinoma protein 2 homolog OS=Mus musculus GN=Dirc2 PE=2 SV=1
+TR80984_c0_g2_i2	sp-Q8BFQ6-DIRC2_MOUSE	sp-Q8BFQ6-DIRC2_MOUSE Disrupted in renal carcinoma protein 2 homolog OS=Mus musculus GN=Dirc2 PE=2 SV=1
+TR80984_c0_g2_i2	sp-Q96SL1-DIRC2_HUMAN	sp-Q96SL1-DIRC2_HUMAN Disrupted in renal carcinoma protein 2 OS=Homo sapiens GN=DIRC2 PE=1 SV=1
+TR80984_c0_g2_i2	sp-Q96SL1-DIRC2_HUMAN	sp-Q96SL1-DIRC2_HUMAN Disrupted in renal carcinoma protein 2 OS=Homo sapiens GN=DIRC2 PE=1 SV=1
+TR80984_c0_g2_i2	sp-Q80T32-AGRD1_MOUSE	sp-Q80T32-AGRD1_MOUSE Adhesion G-protein coupled receptor D1 OS=Mus musculus GN=Adgrd1 PE=2 SV=2
+TR80984_c0_g2_i2	sp-Q6QNK2-AGRD1_HUMAN	sp-Q6QNK2-AGRD1_HUMAN Adhesion G-protein coupled receptor D1 OS=Homo sapiens GN=ADGRD1 PE=1 SV=1
+TR80984_c0_g2_i2	sp-A6QLU6-AGRD1_BOVIN	sp-A6QLU6-AGRD1_BOVIN Adhesion G-protein coupled receptor D1 OS=Bos taurus GN=ADGRD1 PE=2 SV=1
+TR80984_c0_g2_i2	sp-Q9N1F2-FLVC1_FELCA	sp-Q9N1F2-FLVC1_FELCA Feline leukemia virus subgroup C receptor-related protein 1 OS=Felis catus GN=FLVCR1 PE=1 SV=1
+TR80984_c0_g2_i2	sp-Q9N1F2-FLVC1_FELCA	sp-Q9N1F2-FLVC1_FELCA Feline leukemia virus subgroup C receptor-related protein 1 OS=Felis catus GN=FLVCR1 PE=1 SV=1
+TR80984_c0_g2_i2	sp-Q6P3R2-MFS7B_XENTR	sp-Q6P3R2-MFS7B_XENTR Major facilitator superfamily domain-containing protein 7-b OS=Xenopus tropicalis GN=mfsd7-B PE=2 SV=1
+TR80984_c0_g2_i2	sp-Q6P3R2-MFS7B_XENTR	sp-Q6P3R2-MFS7B_XENTR Major facilitator superfamily domain-containing protein 7-b OS=Xenopus tropicalis GN=mfsd7-B PE=2 SV=1
+TR82774_c2_g1_i3	sp-Q91VW5-GOGA4_MOUSE	sp-Q91VW5-GOGA4_MOUSE Golgin subfamily A member 4 OS=Mus musculus GN=Golga4 PE=1 SV=2
+TR82774_c2_g1_i3	sp-Q91VW5-GOGA4_MOUSE	sp-Q91VW5-GOGA4_MOUSE Golgin subfamily A member 4 OS=Mus musculus GN=Golga4 PE=1 SV=2
+TR82774_c2_g1_i3	sp-Q5U4E6-GOGA4_RAT	sp-Q5U4E6-GOGA4_RAT Golgin subfamily A member 4 OS=Rattus norvegicus GN=Golga4 PE=1 SV=2
+TR82774_c2_g1_i3	sp-Q5U4E6-GOGA4_RAT	sp-Q5U4E6-GOGA4_RAT Golgin subfamily A member 4 OS=Rattus norvegicus GN=Golga4 PE=1 SV=2
+TR82774_c2_g1_i3	sp-Q13439-GOGA4_HUMAN	sp-Q13439-GOGA4_HUMAN Golgin subfamily A member 4 OS=Homo sapiens GN=GOLGA4 PE=1 SV=1
+TR82774_c2_g1_i3	sp-Q13439-GOGA4_HUMAN	sp-Q13439-GOGA4_HUMAN Golgin subfamily A member 4 OS=Homo sapiens GN=GOLGA4 PE=1 SV=1
+TR83539_c0_g1_i3	sp-Q27802-DYHC2_TRIGR	sp-Q27802-DYHC2_TRIGR Cytoplasmic dynein 2 heavy chain 1 OS=Tripneustes gratilla GN=DYH1B PE=2 SV=2
+TR83539_c0_g1_i3	sp-Q8NCM8-DYHC2_HUMAN	sp-Q8NCM8-DYHC2_HUMAN Cytoplasmic dynein 2 heavy chain 1 OS=Homo sapiens GN=DYNC2H1 PE=1 SV=4
+TR83539_c0_g1_i3	sp-Q45VK7-DYHC2_MOUSE	sp-Q45VK7-DYHC2_MOUSE Cytoplasmic dynein 2 heavy chain 1 OS=Mus musculus GN=Dync2h1 PE=1 SV=1
+TR83539_c0_g1_i3	sp-Q9JJ79-DYHC2_RAT	sp-Q9JJ79-DYHC2_RAT Cytoplasmic dynein 2 heavy chain 1 OS=Rattus norvegicus GN=Dync2h1 PE=1 SV=1
+TR83539_c0_g1_i3	sp-Q9SMH5-DYHC2_CHLRE	sp-Q9SMH5-DYHC2_CHLRE Cytoplasmic dynein 2 heavy chain 1 OS=Chlamydomonas reinhardtii GN=DHC1B PE=1 SV=2
+TR83539_c0_g1_i3	sp-Q19542-DYHC2_CAEEL	sp-Q19542-DYHC2_CAEEL Cytoplasmic dynein 2 heavy chain 1 OS=Caenorhabditis elegans GN=che-3 PE=3 SV=2
+TR83539_c0_g1_i3	sp-P38650-DYHC1_RAT	sp-P38650-DYHC1_RAT Cytoplasmic dynein 1 heavy chain 1 OS=Rattus norvegicus GN=Dync1h1 PE=1 SV=1
+TR83539_c0_g1_i3	sp-Q9JHU4-DYHC1_MOUSE	sp-Q9JHU4-DYHC1_MOUSE Cytoplasmic dynein 1 heavy chain 1 OS=Mus musculus GN=Dync1h1 PE=1 SV=2
+TR83539_c0_g1_i3	sp-Q9JHU4-DYHC1_MOUSE	sp-Q9JHU4-DYHC1_MOUSE Cytoplasmic dynein 1 heavy chain 1 OS=Mus musculus GN=Dync1h1 PE=1 SV=2
+TR83539_c0_g1_i3	sp-Q14204-DYHC1_HUMAN	sp-Q14204-DYHC1_HUMAN Cytoplasmic dynein 1 heavy chain 1 OS=Homo sapiens GN=DYNC1H1 PE=1 SV=5
+TR83539_c0_g1_i3	sp-Q14204-DYHC1_HUMAN	sp-Q14204-DYHC1_HUMAN Cytoplasmic dynein 1 heavy chain 1 OS=Homo sapiens GN=DYNC1H1 PE=1 SV=5
+TR83539_c0_g1_i3	sp-P37276-DYHC_DROME	sp-P37276-DYHC_DROME Dynein heavy chain, cytoplasmic OS=Drosophila melanogaster GN=Dhc64C PE=2 SV=2
+TR83539_c0_g1_i3	sp-P37276-DYHC_DROME	sp-P37276-DYHC_DROME Dynein heavy chain, cytoplasmic OS=Drosophila melanogaster GN=Dhc64C PE=2 SV=2
+TR83554_c8_g1_i6	sp-Q9HD20-AT131_HUMAN	sp-Q9HD20-AT131_HUMAN Manganese-transporting ATPase 13A1 OS=Homo sapiens GN=ATP13A1 PE=1 SV=2
+TR83554_c8_g1_i6	sp-Q9EPE9-AT131_MOUSE	sp-Q9EPE9-AT131_MOUSE Manganese-transporting ATPase 13A1 OS=Mus musculus GN=Atp13a1 PE=1 SV=2
+TR83554_c8_g1_i6	sp-P90747-AT131_CAEEL	sp-P90747-AT131_CAEEL Probable manganese-transporting ATPase catp-8 OS=Caenorhabditis elegans GN=catp-8 PE=3 SV=3
+TR83554_c8_g1_i6	sp-Q9LT02-PDR2_ARATH	sp-Q9LT02-PDR2_ARATH Probable manganese-transporting ATPase PDR2 OS=Arabidopsis thaliana GN=PDR2 PE=1 SV=1
+TR83554_c8_g1_i6	sp-O14072-ATC4_SCHPO	sp-O14072-ATC4_SCHPO Manganese-transporting ATPase 4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=cta4 PE=3 SV=1
+TR83554_c8_g1_i6	sp-P39986-ATC6_YEAST	sp-P39986-ATC6_YEAST Manganese-transporting ATPase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SPF1 PE=1 SV=1
+TR83554_c8_g1_i6	sp-P39986-ATC6_YEAST	sp-P39986-ATC6_YEAST Manganese-transporting ATPase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SPF1 PE=1 SV=1
+TR83554_c8_g1_i6	sp-O74431-ATC9_SCHPO	sp-O74431-ATC9_SCHPO Probable cation-transporting ATPase C1672.11c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPCC1672.11c PE=3 SV=1
+TR83554_c8_g1_i6	sp-O74431-ATC9_SCHPO	sp-O74431-ATC9_SCHPO Probable cation-transporting ATPase C1672.11c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPCC1672.11c PE=3 SV=1
+TR83554_c8_g1_i6	sp-Q5XF89-AT133_MOUSE	sp-Q5XF89-AT133_MOUSE Probable cation-transporting ATPase 13A3 OS=Mus musculus GN=Atp13a3 PE=1 SV=1
+TR83554_c8_g1_i6	sp-Q5XF89-AT133_MOUSE	sp-Q5XF89-AT133_MOUSE Probable cation-transporting ATPase 13A3 OS=Mus musculus GN=Atp13a3 PE=1 SV=1
+TR83554_c8_g1_i6	sp-Q9H7F0-AT133_HUMAN	sp-Q9H7F0-AT133_HUMAN Probable cation-transporting ATPase 13A3 OS=Homo sapiens GN=ATP13A3 PE=1 SV=4
+TR83554_c8_g1_i6	sp-Q9H7F0-AT133_HUMAN	sp-Q9H7F0-AT133_HUMAN Probable cation-transporting ATPase 13A3 OS=Homo sapiens GN=ATP13A3 PE=1 SV=4
+TR83554_c8_g1_i6	sp-Q5XF90-AT134_MOUSE	sp-Q5XF90-AT134_MOUSE Probable cation-transporting ATPase 13A4 OS=Mus musculus GN=Atp13a4 PE=2 SV=1
+TR83554_c8_g1_i6	sp-Q5XF90-AT134_MOUSE	sp-Q5XF90-AT134_MOUSE Probable cation-transporting ATPase 13A4 OS=Mus musculus GN=Atp13a4 PE=2 SV=1
+TR85888_c2_g2_i2	sp-Q5RBG4-KAT5_PONAB	sp-Q5RBG4-KAT5_PONAB Histone acetyltransferase KAT5 OS=Pongo abelii GN=KAT5 PE=2 SV=1
+TR85888_c2_g2_i2	sp-Q99MK2-KAT5_RAT	sp-Q99MK2-KAT5_RAT Histone acetyltransferase KAT5 OS=Rattus norvegicus GN=Kat5 PE=1 SV=2
+TR85888_c2_g2_i2	sp-Q8CHK4-KAT5_MOUSE	sp-Q8CHK4-KAT5_MOUSE Histone acetyltransferase KAT5 OS=Mus musculus GN=Kat5 PE=1 SV=2
+TR85888_c2_g2_i2	sp-Q92993-KAT5_HUMAN	sp-Q92993-KAT5_HUMAN Histone acetyltransferase KAT5 OS=Homo sapiens GN=KAT5 PE=1 SV=2
+TR85888_c2_g2_i2	sp-Q960X4-TIP60_DROME	sp-Q960X4-TIP60_DROME Histone acetyltransferase Tip60 OS=Drosophila melanogaster GN=Tip60 PE=1 SV=1
+TR85888_c2_g2_i2	sp-Q960X4-TIP60_DROME	sp-Q960X4-TIP60_DROME Histone acetyltransferase Tip60 OS=Drosophila melanogaster GN=Tip60 PE=1 SV=1
+TR85888_c2_g2_i2	sp-Q9TYU5-TIP60_CAEEL	sp-Q9TYU5-TIP60_CAEEL Histone acetyltransferase Tip60 homolog OS=Caenorhabditis elegans GN=mys-1 PE=2 SV=1
+TR85888_c2_g2_i2	sp-A7RP64-PNO1_NEMVE	sp-A7RP64-PNO1_NEMVE RNA-binding protein pno1 OS=Nematostella vectensis GN=pno1 PE=3 SV=1
+TR85888_c2_g2_i2	sp-Q75BY2-ESA1_ASHGO	sp-Q75BY2-ESA1_ASHGO Histone acetyltransferase ESA1 OS=Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) GN=ESA1 PE=3 SV=2
+TR85888_c2_g2_i2	sp-Q6CKE9-ESA1_KLULA	sp-Q6CKE9-ESA1_KLULA Histone acetyltransferase ESA1 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) GN=ESA1 PE=3 SV=1
+TR85888_c2_g2_i2	sp-Q08649-ESA1_YEAST	sp-Q08649-ESA1_YEAST Histone acetyltransferase ESA1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ESA1 PE=1 SV=1
+TR86906_c0_g1_i2	sp-P24399-ZN239_MOUSE	sp-P24399-ZN239_MOUSE Zinc finger protein 239 OS=Mus musculus GN=Znf239 PE=2 SV=2
+TR86906_c0_g1_i2	sp-P24399-ZN239_MOUSE	sp-P24399-ZN239_MOUSE Zinc finger protein 239 OS=Mus musculus GN=Znf239 PE=2 SV=2
+TR86906_c0_g1_i2	sp-Q14590-ZN235_HUMAN	sp-Q14590-ZN235_HUMAN Zinc finger protein 235 OS=Homo sapiens GN=ZNF235 PE=2 SV=3
+TR86906_c0_g1_i2	sp-Q14590-ZN235_HUMAN	sp-Q14590-ZN235_HUMAN Zinc finger protein 235 OS=Homo sapiens GN=ZNF235 PE=2 SV=3
+TR86906_c0_g1_i2	sp-Q14590-ZN235_HUMAN	sp-Q14590-ZN235_HUMAN Zinc finger protein 235 OS=Homo sapiens GN=ZNF235 PE=2 SV=3
+TR86906_c0_g1_i2	sp-Q14590-ZN235_HUMAN	sp-Q14590-ZN235_HUMAN Zinc finger protein 235 OS=Homo sapiens GN=ZNF235 PE=2 SV=3
+TR86906_c0_g1_i2	sp-Q14590-ZN235_HUMAN	sp-Q14590-ZN235_HUMAN Zinc finger protein 235 OS=Homo sapiens GN=ZNF235 PE=2 SV=3
+TR86906_c0_g1_i2	sp-Q14590-ZN235_HUMAN	sp-Q14590-ZN235_HUMAN Zinc finger protein 235 OS=Homo sapiens GN=ZNF235 PE=2 SV=3
+TR86906_c0_g1_i2	sp-Q14590-ZN235_HUMAN	sp-Q14590-ZN235_HUMAN Zinc finger protein 235 OS=Homo sapiens GN=ZNF235 PE=2 SV=3
+TR86906_c0_g1_i2	sp-Q14590-ZN235_HUMAN	sp-Q14590-ZN235_HUMAN Zinc finger protein 235 OS=Homo sapiens GN=ZNF235 PE=2 SV=3
+TR86906_c0_g1_i2	sp-Q96K75-ZN514_HUMAN	sp-Q96K75-ZN514_HUMAN Zinc finger protein 514 OS=Homo sapiens GN=ZNF514 PE=2 SV=1
+TR86906_c0_g1_i2	sp-Q96K75-ZN514_HUMAN	sp-Q96K75-ZN514_HUMAN Zinc finger protein 514 OS=Homo sapiens GN=ZNF514 PE=2 SV=1
+TR86906_c0_g1_i2	sp-B4DU55-ZN879_HUMAN	sp-B4DU55-ZN879_HUMAN Zinc finger protein 879 OS=Homo sapiens GN=ZNF879 PE=2 SV=2
+TR86906_c0_g1_i2	sp-B4DU55-ZN879_HUMAN	sp-B4DU55-ZN879_HUMAN Zinc finger protein 879 OS=Homo sapiens GN=ZNF879 PE=2 SV=2
+TR86906_c0_g1_i2	sp-B4DU55-ZN879_HUMAN	sp-B4DU55-ZN879_HUMAN Zinc finger protein 879 OS=Homo sapiens GN=ZNF879 PE=2 SV=2
+TR86906_c0_g1_i2	sp-B4DU55-ZN879_HUMAN	sp-B4DU55-ZN879_HUMAN Zinc finger protein 879 OS=Homo sapiens GN=ZNF879 PE=2 SV=2
+TR86906_c0_g1_i2	sp-Q6ZN57-ZFP2_HUMAN	sp-Q6ZN57-ZFP2_HUMAN Zinc finger protein 2 homolog OS=Homo sapiens GN=ZFP2 PE=1 SV=1
+TR86906_c0_g1_i2	sp-Q6ZN57-ZFP2_HUMAN	sp-Q6ZN57-ZFP2_HUMAN Zinc finger protein 2 homolog OS=Homo sapiens GN=ZFP2 PE=1 SV=1
+TR86906_c0_g1_i2	sp-Q6ZN57-ZFP2_HUMAN	sp-Q6ZN57-ZFP2_HUMAN Zinc finger protein 2 homolog OS=Homo sapiens GN=ZFP2 PE=1 SV=1
+TR86906_c0_g1_i2	sp-Q6ZN57-ZFP2_HUMAN	sp-Q6ZN57-ZFP2_HUMAN Zinc finger protein 2 homolog OS=Homo sapiens GN=ZFP2 PE=1 SV=1
+TR86906_c0_g1_i2	sp-Q6ZN57-ZFP2_HUMAN	sp-Q6ZN57-ZFP2_HUMAN Zinc finger protein 2 homolog OS=Homo sapiens GN=ZFP2 PE=1 SV=1
+TR86906_c0_g1_i2	sp-Q9UL59-ZN214_HUMAN	sp-Q9UL59-ZN214_HUMAN Zinc finger protein 214 OS=Homo sapiens GN=ZNF214 PE=2 SV=2
+TR86906_c0_g1_i2	sp-Q9UL59-ZN214_HUMAN	sp-Q9UL59-ZN214_HUMAN Zinc finger protein 214 OS=Homo sapiens GN=ZNF214 PE=2 SV=2
+TR86906_c0_g1_i2	sp-Q9UL59-ZN214_HUMAN	sp-Q9UL59-ZN214_HUMAN Zinc finger protein 214 OS=Homo sapiens GN=ZNF214 PE=2 SV=2
+TR86906_c0_g1_i2	sp-Q9UL59-ZN214_HUMAN	sp-Q9UL59-ZN214_HUMAN Zinc finger protein 214 OS=Homo sapiens GN=ZNF214 PE=2 SV=2
+TR86906_c0_g1_i2	sp-Q9UL59-ZN214_HUMAN	sp-Q9UL59-ZN214_HUMAN Zinc finger protein 214 OS=Homo sapiens GN=ZNF214 PE=2 SV=2
+TR86906_c0_g1_i2	sp-Q9UL59-ZN214_HUMAN	sp-Q9UL59-ZN214_HUMAN Zinc finger protein 214 OS=Homo sapiens GN=ZNF214 PE=2 SV=2
+TR86906_c0_g1_i2	sp-Q9UL59-ZN214_HUMAN	sp-Q9UL59-ZN214_HUMAN Zinc finger protein 214 OS=Homo sapiens GN=ZNF214 PE=2 SV=2
+TR86906_c0_g1_i2	sp-Q9UL59-ZN214_HUMAN	sp-Q9UL59-ZN214_HUMAN Zinc finger protein 214 OS=Homo sapiens GN=ZNF214 PE=2 SV=2
+TR86906_c0_g1_i2	sp-Q16600-ZN239_HUMAN	sp-Q16600-ZN239_HUMAN Zinc finger protein 239 OS=Homo sapiens GN=ZNF239 PE=1 SV=3
+TR86906_c0_g1_i2	sp-Q16600-ZN239_HUMAN	sp-Q16600-ZN239_HUMAN Zinc finger protein 239 OS=Homo sapiens GN=ZNF239 PE=1 SV=3
+TR86906_c0_g1_i2	sp-Q61116-ZN235_MOUSE	sp-Q61116-ZN235_MOUSE Zinc finger protein 235 OS=Mus musculus GN=Znf235 PE=2 SV=1
+TR86906_c0_g1_i2	sp-Q61116-ZN235_MOUSE	sp-Q61116-ZN235_MOUSE Zinc finger protein 235 OS=Mus musculus GN=Znf235 PE=2 SV=1
+TR86906_c0_g1_i2	sp-Q61116-ZN235_MOUSE	sp-Q61116-ZN235_MOUSE Zinc finger protein 235 OS=Mus musculus GN=Znf235 PE=2 SV=1
+TR86906_c0_g1_i2	sp-Q61116-ZN235_MOUSE	sp-Q61116-ZN235_MOUSE Zinc finger protein 235 OS=Mus musculus GN=Znf235 PE=2 SV=1
+TR86906_c0_g1_i2	sp-Q61116-ZN235_MOUSE	sp-Q61116-ZN235_MOUSE Zinc finger protein 235 OS=Mus musculus GN=Znf235 PE=2 SV=1
+TR86906_c0_g1_i2	sp-P08043-ZFP2_MOUSE	sp-P08043-ZFP2_MOUSE Zinc finger protein 2 OS=Mus musculus GN=Zfp2 PE=2 SV=2
+TR86906_c0_g1_i2	sp-P08043-ZFP2_MOUSE	sp-P08043-ZFP2_MOUSE Zinc finger protein 2 OS=Mus musculus GN=Zfp2 PE=2 SV=2
+TR86906_c0_g1_i2	sp-P08043-ZFP2_MOUSE	sp-P08043-ZFP2_MOUSE Zinc finger protein 2 OS=Mus musculus GN=Zfp2 PE=2 SV=2
+TR86906_c0_g1_i2	sp-P08043-ZFP2_MOUSE	sp-P08043-ZFP2_MOUSE Zinc finger protein 2 OS=Mus musculus GN=Zfp2 PE=2 SV=2
+TR86906_c0_g1_i2	sp-P10075-GLI4_HUMAN	sp-P10075-GLI4_HUMAN Zinc finger protein GLI4 OS=Homo sapiens GN=GLI4 PE=1 SV=2
+TR86906_c0_g1_i2	sp-P10075-GLI4_HUMAN	sp-P10075-GLI4_HUMAN Zinc finger protein GLI4 OS=Homo sapiens GN=GLI4 PE=1 SV=2
+TR86906_c0_g1_i2	sp-P10075-GLI4_HUMAN	sp-P10075-GLI4_HUMAN Zinc finger protein GLI4 OS=Homo sapiens GN=GLI4 PE=1 SV=2
+TR88334_c0_g1_i3	sp-Q86TI0-TBCD1_HUMAN	sp-Q86TI0-TBCD1_HUMAN TBC1 domain family member 1 OS=Homo sapiens GN=TBC1D1 PE=1 SV=2
+TR88334_c0_g1_i3	sp-O97790-TBCD1_BOVIN	sp-O97790-TBCD1_BOVIN TBC1 domain family member 1 OS=Bos taurus GN=TBC1D1 PE=2 SV=2
+TR88334_c0_g1_i3	sp-Q60949-TBCD1_MOUSE	sp-Q60949-TBCD1_MOUSE TBC1 domain family member 1 OS=Mus musculus GN=Tbc1d1 PE=1 SV=3
+TR88334_c0_g1_i3	sp-Q60949-TBCD1_MOUSE	sp-Q60949-TBCD1_MOUSE TBC1 domain family member 1 OS=Mus musculus GN=Tbc1d1 PE=1 SV=3
+TR88334_c0_g1_i3	sp-O60343-TBCD4_HUMAN	sp-O60343-TBCD4_HUMAN TBC1 domain family member 4 OS=Homo sapiens GN=TBC1D4 PE=1 SV=2
+TR88334_c0_g1_i3	sp-O60343-TBCD4_HUMAN	sp-O60343-TBCD4_HUMAN TBC1 domain family member 4 OS=Homo sapiens GN=TBC1D4 PE=1 SV=2
+TR88334_c0_g1_i3	sp-Q8BYJ6-TBCD4_MOUSE	sp-Q8BYJ6-TBCD4_MOUSE TBC1 domain family member 4 OS=Mus musculus GN=Tbc1d4 PE=1 SV=2
+TR88334_c0_g1_i3	sp-Q8BYJ6-TBCD4_MOUSE	sp-Q8BYJ6-TBCD4_MOUSE TBC1 domain family member 4 OS=Mus musculus GN=Tbc1d4 PE=1 SV=2
+TR88334_c0_g1_i3	sp-A2AWA9-RBGP1_MOUSE	sp-A2AWA9-RBGP1_MOUSE Rab GTPase-activating protein 1 OS=Mus musculus GN=Rabgap1 PE=1 SV=1
+TR88334_c0_g1_i3	sp-Q5RAN1-RBGP1_PONAB	sp-Q5RAN1-RBGP1_PONAB Rab GTPase-activating protein 1 OS=Pongo abelii GN=RABGAP1 PE=2 SV=1
+TR88334_c0_g1_i3	sp-Q9Y3P9-RBGP1_HUMAN	sp-Q9Y3P9-RBGP1_HUMAN Rab GTPase-activating protein 1 OS=Homo sapiens GN=RABGAP1 PE=1 SV=3
+TR88334_c0_g1_i3	sp-Q5ZJ17-RBG1L_CHICK	sp-Q5ZJ17-RBG1L_CHICK Rab GTPase-activating protein 1-like OS=Gallus gallus GN=RABGAP1L PE=2 SV=1
+TR88334_c0_g1_i3	sp-A6H6A9-RBG1L_MOUSE	sp-A6H6A9-RBG1L_MOUSE Rab GTPase-activating protein 1-like OS=Mus musculus GN=Rabgap1l PE=1 SV=1
+TR88825_c5_g2_i3	sp-Q63342-M2GD_RAT	sp-Q63342-M2GD_RAT Dimethylglycine dehydrogenase, mitochondrial OS=Rattus norvegicus GN=Dmgdh PE=1 SV=1
+TR88825_c5_g2_i3	sp-Q63342-M2GD_RAT	sp-Q63342-M2GD_RAT Dimethylglycine dehydrogenase, mitochondrial OS=Rattus norvegicus GN=Dmgdh PE=1 SV=1
+TR88825_c5_g2_i3	sp-Q9DBT9-M2GD_MOUSE	sp-Q9DBT9-M2GD_MOUSE Dimethylglycine dehydrogenase, mitochondrial OS=Mus musculus GN=Dmgdh PE=1 SV=1
+TR88825_c5_g2_i3	sp-Q9DBT9-M2GD_MOUSE	sp-Q9DBT9-M2GD_MOUSE Dimethylglycine dehydrogenase, mitochondrial OS=Mus musculus GN=Dmgdh PE=1 SV=1
+TR88825_c5_g2_i3	sp-Q9UI17-M2GD_HUMAN	sp-Q9UI17-M2GD_HUMAN Dimethylglycine dehydrogenase, mitochondrial OS=Homo sapiens GN=DMGDH PE=1 SV=2
+TR88825_c5_g2_i3	sp-Q9UI17-M2GD_HUMAN	sp-Q9UI17-M2GD_HUMAN Dimethylglycine dehydrogenase, mitochondrial OS=Homo sapiens GN=DMGDH PE=1 SV=2
+TR88825_c5_g2_i3	sp-Q9UL12-SARDH_HUMAN	sp-Q9UL12-SARDH_HUMAN Sarcosine dehydrogenase, mitochondrial OS=Homo sapiens GN=SARDH PE=1 SV=1
+TR88825_c5_g2_i3	sp-Q64380-SARDH_RAT	sp-Q64380-SARDH_RAT Sarcosine dehydrogenase, mitochondrial OS=Rattus norvegicus GN=Sardh PE=1 SV=2
+TR88825_c5_g2_i3	sp-Q99LB7-SARDH_MOUSE	sp-Q99LB7-SARDH_MOUSE Sarcosine dehydrogenase, mitochondrial OS=Mus musculus GN=Sardh PE=1 SV=1
+TR88825_c5_g2_i3	sp-O46504-PDPR_BOVIN	sp-O46504-PDPR_BOVIN Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial OS=Bos taurus GN=PDPR PE=1 SV=1
+TR88825_c5_g2_i3	sp-O46504-PDPR_BOVIN	sp-O46504-PDPR_BOVIN Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial OS=Bos taurus GN=PDPR PE=1 SV=1
+TR88825_c5_g2_i3	sp-Q7TSQ8-PDPR_MOUSE	sp-Q7TSQ8-PDPR_MOUSE Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial OS=Mus musculus GN=Pdpr PE=1 SV=1
+TR88825_c5_g2_i3	sp-Q7TSQ8-PDPR_MOUSE	sp-Q7TSQ8-PDPR_MOUSE Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial OS=Mus musculus GN=Pdpr PE=1 SV=1
+TR88825_c5_g2_i3	sp-Q8GAI3-MABO1_ARTNI	sp-Q8GAI3-MABO1_ARTNI 4-methylaminobutanoate oxidase (formaldehyde-forming) OS=Arthrobacter nicotinovorans GN=abo PE=1 SV=1
+TR88825_c5_g2_i3	sp-Q8GAI3-MABO1_ARTNI	sp-Q8GAI3-MABO1_ARTNI 4-methylaminobutanoate oxidase (formaldehyde-forming) OS=Arthrobacter nicotinovorans GN=abo PE=1 SV=1
+TR88825_c5_g2_i3	sp-Q8NCN5-PDPR_HUMAN	sp-Q8NCN5-PDPR_HUMAN Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial OS=Homo sapiens GN=PDPR PE=1 SV=2
+TR88825_c5_g2_i3	sp-Q8NCN5-PDPR_HUMAN	sp-Q8NCN5-PDPR_HUMAN Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial OS=Homo sapiens GN=PDPR PE=1 SV=2
+TR88825_c5_g2_i4	sp-Q63342-M2GD_RAT	sp-Q63342-M2GD_RAT Dimethylglycine dehydrogenase, mitochondrial OS=Rattus norvegicus GN=Dmgdh PE=1 SV=1
+TR88825_c5_g2_i4	sp-Q9UI17-M2GD_HUMAN	sp-Q9UI17-M2GD_HUMAN Dimethylglycine dehydrogenase, mitochondrial OS=Homo sapiens GN=DMGDH PE=1 SV=2
+TR88825_c5_g2_i4	sp-Q9DBT9-M2GD_MOUSE	sp-Q9DBT9-M2GD_MOUSE Dimethylglycine dehydrogenase, mitochondrial OS=Mus musculus GN=Dmgdh PE=1 SV=1
+TR88825_c5_g2_i4	sp-Q9UL12-SARDH_HUMAN	sp-Q9UL12-SARDH_HUMAN Sarcosine dehydrogenase, mitochondrial OS=Homo sapiens GN=SARDH PE=1 SV=1
+TR88825_c5_g2_i4	sp-Q64380-SARDH_RAT	sp-Q64380-SARDH_RAT Sarcosine dehydrogenase, mitochondrial OS=Rattus norvegicus GN=Sardh PE=1 SV=2
+TR88825_c5_g2_i4	sp-Q99LB7-SARDH_MOUSE	sp-Q99LB7-SARDH_MOUSE Sarcosine dehydrogenase, mitochondrial OS=Mus musculus GN=Sardh PE=1 SV=1
+TR88825_c5_g2_i4	sp-Q8GAI3-MABO1_ARTNI	sp-Q8GAI3-MABO1_ARTNI 4-methylaminobutanoate oxidase (formaldehyde-forming) OS=Arthrobacter nicotinovorans GN=abo PE=1 SV=1
+TR88825_c5_g2_i4	sp-O46504-PDPR_BOVIN	sp-O46504-PDPR_BOVIN Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial OS=Bos taurus GN=PDPR PE=1 SV=1
+TR88825_c5_g2_i4	sp-Q7TSQ8-PDPR_MOUSE	sp-Q7TSQ8-PDPR_MOUSE Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial OS=Mus musculus GN=Pdpr PE=1 SV=1
+TR88825_c5_g2_i4	sp-Q8NCN5-PDPR_HUMAN	sp-Q8NCN5-PDPR_HUMAN Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial OS=Homo sapiens GN=PDPR PE=1 SV=2
+TR90369_c5_g2_i5	sp-Q9Z136-TSC1_RAT	sp-Q9Z136-TSC1_RAT Hamartin OS=Rattus norvegicus GN=Tsc1 PE=1 SV=1
+TR90369_c5_g2_i5	sp-Q9Z136-TSC1_RAT	sp-Q9Z136-TSC1_RAT Hamartin OS=Rattus norvegicus GN=Tsc1 PE=1 SV=1
+TR90369_c5_g2_i5	sp-Q9EP53-TSC1_MOUSE	sp-Q9EP53-TSC1_MOUSE Hamartin OS=Mus musculus GN=Tsc1 PE=1 SV=1
+TR90369_c5_g2_i5	sp-Q9EP53-TSC1_MOUSE	sp-Q9EP53-TSC1_MOUSE Hamartin OS=Mus musculus GN=Tsc1 PE=1 SV=1
+TR90369_c5_g2_i5	sp-Q92574-TSC1_HUMAN	sp-Q92574-TSC1_HUMAN Hamartin OS=Homo sapiens GN=TSC1 PE=1 SV=2
+TR90369_c5_g2_i5	sp-Q92574-TSC1_HUMAN	sp-Q92574-TSC1_HUMAN Hamartin OS=Homo sapiens GN=TSC1 PE=1 SV=2
+TR93915_c5_g2_i3	sp-Q9HDZ5-YKP9_SCHPO	sp-Q9HDZ5-YKP9_SCHPO CRAL-TRIO domain-containing protein C589.09, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPAC589.09 PE=3 SV=1
+TR93915_c5_g2_i3	sp-Q757H2-CSR1_ASHGO	sp-Q757H2-CSR1_ASHGO Phosphatidylinositol transfer protein CSR1 OS=Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) GN=CSR1 PE=3 SV=2
+TR93915_c5_g2_i3	sp-Q06705-CSR1_YEAST	sp-Q06705-CSR1_YEAST Phosphatidylinositol transfer protein CSR1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CSR1 PE=1 SV=1
+TR93915_c5_g2_i3	sp-Q10138-YAS2_SCHPO	sp-Q10138-YAS2_SCHPO CRAL-TRIO domain-containing protein C3H8.02 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPAC3H8.02 PE=1 SV=1
+TR93915_c5_g2_i3	sp-Q55CU8-RSC5_DICDI	sp-Q55CU8-RSC5_DICDI Random slug protein 5 OS=Dictyostelium discoideum GN=rsc5 PE=2 SV=1
+TR93915_c5_g2_i3	sp-Q29JQ0-RETM_DROPS	sp-Q29JQ0-RETM_DROPS Protein real-time OS=Drosophila pseudoobscura pseudoobscura GN=retm PE=3 SV=1
+TR93915_c5_g2_i3	sp-P33324-YKJ1_YEAST	sp-P33324-YKJ1_YEAST CRAL-TRIO domain-containing protein YKL091C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YKL091C PE=1 SV=2
+TR93915_c5_g2_i3	sp-Q9VMD6-RETM_DROME	sp-Q9VMD6-RETM_DROME Protein real-time OS=Drosophila melanogaster GN=retm PE=1 SV=2
+TR93915_c5_g2_i3	sp-Q10137-SEC14_SCHPO	sp-Q10137-SEC14_SCHPO Sec14 cytosolic factor OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=sec14 PE=3 SV=1
+TR93915_c5_g2_i3	sp-P53989-SEC14_CANGA	sp-P53989-SEC14_CANGA SEC14 cytosolic factor OS=Candida glabrata (strain ATCC 2001 / CBS 138 / JCM 3761 / NBRC 0622 / NRRL Y-65) GN=SEC14 PE=3 SV=1
+TR95936_c4_g1_i4	sp-Q5RBR6-SPRY3_PONAB	sp-Q5RBR6-SPRY3_PONAB SPRY domain-containing protein 3 OS=Pongo abelii GN=SPRYD3 PE=2 SV=1
+TR95936_c4_g1_i4	sp-Q8NCJ5-SPRY3_HUMAN	sp-Q8NCJ5-SPRY3_HUMAN SPRY domain-containing protein 3 OS=Homo sapiens GN=SPRYD3 PE=1 SV=2
+TR95936_c4_g1_i4	sp-Q6VN20-RBP10_HUMAN	sp-Q6VN20-RBP10_HUMAN Ran-binding protein 10 OS=Homo sapiens GN=RANBP10 PE=1 SV=1
+TR95936_c4_g1_i4	sp-A3KMV8-RBP10_BOVIN	sp-A3KMV8-RBP10_BOVIN Ran-binding protein 10 OS=Bos taurus GN=RANBP10 PE=2 SV=1
+TR95936_c4_g1_i4	sp-Q6VN19-RBP10_MOUSE	sp-Q6VN19-RBP10_MOUSE Ran-binding protein 10 OS=Mus musculus GN=Ranbp10 PE=1 SV=2
+TR95951_c0_g1_i2	sp-Q9P232-CNTN3_HUMAN	sp-Q9P232-CNTN3_HUMAN Contactin-3 OS=Homo sapiens GN=CNTN3 PE=1 SV=3
+TR95951_c0_g1_i2	sp-Q9P232-CNTN3_HUMAN	sp-Q9P232-CNTN3_HUMAN Contactin-3 OS=Homo sapiens GN=CNTN3 PE=1 SV=3
+TR95951_c0_g1_i2	sp-Q62845-CNTN4_RAT	sp-Q62845-CNTN4_RAT Contactin-4 OS=Rattus norvegicus GN=Cntn4 PE=1 SV=1
+TR95951_c0_g1_i2	sp-Q98902-L1CAM_TAKRU	sp-Q98902-L1CAM_TAKRU Neural cell adhesion molecule L1 OS=Takifugu rubripes GN=l1cam PE=3 SV=1
+TR95951_c0_g1_i2	sp-Q8IWV2-CNTN4_HUMAN	sp-Q8IWV2-CNTN4_HUMAN Contactin-4 OS=Homo sapiens GN=CNTN4 PE=1 SV=1
+TR95951_c0_g1_i2	sp-Q8IWV2-CNTN4_HUMAN	sp-Q8IWV2-CNTN4_HUMAN Contactin-4 OS=Homo sapiens GN=CNTN4 PE=1 SV=1
+TR95951_c0_g1_i2	sp-Q9JMB8-CNTN6_MOUSE	sp-Q9JMB8-CNTN6_MOUSE Contactin-6 OS=Mus musculus GN=Cntn6 PE=1 SV=2
+TR95951_c0_g1_i2	sp-Q9UQ52-CNTN6_HUMAN	sp-Q9UQ52-CNTN6_HUMAN Contactin-6 OS=Homo sapiens GN=CNTN6 PE=1 SV=1
+TR95951_c0_g1_i2	sp-Q69Z26-CNTN4_MOUSE	sp-Q69Z26-CNTN4_MOUSE Contactin-4 OS=Mus musculus GN=Cntn4 PE=1 SV=2
+TR95951_c0_g1_i2	sp-Q90W79-CNTN5_CHICK	sp-Q90W79-CNTN5_CHICK Contactin-5 OS=Gallus gallus GN=CNTN5 PE=1 SV=1
+TR95951_c0_g1_i2	sp-Q62682-CNTN3_RAT	sp-Q62682-CNTN3_RAT Contactin-3 OS=Rattus norvegicus GN=Cntn3 PE=1 SV=1
+TR95951_c0_g1_i2	sp-Q62682-CNTN3_RAT	sp-Q62682-CNTN3_RAT Contactin-3 OS=Rattus norvegicus GN=Cntn3 PE=1 SV=1
+TR95951_c0_g1_i2	sp-P20241-NRG_DROME	sp-P20241-NRG_DROME Neuroglian OS=Drosophila melanogaster GN=Nrg PE=1 SV=2
+TR95951_c0_g1_i2	sp-P20241-NRG_DROME	sp-P20241-NRG_DROME Neuroglian OS=Drosophila melanogaster GN=Nrg PE=1 SV=2
+TR95951_c0_g1_i2	sp-P20241-NRG_DROME	sp-P20241-NRG_DROME Neuroglian OS=Drosophila melanogaster GN=Nrg PE=1 SV=2
+TR96323_c4_g1_i2	sp-Q7Z6E9-RBBP6_HUMAN	sp-Q7Z6E9-RBBP6_HUMAN E3 ubiquitin-protein ligase RBBP6 OS=Homo sapiens GN=RBBP6 PE=1 SV=1
+TR96323_c4_g1_i2	sp-P97868-RBBP6_MOUSE	sp-P97868-RBBP6_MOUSE E3 ubiquitin-protein ligase RBBP6 OS=Mus musculus GN=Rbbp6 PE=1 SV=5
+TR96323_c4_g1_i2	sp-O94264-YORF_SCHPO	sp-O94264-YORF_SCHPO Uncharacterized RING finger protein P8B7.15c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPBP8B7.15c PE=3 SV=1
+TR96323_c4_g1_i2	sp-P35728-MPE1_YEAST	sp-P35728-MPE1_YEAST Protein MPE1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MPE1 PE=1 SV=1
+TR96323_c4_g1_i2	sp-Q32KX7-BMI1_BOVIN	sp-Q32KX7-BMI1_BOVIN Polycomb complex protein BMI-1 OS=Bos taurus GN=BMI1 PE=2 SV=1
+TR96323_c4_g1_i2	sp-Q5R8L2-BMI1_PONAB	sp-Q5R8L2-BMI1_PONAB Polycomb complex protein BMI-1 OS=Pongo abelii GN=BMI1 PE=2 SV=1
+TR96323_c4_g1_i2	sp-P35226-BMI1_HUMAN	sp-P35226-BMI1_HUMAN Polycomb complex protein BMI-1 OS=Homo sapiens GN=BMI1 PE=1 SV=2
+TR96323_c4_g1_i2	sp-Q9TST0-BMI1_FELCA	sp-Q9TST0-BMI1_FELCA Polycomb complex protein BMI-1 OS=Felis catus GN=BMI1 PE=2 SV=1
+TR96323_c4_g1_i2	sp-Q9QXK2-RAD18_MOUSE	sp-Q9QXK2-RAD18_MOUSE E3 ubiquitin-protein ligase RAD18 OS=Mus musculus GN=Rad18 PE=1 SV=2
+TR96323_c4_g1_i2	sp-Q6CTZ8-RAD18_KLULA	sp-Q6CTZ8-RAD18_KLULA Postreplication repair E3 ubiquitin-protein ligase RAD18 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) GN=RAD18 PE=3 SV=1
+TR96384_c5_g3_i1	sp-Q99572-P2RX7_HUMAN	sp-Q99572-P2RX7_HUMAN P2X purinoceptor 7 OS=Homo sapiens GN=P2RX7 PE=1 SV=4
+TR96384_c5_g3_i1	sp-Q9Z1M0-P2RX7_MOUSE	sp-Q9Z1M0-P2RX7_MOUSE P2X purinoceptor 7 OS=Mus musculus GN=P2rx7 PE=1 SV=2
+TR96384_c5_g3_i1	sp-Q64663-P2RX7_RAT	sp-Q64663-P2RX7_RAT P2X purinoceptor 7 OS=Rattus norvegicus GN=P2rx7 PE=2 SV=1
