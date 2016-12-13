@@ -8,7 +8,7 @@ output: html_document
 
 Script used to generate this document:
 
-https://github.com/ljcohen/Porites_astreoites_larvae_salinity/blob/master/microarray/Past_salinity_2016-07-01_featureAVG_probeset_analysis.Rmd
+https://github.com/ljcohen/Porites_astreoites_larvae_salinity/blob/master/microarray/limma/Past_salinity_2016-07-01_featureAVG_probeset_analysis.Rmd
 
 QC report:
 
