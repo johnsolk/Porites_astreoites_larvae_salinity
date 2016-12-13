@@ -8,7 +8,7 @@ output: html_document
 
 Script used to generate this document:
 
-https://github.com/ljcohen/Porites_astreoites_larvae_salinity/blob/master/microarray/Past_salinity_2016-07-01_featureAVG_probeset_analysis.Rmd
+https://github.com/ljcohen/Porites_astreoites_larvae_salinity/blob/master/microarray/limma/Past_salinity_2016-07-01_featureAVG_probeset_analysis.Rmd
 
 QC report:
 
@@ -23,9 +23,10 @@ library(limma)
 library("Biobase")
 library("RColorBrewer")
 library("gplots")
+library(viridis)
 library(ggplot2)
 library(lattice)
-setwd("~/Documents/HBOI/Past_salinity/salinity_microarray/")
+setwd("~/Documents/HBOI/Past_salinity/Porites_astreoites_larvae_salinity/microarray/limma")
 source('~/Documents/scripts/overLapper.R')
 ```
 
@@ -282,10 +283,10 @@ tt_30ppt_v_35ppt_sig<-tt_30ppt_v_35ppt_sig[order(-tt_30ppt_v_35ppt_sig$adj.P.Val
 #dim(tt_25ppt_v_35ppt_sig)
 #dim(tt_30ppt_v_35ppt_sig)
 #colnames(tt_25ppt_v_35ppt_sig)
-#dim(subset(tt_25ppt_v_35ppt_sig,logFC< -1 | logFC>1))
+dim(subset(tt_25ppt_v_35ppt_sig,logFC< -1 | logFC>1))
 logFC_1<-subset(tt_25ppt_v_35ppt_sig,logFC< -1 | logFC>1)
 #head(logFC_1)
-#dim(logFC_1)
+dim(logFC_1)
 #write.csv(logFC_1,"P_ast_salinity_67sig_logFC1.csv")
 #write.csv(logFC_1,"P_ast_salinity_54sig_logFC1.csv")
 write.csv(logFC_1,"P_ast_salinity_sig_logFC1.csv")
@@ -309,19 +310,25 @@ rownames(d) <- logFC_1[,18]
 colnames(d)<-c("25ppt_A","25ppt_B","25ppt_C","30ppt_A","30ppt_B","30ppt_C","35ppt_A","35ppt_B")
 hr <- hclust(as.dist(1-cor(t(d), method="pearson")), method="complete")
 mycl <- cutree(hr, h=max(hr$height/1.5))
+colorfunc <- colorRampPalette(c("red", "green"))
 clusterCols <- rainbow(length(unique(mycl)))
+clusterCols <- viridis(45, option = "D")
+clusterCols <- colorfunc(2)
 myClusterSideBar <- clusterCols[mycl]
 myheatcol <- greenred(75)
 #png("Salinity_heatmap_1.png", width = 7*300,height = 7*300,res = 1200,pointsize = 2)
+par(lwd=3)
 heatmap.2(d, main="25ppt vs. 35 ppt (padj<0.05,log2FC+-1)", 
           Rowv=as.dendrogram(hr),
           cexRow=0.5,cexCol=1,srtCol= 90,
-          adjCol = c(NA,0),offsetCol=2, 
+          adjCol = c(NA,0),offsetCol=5, 
           Colv=NA, dendrogram="row", 
           scale="row", col=myheatcol, 
           density.info="none", 
-          trace="none", RowSideColors= myClusterSideBar)
+          trace="none", RowSideColors= myClusterSideBar,edgePar=list(lwd=2))
 #dev.off()
+dev.print(jpeg, file = "~/Desktop/heatmap_aRt.jpeg", width = 15000, height = 12000, units = "px", res = 300)
+dev.off()
 ```
 
 Versions:
